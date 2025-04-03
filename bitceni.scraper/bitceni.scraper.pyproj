@@ -22,6 +22,25 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="bitceni.scraper.py" />
+    <Compile Include="Scrapers\TheA1Scraper.py" />
+    <Compile Include="Scrapers\TheAnanasScraper.py" />
+    <Compile Include="Scrapers\TheAnhochScraper.py" />
+    <Compile Include="Scrapers\TheDDStoreScraper.py" />
+    <Compile Include="Scrapers\TheGjirafaBScraper.py" />
+    <Compile Include="Scrapers\TheGjirafaGScraper.py" />
+    <Compile Include="Scrapers\TheGjirafaHScraper.py" />
+    <Compile Include="Scrapers\TheGjirafaSScraper.py" />
+    <Compile Include="Scrapers\TheHivetecScraper.py" />
+    <Compile Include="Scrapers\TheItMkScraper.py" />
+    <Compile Include="Scrapers\TheLaptopiMkScraper.py" />
+    <Compile Include="Scrapers\TheNeptunScraper.py" />
+    <Compile Include="Scrapers\TheSetecScraper.py" />
+    <Compile Include="Scrapers\TheTehnomarketScraper.py" />
+    <Compile Include="Scrapers\TheTelekomScraper.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="data\" />
+    <Folder Include="Scrapers\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
