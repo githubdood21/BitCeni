@@ -20,7 +20,7 @@ options.set_preference("useAutomationExtension", False)
 options.set_preference("general.useragent.override", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36")
 options.set_preference("permissions.default.image", 2)
 
-service = Service(r'geckodriver-v0.35.0-win32/geckodriver.exe')
+service = Service(r'bitceni.scraper/geckodriver/geckodriver.exe')
 
 options.binary_location = r'C:\Program Files\Mozilla Firefox\firefox.exe'
 
@@ -46,66 +46,69 @@ except Exception:
 
 
 
-# dropdown menu
-time.sleep(.5)
+try:
+    # dropdown menu
+    time.sleep(.5)
 
-ddm = driver.find_element(By.XPATH, "/html/body/div[3]/section[3]/div/div/div[2]/div/div[1]/div[2]/div[2]/div[3]/div")
-ddm.click()
+    ddm = driver.find_element(By.XPATH, "/html/body/div[3]/section[3]/div/div/div[2]/div/div[1]/div[2]/div[2]/div[3]/div")
+    ddm.click()
 
-# select '50' results
-time.sleep(.5)
+    # select '50' results
+    time.sleep(.5)
 
-fifty = driver.find_element(By.XPATH, "/html/body/div[3]/section[3]/div/div/div[2]/div/div[1]/div[2]/div[2]/div[3]/div/ul/li[5]")
-fifty.click()
+    fifty = driver.find_element(By.XPATH, "/html/body/div[3]/section[3]/div/div/div[2]/div/div[1]/div[2]/div[2]/div[3]/div/ul/li[5]")
+    fifty.click()
 
-time.sleep(1)
+    time.sleep(1)
 
-jsonArr = []
+    jsonArr = []
 
-while True:
-    WebDriverWait(driver, 10).until(
-        EC.presence_of_all_elements_located((By.CLASS_NAME, "product-card"))
-    )
-    productCard = driver.find_elements(By.CLASS_NAME, "product-card")
-
-    for card in productCard:
-        driver.execute_script("arguments[0].scrollIntoView();", card)
-        productName = card.find_element(By.CLASS_NAME, "product-name").text.strip()
-        cleanName = productName.replace("[OUTLET]", "").strip()
-
-        productLink = card.find_element(By.CLASS_NAME, "product-name").get_attribute("href")
-    
-        try:
-            productPrice = card.find_element(By.XPATH, ".//div[contains(@class, 'product-card-bottom')]//div[contains(@class, 'product-price')]").text.strip()
-            cleanPrice = productPrice.replace(".", "").split(",")[0].strip()
-    
-        except Exception:
-            cleanPrice = "N/A"
-    
-        productData = {
-            "name": cleanName,
-            "price": cleanPrice,
-            "link": productLink
-        }
-        
-        print(f"{cleanPrice}, {cleanName}, {productLink}") # print product name in consoles
-    
-        jsonArr.append(productData)
-
-    try:
-        nextButton = WebDriverWait(driver, 10).until(
-            EC.element_to_be_clickable((By.XPATH, "//button[contains(@class, 'page-link')]/i[contains(@class, 'la-angle-right')]"))
+    while True:
+        WebDriverWait(driver, 10).until(
+            EC.presence_of_all_elements_located((By.CLASS_NAME, "product-card"))
         )
-        time.sleep(1)  # wait for the button to be clickable
-        nextButton.click()
-        time.sleep(5) # wait for page to load
-    except Exception:
-        print("No more pages to scrape.")
-        break
+        productCard = driver.find_elements(By.CLASS_NAME, "product-card")
+
+        for card in productCard:
+            driver.execute_script("arguments[0].scrollIntoView();", card)
+            productName = card.find_element(By.CLASS_NAME, "product-name").text.strip()
+            cleanName = productName.replace("[OUTLET]", "").strip()
+
+            productLink = card.find_element(By.CLASS_NAME, "product-name").get_attribute("href")
+
+            try:
+                productPrice = card.find_element(By.XPATH, ".//div[contains(@class, 'product-card-bottom')]//div[contains(@class, 'product-price')]").text.strip()
+                cleanPrice = productPrice.replace(".", "").split(",")[0].strip()
+
+            except Exception:
+                cleanPrice = "N/A"
+
+            productData = {
+                "name": cleanName,
+                "price": cleanPrice,
+                "link": productLink
+            }
+
+            print(f"{cleanPrice}, {cleanName}, {productLink}") # print product name in consoles
+
+            jsonArr.append(productData)
+
+        try:
+            nextButton = WebDriverWait(driver, 10).until(
+                EC.element_to_be_clickable((By.XPATH, "//button[contains(@class, 'page-link')]/i[contains(@class, 'la-angle-right')]"))
+            )
+            time.sleep(1)  # wait for the button to be clickable
+            nextButton.click()
+            time.sleep(5) # wait for page to load
+        except Exception:
+            print("No more pages to scrape.")
+            break
+except Exception as e:
+    print(f"An error occurred: {e}")
 
 
 
-with open('data\\anhoch.json', 'w') as json_file:
+with open('bitceni.scraper\\data\\anhoch.json', 'w') as json_file:
     json.dump(jsonArr, json_file, indent=4)
 
 driver.quit()

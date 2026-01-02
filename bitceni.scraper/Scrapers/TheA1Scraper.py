@@ -20,7 +20,7 @@ options.set_preference("useAutomationExtension", False)
 options.set_preference("general.useragent.override", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36")
 options.set_preference("permissions.default.image", 2)
 
-service = Service(r'geckodriver-v0.35.0-win32/geckodriver.exe')
+service = Service('bitceni.scraper/geckodriver/geckodriver.exe')
 
 options.binary_location = r'C:\Program Files\Mozilla Firefox\firefox.exe'
 
@@ -46,53 +46,56 @@ except Exception:
 
 jsonArr = []
 
-while True:
-    WebDriverWait(driver, 10).until(
-        EC.presence_of_all_elements_located((By.CLASS_NAME, "dvc-idtfr"))
-    )
-
-    try:
-        showMoreBtn = WebDriverWait(driver, 10).until(
-            EC.element_to_be_clickable((By.ID, "showMore"))
+try:
+    while True:
+        WebDriverWait(driver, 10).until(
+            EC.presence_of_all_elements_located((By.CLASS_NAME, "dvc-idtfr"))
         )
-        time.sleep(1)  # wait for the button to be clickable
-        showMoreBtn.click()
-        time.sleep(4) # wait for page to load
-    except Exception:
-        print("No more to show.")
-        break
 
-    productCard = driver.find_elements(By.CLASS_NAME, "dvc-idtfr")
-
-    for card in productCard:
-        driver.execute_script("arguments[0].scrollIntoView();", card)
-        productName = card.find_element(By.CLASS_NAME, "brand-name").text.strip()
-        cleanName = productName.replace("\n", " ").strip()
-
-        productLink = card.find_element(By.CLASS_NAME, "device-link").get_attribute("href")
-    
         try:
-            productPrice = card.find_element(By.CLASS_NAME, "cena").text.strip()
-            cleanPrice = productPrice.replace(".", "").split("ден")[0].strip()
-            intedPrice = int(cleanPrice)
-            cleanPrice = intedPrice * 24
-    
+            showMoreBtn = WebDriverWait(driver, 10).until(
+                EC.element_to_be_clickable((By.ID, "showMore"))
+            )
+            time.sleep(1)  # wait for the button to be clickable
+            showMoreBtn.click()
+            time.sleep(4) # wait for page to load
         except Exception:
-            cleanPrice = "N/A"
-    
-        productData = {
-            "name": cleanName,
-            "price": cleanPrice,
-            "link": productLink
-        }
-        
-        print(f"{cleanPrice}, {productName}, {productLink}") # print product name in consoles
-    
-        jsonArr.append(productData)
+            print("No more to show.")
+            break
+
+        productCard = driver.find_elements(By.CLASS_NAME, "dvc-idtfr")
+
+        for card in productCard:
+            driver.execute_script("arguments[0].scrollIntoView();", card)
+            productName = card.find_element(By.CLASS_NAME, "brand-name").text.strip()
+            cleanName = productName.replace("\n", " ").strip()
+
+            productLink = card.find_element(By.CLASS_NAME, "device-link").get_attribute("href")
+
+            try:
+                productPrice = card.find_element(By.CLASS_NAME, "cena").text.strip()
+                cleanPrice = productPrice.replace(".", "").split("ден")[0].strip()
+                intedPrice = int(cleanPrice)
+                cleanPrice = intedPrice * 24
+
+            except Exception:
+                cleanPrice = "N/A"
+
+            productData = {
+                "name": cleanName,
+                "price": cleanPrice,
+                "link": productLink
+            }
+
+            print(f"{cleanPrice}, {productName}, {productLink}") # print product name in consoles
+
+            jsonArr.append(productData)
+except Exception:
+    print("An error occurred during scraping.")
 
 
 
-with open('data\\a1.json', 'w') as json_file:
+with open('bitceni.scraper\\data\\a1.json', 'w') as json_file:
     json.dump(jsonArr, json_file, indent=4)
 
 driver.quit()
