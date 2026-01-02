@@ -1,0 +1,142 @@
+[2026-01-02 16:34:45] ===== SCRAPER RUN STARTED =====
+[2026-01-02 16:34:45] Running TheA1Scraper.py (attempt 1/1)
+[2026-01-02 16:35:16] SUCCESS: TheA1Scraper.py
+[2026-01-02 16:35:16] Output: 27696, DELL
+Insp 3535 Ryzen7 7730U 16/1TB, https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/dell-insp-3535-ryzen7-7730u-16-1tb/1000050221
+7776, DELL
+15 Core 3-100U 16/512GB, https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/dell-15-core-3-100u-16-512gb/1000060546
+12576, DELL
+15 i5-1334U 16/512GB, https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/dell-15-i5-1334u-16-512gb/1000060547
+20976, DELL
+15 i7-1355U 16/512GB, https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/dell-15-i7-1355u-16-512gb/1000060548
+22176, HP
+250 G10 Intel i5-1334U 8/512GB, https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/hp-250-g10-intel-i5-1334u-8-512gb/1000057381
+16176, HP
+250 G9 i5-1334U 16/1TB, https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/hp-250-g9-i5-1334u-16-1tb/1000060555
+12576, HP
+250 G9 i5-1334U 16/512GB, https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/hp-250-g9-i5-1334u-16-512gb/1000060557
+10176, HP
+255 G10 R5-7530U 16/512GB, https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/hp-255-g10-r5-7530u-16-512gb/1000060558
+89592, DELL
+Alien Core 7 240H 16/1TB 4050, https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/dell-alien-core-7-240h-16-1tb-4050/1000060535
+108792, DELL
+Alien Core 7 240H 32/1TB 5060, https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/dell-alien-core-7-240h-32-1tb-5060/1000060536
+79992, DELL
+Alienware Core 5 210H 16/512GB, https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/dell-alienware-core-5-210h-16-512gb/1000060534
+16176, Acer
+Aspire Go R7 5825U 20/512GB, https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/acer-aspire-go-r7-5825u-20-512gb/1000060554
+22176, DELL
+Dell_I 16 Core 5-120U 16/512GB, https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/dell-dell_i-16-core-5-120u-16-512gb/1000060550
+48576, HP
+EliteBook Intel U5 125U 16/512, https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/hp-elitebook-intel-u5-125u-16-512/1000057382
+11376, Acer
+Extensa R5 7520U 16/512GB, https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/acer-extensa-r5-7520u-16-512gb/1000060553
+19512, Lenovo
+IPS3 15ARP10 R5 7533HS 16/512G, https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/lenovo-ips3-15arp10-r5-7533hs-16-512g/1000055583
+8976, Lenovo
+IPS3 R5 7520U 16/512GB, https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/lenovo-ips3-r5-7520u-16-512gb/1000060542
+18576, Lenovo
+IPS3 R7 7735HS 16/1TB, https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/lenovo-ips3-r7-7735hs-16-1tb/1000060543
+14976, Lenovo
+IPS3 i5-13420H 16/512GB, https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/lenovo-ips3-i5-13420h-16-512gb/1000060545
+20976, Lenovo
+IPS3 i7-13620H 16/512GB, https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/lenovo-ips3-i7-13620h-16-512gb/1000060544
+44976, Apple
+MBA 13.6 M2/8C CPU/8C/16/256GB, https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/apple-mba-13.6-m2-8c-cpu-8c-16-256gb/1000059990
+47088, Apple
+MBA 13.6/M4/10C CPU/8C GPU/16/, https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/apple-mba-13.6-m4-10c-cpu-8c-gpu-16/1000060537
+28656, HP
+Pavilon i5 1335U 12/512GB, https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/hp-pavilon-i5-1335u-12-512gb/1000059227
+6576, DELL
+Pro 5 Essential R5 7520U 8/512, https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/dell-pro-5-essential-r5-7520u-8-512/1000060549
+53592, Acer
+SwiftGo 16 Ultra 5 16/1TB, https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/acer-swiftgo-16-ultra-5-16-1tb/1000057528
+19536, DELL
+Vostro 3530 i3-1305U 8/512GB, https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/dell-vostro-3530-i3-1305u-8-512gb/1000051820
+No more to show.
+[2026-01-02 16:35:16] Running TheAnanasScraper.py (attempt 1/1)
+[2026-01-02 16:35:32] SUCCESS: TheAnanasScraper.py
+[2026-01-02 16:35:32] Output: An error occurred: Message: Unable to locate element: .sc-492kdg-0; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:555:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+[2026-01-02 16:35:32] Running TheAnhochScraper.py (attempt 1/1)
+[2026-01-02 16:36:19] EXCEPTION: TheAnhochScraper.py raised an exception on attempt 1
+[2026-01-02 16:36:19] 'utf-8' codec can't decode byte 0x94 in position 27876: invalid start byte
+[2026-01-02 16:36:19] FAILED: TheAnhochScraper.py failed after 1 attempts
+[2026-01-02 16:36:19] Running TheDDStoreScraper.py (attempt 1/1)
+[2026-01-02 16:37:19] TIMEOUT: TheDDStoreScraper.py exceeded 1 minutes. Killing process...
+[2026-01-02 16:37:19] FAILED: TheDDStoreScraper.py failed after 1 attempts
+[2026-01-02 16:37:19] Running TheGjirafaBScraper.py (attempt 1/1)
+[2026-01-02 16:37:37] SUCCESS: TheGjirafaBScraper.py
+[2026-01-02 16:37:37] Output: An error occurred: 'charmap' codec can't encode characters in position 7-12: character maps to <undefined>
+[2026-01-02 16:37:37] Running TheGjirafaGScraper.py (attempt 1/1)
+[2026-01-02 16:37:55] SUCCESS: TheGjirafaGScraper.py
+[2026-01-02 16:37:55] Output: An error occurred: 'charmap' codec can't encode characters in position 7-12: character maps to <undefined>
+[2026-01-02 16:37:55] Running TheGjirafaHScraper.py (attempt 1/1)
+[2026-01-02 16:38:17] SUCCESS: TheGjirafaHScraper.py
+[2026-01-02 16:38:17] Output: No more to show.
+[2026-01-02 16:38:17] Running TheGjirafaSScraper.py (attempt 1/1)
+[2026-01-02 16:38:39] SUCCESS: TheGjirafaSScraper.py
+[2026-01-02 16:38:39] Output: No more to show.
+[2026-01-02 16:38:39] Running TheHivetecScraper.py (attempt 1/1)
+[2026-01-02 16:39:39] TIMEOUT: TheHivetecScraper.py exceeded 1 minutes. Killing process...
+[2026-01-02 16:39:39] FAILED: TheHivetecScraper.py failed after 1 attempts
+[2026-01-02 16:39:39] Running TheItMkScraper.py (attempt 1/1)
+[2026-01-02 16:39:57] SUCCESS: TheItMkScraper.py
+[2026-01-02 16:39:57] Output: An error occurred: 'charmap' codec can't encode character '\u2033' in position 18: character maps to <undefined>
+[2026-01-02 16:39:57] Running TheLaptopiMkScraper.py (attempt 1/1)
+[2026-01-02 16:40:57] TIMEOUT: TheLaptopiMkScraper.py exceeded 1 minutes. Killing process...
+[2026-01-02 16:40:57] FAILED: TheLaptopiMkScraper.py failed after 1 attempts
+[2026-01-02 16:40:57] Running TheNeptunScraper.py (attempt 1/1)
+[2026-01-02 16:41:57] TIMEOUT: TheNeptunScraper.py exceeded 1 minutes. Killing process...
+[2026-01-02 16:41:57] FAILED: TheNeptunScraper.py failed after 1 attempts
+[2026-01-02 16:41:57] Running TheSetecScraper.py (attempt 1/1)
+[2026-01-02 16:42:57] TIMEOUT: TheSetecScraper.py exceeded 1 minutes. Killing process...
+[2026-01-02 16:42:57] FAILED: TheSetecScraper.py failed after 1 attempts
+[2026-01-02 16:42:57] Running TheTehnomarketScraper.py (attempt 1/1)
+[2026-01-02 16:43:12] EXCEPTION: TheTehnomarketScraper.py raised an exception on attempt 1
+[2026-01-02 16:43:12] 'utf-8' codec can't decode byte 0x94 in position 3865: invalid start byte
+[2026-01-02 16:43:12] FAILED: TheTehnomarketScraper.py failed after 1 attempts
+[2026-01-02 16:43:12] Running TheTelekomScraper.py (attempt 1/1)
+[2026-01-02 16:44:12] TIMEOUT: TheTelekomScraper.py exceeded 1 minutes. Killing process...
+[2026-01-02 16:44:12] FAILED: TheTelekomScraper.py failed after 1 attempts
+[2026-01-02 16:44:12] ===== RUN SUMMARY =====
+[2026-01-02 16:44:12] Total scrapers run: 15
+[2026-01-02 16:44:12] Succeeded: 7
+[2026-01-02 16:44:12] Failed: 8
+[2026-01-02 16:44:12] Successful scrapers:
+[2026-01-02 16:44:12]   - TheA1Scraper.py
+[2026-01-02 16:44:12]   - TheAnanasScraper.py
+[2026-01-02 16:44:12]   - TheGjirafaBScraper.py
+[2026-01-02 16:44:12]   - TheGjirafaGScraper.py
+[2026-01-02 16:44:12]   - TheGjirafaHScraper.py
+[2026-01-02 16:44:12]   - TheGjirafaSScraper.py
+[2026-01-02 16:44:12]   - TheItMkScraper.py
+[2026-01-02 16:44:12] Failed scrapers:
+[2026-01-02 16:44:12]   - TheAnhochScraper.py
+[2026-01-02 16:44:12]   - TheDDStoreScraper.py
+[2026-01-02 16:44:12]   - TheHivetecScraper.py
+[2026-01-02 16:44:12]   - TheLaptopiMkScraper.py
+[2026-01-02 16:44:12]   - TheNeptunScraper.py
+[2026-01-02 16:44:12]   - TheSetecScraper.py
+[2026-01-02 16:44:12]   - TheTehnomarketScraper.py
+[2026-01-02 16:44:12]   - TheTelekomScraper.py
+[2026-01-02 16:44:12] Scanning JSON output files
+[2026-01-02 16:44:13] JSON files found: 13 / 15
+[2026-01-02 16:44:13] Empty JSON files:
+[2026-01-02 16:44:13]   - hivetec.json
+[2026-01-02 16:44:13]   - neptun.json
+[2026-01-02 16:44:13]   - setec.json
+[2026-01-02 16:44:13]   - telekom.json
+[2026-01-02 16:44:13] JSON files with empty arrays:
+[2026-01-02 16:44:13]   - ananas.json
+[2026-01-02 16:44:13]   - gjirafaB.json
+[2026-01-02 16:44:13]   - gjirafaG.json
+[2026-01-02 16:44:13]   - gjirafaH.json
+[2026-01-02 16:44:13]   - gjirafaS.json
+[2026-01-02 16:44:13]   - itmk.json
+[2026-01-02 16:44:13] Metadata written to 2026-01-02_16-44-13.json
+[2026-01-02 16:44:13] ===== SCRAPER RUN FINISHED =====

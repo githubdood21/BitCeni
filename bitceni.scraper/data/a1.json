@@ -1,0 +1,132 @@
+[
+    {
+        "name": "DELL Insp 3535 Ryzen7 7730U 16/1TB",
+        "price": 27696,
+        "link": "https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/dell-insp-3535-ryzen7-7730u-16-1tb/1000050221"
+    },
+    {
+        "name": "DELL 15 Core 3-100U 16/512GB",
+        "price": 7776,
+        "link": "https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/dell-15-core-3-100u-16-512gb/1000060546"
+    },
+    {
+        "name": "DELL 15 i5-1334U 16/512GB",
+        "price": 12576,
+        "link": "https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/dell-15-i5-1334u-16-512gb/1000060547"
+    },
+    {
+        "name": "DELL 15 i7-1355U 16/512GB",
+        "price": 20976,
+        "link": "https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/dell-15-i7-1355u-16-512gb/1000060548"
+    },
+    {
+        "name": "HP 250 G10 Intel i5-1334U 8/512GB",
+        "price": 22176,
+        "link": "https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/hp-250-g10-intel-i5-1334u-8-512gb/1000057381"
+    },
+    {
+        "name": "HP 250 G9 i5-1334U 16/1TB",
+        "price": 16176,
+        "link": "https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/hp-250-g9-i5-1334u-16-1tb/1000060555"
+    },
+    {
+        "name": "HP 250 G9 i5-1334U 16/512GB",
+        "price": 12576,
+        "link": "https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/hp-250-g9-i5-1334u-16-512gb/1000060557"
+    },
+    {
+        "name": "HP 255 G10 R5-7530U 16/512GB",
+        "price": 10176,
+        "link": "https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/hp-255-g10-r5-7530u-16-512gb/1000060558"
+    },
+    {
+        "name": "DELL Alien Core 7 240H 16/1TB 4050",
+        "price": 89592,
+        "link": "https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/dell-alien-core-7-240h-16-1tb-4050/1000060535"
+    },
+    {
+        "name": "DELL Alien Core 7 240H 32/1TB 5060",
+        "price": 108792,
+        "link": "https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/dell-alien-core-7-240h-32-1tb-5060/1000060536"
+    },
+    {
+        "name": "DELL Alienware Core 5 210H 16/512GB",
+        "price": 79992,
+        "link": "https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/dell-alienware-core-5-210h-16-512gb/1000060534"
+    },
+    {
+        "name": "Acer Aspire Go R7 5825U 20/512GB",
+        "price": 16176,
+        "link": "https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/acer-aspire-go-r7-5825u-20-512gb/1000060554"
+    },
+    {
+        "name": "DELL Dell_I 16 Core 5-120U 16/512GB",
+        "price": 22176,
+        "link": "https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/dell-dell_i-16-core-5-120u-16-512gb/1000060550"
+    },
+    {
+        "name": "HP EliteBook Intel U5 125U 16/512",
+        "price": 48576,
+        "link": "https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/hp-elitebook-intel-u5-125u-16-512/1000057382"
+    },
+    {
+        "name": "Acer Extensa R5 7520U 16/512GB",
+        "price": 11376,
+        "link": "https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/acer-extensa-r5-7520u-16-512gb/1000060553"
+    },
+    {
+        "name": "Lenovo IPS3 15ARP10 R5 7533HS 16/512G",
+        "price": 19512,
+        "link": "https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/lenovo-ips3-15arp10-r5-7533hs-16-512g/1000055583"
+    },
+    {
+        "name": "Lenovo IPS3 R5 7520U 16/512GB",
+        "price": 8976,
+        "link": "https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/lenovo-ips3-r5-7520u-16-512gb/1000060542"
+    },
+    {
+        "name": "Lenovo IPS3 R7 7735HS 16/1TB",
+        "price": 18576,
+        "link": "https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/lenovo-ips3-r7-7735hs-16-1tb/1000060543"
+    },
+    {
+        "name": "Lenovo IPS3 i5-13420H 16/512GB",
+        "price": 14976,
+        "link": "https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/lenovo-ips3-i5-13420h-16-512gb/1000060545"
+    },
+    {
+        "name": "Lenovo IPS3 i7-13620H 16/512GB",
+        "price": 20976,
+        "link": "https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/lenovo-ips3-i7-13620h-16-512gb/1000060544"
+    },
+    {
+        "name": "Apple MBA 13.6 M2/8C CPU/8C/16/256GB",
+        "price": 44976,
+        "link": "https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/apple-mba-13.6-m2-8c-cpu-8c-16-256gb/1000059990"
+    },
+    {
+        "name": "Apple MBA 13.6/M4/10C CPU/8C GPU/16/",
+        "price": 47088,
+        "link": "https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/apple-mba-13.6-m4-10c-cpu-8c-gpu-16/1000060537"
+    },
+    {
+        "name": "HP Pavilon i5 1335U 12/512GB",
+        "price": 28656,
+        "link": "https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/hp-pavilon-i5-1335u-12-512gb/1000059227"
+    },
+    {
+        "name": "DELL Pro 5 Essential R5 7520U 8/512",
+        "price": 6576,
+        "link": "https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/dell-pro-5-essential-r5-7520u-8-512/1000060549"
+    },
+    {
+        "name": "Acer SwiftGo 16 Ultra 5 16/1TB",
+        "price": 53592,
+        "link": "https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/acer-swiftgo-16-ultra-5-16-1tb/1000057528"
+    },
+    {
+        "name": "DELL Vostro 3530 i3-1305U 8/512GB",
+        "price": 19536,
+        "link": "https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/dell-vostro-3530-i3-1305u-8-512gb/1000051820"
+    }
+]

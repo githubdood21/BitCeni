@@ -1,0 +1,37 @@
+{
+  "run_timestamp": "2026-01-02_16-44-13",
+  "total_scrapers": 15,
+  "succeeded": [
+    "TheA1Scraper.py",
+    "TheAnanasScraper.py",
+    "TheGjirafaBScraper.py",
+    "TheGjirafaGScraper.py",
+    "TheGjirafaHScraper.py",
+    "TheGjirafaSScraper.py",
+    "TheItMkScraper.py"
+  ],
+  "failed": [
+    "TheAnhochScraper.py",
+    "TheDDStoreScraper.py",
+    "TheHivetecScraper.py",
+    "TheLaptopiMkScraper.py",
+    "TheNeptunScraper.py",
+    "TheSetecScraper.py",
+    "TheTehnomarketScraper.py",
+    "TheTelekomScraper.py"
+  ],
+  "empty_json_files": [
+    "hivetec.json",
+    "neptun.json",
+    "setec.json",
+    "telekom.json"
+  ],
+  "empty_json_arrays": [
+    "ananas.json",
+    "gjirafaB.json",
+    "gjirafaG.json",
+    "gjirafaH.json",
+    "gjirafaS.json",
+    "itmk.json"
+  ]
+}

@@ -1,0 +1,977 @@
+[
+    {
+        "name": "Notebook Lenovo Ideapad 5 2in1 Ultra 7 255U/16GB/512GB/14\" WUXGA IPS Touch/Backlit KB/Pen/Win11",
+        "price": "47980",
+        "link": "https://www.anhoch.com/products/notebook-lenovo-ideapad-5-2in1-ultra-7-255u16gb512gb14-wuxga-ips-touchbacklit-kbpenwin11-7658"
+    },
+    {
+        "name": "Notebook Lenovo Yoga 7 2in1 Ultra 7 155U/16GB/1TB SSD/16\" WUXGA IPS Touch/Backlit KB/Win11",
+        "price": "52980",
+        "link": "https://www.anhoch.com/products/notebook-lenovo-yoga-7-2in1-ultra-7-155u16gb1tb-ssd16-wuxga-ips-touchbacklit-kbwin11-7659"
+    },
+    {
+        "name": "Notebook HP 255 G10 Ryzen 7 7730U/16GB/512GB/15.6\" FHD IPS/USB-C/Dark Ash Silver",
+        "price": "24980",
+        "link": "https://www.anhoch.com/products/notebook-hp-255-g10-ryzen-7-7730u16gb512gb156-fhd-ipsusbcdark-ash-silver-7662"
+    },
+    {
+        "name": "Notebook Lenovo IdeaPad Slim 5 Intel Core 5 210H/16GB/512GB/14\" WUXGA IPS/BacklitKB",
+        "price": "37980",
+        "link": "https://www.anhoch.com/products/notebook-lenovo-ideapad-slim-5-intel-core-5-210h16gb512gb14-wuxga-ipsbacklitkb-7937"
+    },
+    {
+        "name": "Notebook Acer Nitro Gaming Ryzen 7 250/16GB/512GB/RTX 5050 8GB/16\" WUXGA IPS 180Hz/Win11",
+        "price": "62980",
+        "link": "https://www.anhoch.com/products/notebook-acer-nitro-gaming-ryzen-7-25016gb512gbrtx-5050-8gb16-wuxga-ips-180hzwin11-7942"
+    },
+    {
+        "name": "Notebook Lenovo IdeaPad Slim 3 i5-13420H/16GB/512GB/15.3\" WUXGA IPS/No OS",
+        "price": "25980",
+        "link": "https://www.anhoch.com/products/notebook-lenovo-ideapad-slim-3-i513420h16gb512gb153-wuxga-ipsno-os-7706"
+    },
+    {
+        "name": "Notebook Acer Aspire Lite AL16-52P i5-1334U/16GB/512GB/16\" FHD IPS/No OS",
+        "price": "24980",
+        "link": "https://www.anhoch.com/products/notebook-acer-aspire-lite-al1652p-i51334u16gb512gb16-fhd-ipsno-os-8242"
+    },
+    {
+        "name": "Notebook HP Laptop 15 Intel Core 5 120U/16GB/512GB/15.6\" FullHD IPS/FreeDOS",
+        "price": "26980",
+        "link": "https://www.anhoch.com/products/notebook-hp-laptop-15-intel-core-5-120u16gb512gb156-fullhd-ipsfreedos-8255"
+    },
+    {
+        "name": "Notebook Acer Aspire 3 Ryzen 7 7730U/16GB/512GB SSD/15.6\" FHD IPS/Backlit Kb/DOS",
+        "price": "25480",
+        "link": "https://www.anhoch.com/products/notebook-acer-aspire-3-ryzen-7-7730u16gb512gb-ssd156-fhd-ipsbacklit-kbdos-7758"
+    },
+    {
+        "name": "Notebook HP 250 G10 i3-1315U/8GB/512GB/15.6\" FullHD IPS/USB-C/HDMI",
+        "price": "19980",
+        "link": "https://www.anhoch.com/products/notebook-hp-250-g10-i31315u8gb512gb156-fullhd-ipsusbchdmi-8528"
+    },
+    {
+        "name": "Notebook Gigabyte A16 Gaming Ryzen 7 260/16GB/512GB SSD/RTX 5050 8GB/16.0\" FHD+ 165Hz IPS/Type-C/DOS",
+        "price": "59980",
+        "link": "https://www.anhoch.com/products/notebook-gigabyte-a16-gaming-ryzen-7-26016gb512gb-ssdrtx-5050-8gb160-fhd-plus--165hz-ipstypecdos-8283"
+    },
+    {
+        "name": "Notebook Asus F1504VA i7-1355U/16GB/1TB SSD/15.6\" FHD Touch/KB Backlit/Win11",
+        "price": "37980",
+        "link": "https://www.anhoch.com/products/notebook-asus-f1504va-i71355u16gb1tb-ssd156-fhd-touchkb-backlitwin11-8297"
+    },
+    {
+        "name": "Notebook Gigabyte A16 Gaming i7-13620H/16GB/512GB SSD/RTX 4050 6GB/16.0\" FHD+ 165Hz IPS/Type-C/Win11",
+        "price": "54980",
+        "link": "https://www.anhoch.com/products/notebook-gigabyte-a16-gaming-i713620h16gb512gb-ssdrtx-4050-6gb160-fhd-plus--165hz-ipstypecwin11-8303"
+    },
+    {
+        "name": "Notebook Asus TUF Gaming Ryzen 7 7445HS/16GB/512GB/RTX4050 6GB/16\" WUXGA IPS 144Hz/Backlit Kb/Win11",
+        "price": "51980",
+        "link": "https://www.anhoch.com/products/notebook-asus-tuf-gaming-ryzen-7-7445hs16gb512gbrtx4050-6gb16-wuxga-ips-144hzbacklit-kbwin11-7795"
+    },
+    {
+        "name": "Notebook MSI Thin 15 Gaming i5-13420H/16GB/512GB/RTX3050 4GB/15.6\" FHD 144Hz/Backlit Kb/Win11",
+        "price": "39980",
+        "link": "https://www.anhoch.com/products/notebook-msi-thin-15-gaming-i513420h16gb512gbrtx3050-4gb156-fhd-144hzbacklit-kbwin11-7796"
+    },
+    {
+        "name": "Notebook Dell Pro 16 Ryzen 7 250/16GB/1TB/16\" FHD Touch IPS/Backlit Kb/Win11",
+        "price": "41980",
+        "link": "https://www.anhoch.com/products/notebook-dell-pro-16-ryzen-7-25016gb1tb16-fhd-touch-ipsbacklit-kbwin11-8310"
+    },
+    {
+        "name": "Notebook Acer Nitro Gaming Ryzen 5 240/16GB/512GB/RTX 5050 8GB/16\" WUXGA IPS 180Hz/Win11",
+        "price": "51980",
+        "link": "https://www.anhoch.com/products/notebook-acer-nitro-gaming-ryzen-5-24016gb512gbrtx-5050-8gb16-wuxga-ips-180hzwin11-7801"
+    },
+    {
+        "name": "Notebook Gigabyte A16 Gaming i5-13420H/16GB/512GB SSD/RTX 4050 6GB/16.0\" FHD+ 165Hz IPS/Type-C/DOS",
+        "price": "46980",
+        "link": "https://www.anhoch.com/products/notebook-gigabyte-a16-gaming-i513420h16gb512gb-ssdrtx-4050-6gb160-fhd-plus--165hz-ipstypecdos-6522"
+    },
+    {
+        "name": "Notebook Asus VivoBook 14 X1404VA i7-1355U/12GB/512GB/14\" FHD IPS/BT/Win11/Blue",
+        "price": "29980",
+        "link": "https://www.anhoch.com/products/notebook-asus-vivobook-14-x1404va-i71355u12gb512gb14-fhd-ipsbtwin11blue-7802"
+    },
+    {
+        "name": "Notebook Acer Aspire Go 15 i5-1334U/8GB/256GB/15.3\" WUXGA IPS/Win11",
+        "price": "22980",
+        "link": "https://www.anhoch.com/products/notebook-acer-aspire-go-15-i51334u8gb256gb153-wuxga-ipswin11-7804"
+    },
+    {
+        "name": "Notebook Lenovo IdeaPad Slim 3 Ryzen 5 8540U/8GB/512GB/15.3\" WUXGA Touch IPS/Backlit KB/Win11",
+        "price": "27980",
+        "link": "https://www.anhoch.com/products/notebook-lenovo-ideapad-slim-3-ryzen-5-8540u8gb512gb153-wuxga-touch-ipsbacklit-kbwin11-8067"
+    },
+    {
+        "name": "Notebook HP 255R G10 Ryzen 7 7735U/16GB/512GB/15.6\" FHD IPS/USB-C/Dark Silver",
+        "price": "28980",
+        "link": "https://www.anhoch.com/products/notebook-hp-255r-g10-ryzen-7-7735u16gb512gb156-fhd-ipsusbcdark-silver-8072"
+    },
+    {
+        "name": "Notebook HP 15 Intel i5-1334U/16GB/512GB/15.6\" FHD IPS/Iris XE/Type-C/FreeDOS",
+        "price": "25980",
+        "link": "https://www.anhoch.com/products/notebook-hp-15-intel-i51334u16gb512gb156-fhd-ipsiris-xetypecfreedos-8330"
+    },
+    {
+        "name": "Notebook Lenovo V15 Business G4 Ryzen 3 7320U/16GB/512GB/15.6\" FHD/USB-C/Black",
+        "price": "21980",
+        "link": "https://www.anhoch.com/products/notebook-lenovo-v15-business-g4-ryzen-3-7320u16gb512gb156-fhdusbcblack-8074"
+    },
+    {
+        "name": "Notebook HP 250 G10 Intel Core 5 120U/16GB/512GB/15.6\" FullHD/USB-C/DOS",
+        "price": "24980",
+        "link": "https://www.anhoch.com/products/notebook-hp-250-g10-intel-core-5-120u16gb512gb156-fullhdusbcdos-8331"
+    },
+    {
+        "name": "Notebook HP Victus Gaming i7-13620H/16GB/512GB SSD/RTX 5060 8GB/15.6\" FHD 144Hz IPS/Win11/Silver",
+        "price": "69980",
+        "link": "https://www.anhoch.com/products/notebook-hp-victus-gaming-i713620h16gb512gb-ssdrtx-5060-8gb156-fhd-144hz-ipswin11silver-7819"
+    },
+    {
+        "name": "Notebook HP 250 G10 Intel Core 5 120U/8GB/512GB/15.6\" FullHD/USB-C/DOS",
+        "price": "23480",
+        "link": "https://www.anhoch.com/products/notebook-hp-250-g10-intel-core-5-120u8gb512gb156-fullhdusbcdos-8332"
+    },
+    {
+        "name": "Notebook Dell 15 i7-1355U/16GB/512GB/15.6\" FHD 120Hz/BacklitKB/FreeDOS",
+        "price": "30980",
+        "link": "https://www.anhoch.com/products/notebook-dell-15-i71355u16gb512gb156-fhd-120hzbacklitkbfreedos-8333"
+    },
+    {
+        "name": "Notebook Lenovo IdeaPad Slim 3 Intel Core 5 210H/8GB/512GB/15.3\" WUXGA IPS Touch/Win11",
+        "price": "29980",
+        "link": "https://www.anhoch.com/products/notebook-lenovo-ideapad-slim-3-intel-core-5-210h8gb512gb153-wuxga-ips-touchwin11-8077"
+    },
+    {
+        "name": "Notebook Lenovo IdeaPad Slim 3 i7-13620H/16GB/512GB/15.3\" FHD IPS/USB-C/Luna Grey",
+        "price": "32980",
+        "link": "https://www.anhoch.com/products/notebook-lenovo-ideapad-slim-3-i713620h16gb512gb153-fhd-ipsusbcluna-grey-8336"
+    },
+    {
+        "name": "Notebook Acer Aspire Go 15 Ryzen 5 7520U/8GB/512GB/15.6\" FHD IPS Touch/Win11/Silver",
+        "price": "23480",
+        "link": "https://www.anhoch.com/products/notebook-acer-aspire-go-15-ryzen-5-7520u8gb512gb156-fhd-ips-touchwin11silver-7824"
+    },
+    {
+        "name": "Notebook Dell 15 i5-1334U/8GB/512GB/15.6\" FHD 120Hz/BacklitKB",
+        "price": "23480",
+        "link": "https://www.anhoch.com/products/notebook-dell-15-i51334u8gb512gb156-fhd-120hzbacklitkb-8338"
+    },
+    {
+        "name": "Notebook Lenovo IdeaPad Slim 3 Ryzen 5 7520U/16GB/512GB/15.6\" FHD/USB-C",
+        "price": "21980",
+        "link": "https://www.anhoch.com/products/notebook-lenovo-ideapad-slim-3-ryzen-5-7520u16gb512gb156-fhdusbc-8340"
+    },
+    {
+        "name": "Notebook HP 15 Ryzen 7 7730U/16GB/512GB/15.6\" FHD IPS Touchscreen/Win11/Natural Silver",
+        "price": "33980",
+        "link": "https://www.anhoch.com/products/notebook-hp-15-ryzen-7-7730u16gb512gb156-fhd-ips-touchscreenwin11natural-silver-7572"
+    },
+    {
+        "name": "Notebook Gigabyte G6 KF Gaming i7-13620H/16GB/1TB SSD/RTX 4060 8GB/16.0\" FHD+ 165Hz IPS/DOS",
+        "price": "58980",
+        "link": "https://www.anhoch.com/products/notebook-gigabyte-g6-kf-gaming-i713620h16gb1tb-ssdrtx-4060-8gb160-fhd-plus--165hz-ipsdos-7831"
+    },
+    {
+        "name": "Notebook Dell 15 i5-1334U/16GB/512GB/15.6\" FHD 120Hz/BacklitKB",
+        "price": "25980",
+        "link": "https://www.anhoch.com/products/notebook-dell-15-i51334u16gb512gb156-fhd-120hzbacklitkb-8350"
+    },
+    {
+        "name": "Notebook Acer Nitro Gaming i5-13420H/16GB/512GB SSD/RTX 5050 8GB/15.6\" FHD 165Hz/Backlit Kb/Win11",
+        "price": "49980",
+        "link": "https://www.anhoch.com/products/notebook-acer-nitro-gaming-i513420h16gb512gb-ssdrtx-5050-8gb156-fhd-165hzbacklit-kbwin11-8350"
+    },
+    {
+        "name": "Notebook HP OmniBook 5 Ultra 7 255U/16GB/1TB/16\" 2K Touch IPS/Win11/Silver",
+        "price": "48980",
+        "link": "https://www.anhoch.com/products/notebook-hp-omnibook-5-ultra-7-255u16gb1tb16-2k-touch-ipswin11silver-8351"
+    },
+    {
+        "name": "Notebook Lenovo IdeaPad Slim 3 i5-13420H/16GB/512GB/15.3\" WUXGA IPS/USB-C/Luna Grey",
+        "price": "25980",
+        "link": "https://www.anhoch.com/products/notebook-lenovo-ideapad-slim-3-i513420h16gb512gb153-wuxga-ipsusbcluna-grey-8368"
+    },
+    {
+        "name": "Notebook HP 255 G10 Ryzen 5 7530U/16GB/512GB/15.6\" FHD IPS/No OS",
+        "price": "23480",
+        "link": "https://www.anhoch.com/products/notebook-hp-255-g10-ryzen-5-7530u16gb512gb156-fhd-ipsno-os-7860"
+    },
+    {
+        "name": "Notebook Lenovo V15 Business G4 i5-13420H/16GB/512GB/15.6\" FHD IPS/USB-C/RJ-45",
+        "price": "25980",
+        "link": "https://www.anhoch.com/products/notebook-lenovo-v15-business-g4-i513420h16gb512gb156-fhd-ipsusbcrj45-7606"
+    },
+    {
+        "name": "Notebook Dell Inspiron 3535 i5-1334U/16GB/512GB/Intel UHD/15.6\" FHD Touch/Win11",
+        "price": "28980",
+        "link": "https://www.anhoch.com/products/notebook-dell-inspiron-3535-i51334u16gb512gbintel-uhd156-fhd-touchwin11-7619"
+    },
+    {
+        "name": "Notebook Lenovo LOQ Gaming i5-13450HX/16GB/512GB/RTX 5050 8GB/15.6\" FHD IPS 144Hz/Win11",
+        "price": "58980",
+        "link": "https://www.anhoch.com/products/notebook-lenovo-loq-gaming-i513450hx16gb512gbrtx-5050-8gb156-fhd-ips-144hzwin11-8141"
+    },
+    {
+        "name": "Notebook HP OmniBook 5 Flip Core 7 150U/16GB/512GB /14\" FHD Touch/Backlit Kb/Win11/Silver",
+        "price": "44980",
+        "link": "https://www.anhoch.com/products/notebook-hp-omnibook-5-flip-core-7-150u16gb512gb-14-fhd-touchbacklit-kbwin11silver-7393"
+    },
+    {
+        "name": "Notebook HP Pavilion 15 i5-1335U/12GB/512GB/15.6\" FullHD IPS/Silver/DOS",
+        "price": "27980",
+        "link": "https://www.anhoch.com/products/notebook-hp-pavilion-15-i51335u12gb512gb156-fullhd-ipssilverdos-8212"
+    },
+    {
+        "name": "Notebook Acer Nitro 5 Intel Core 5 210H/16GB/512GB/RTX 4050 6GB/15.6\" FHD IPS 165Hz Slim/Thunderbolt",
+        "price": "55980",
+        "link": "https://www.anhoch.com/products/notebook-acer-nitro-5-intel-core-5-210h16gb512gbrtx-4050-6gb156-fhd-ips-165hz-slimthunderbolt-7778"
+    },
+    {
+        "name": "Notebook HP Victus Gaming i7-13620H/16GB/1TB/RTX 4050 6GB/15.6\" FullHD IPS 144Hz/Bcklit Kb",
+        "price": "56980",
+        "link": "https://www.anhoch.com/products/notebook-hp-victus-gaming-i713620h16gb1tbrtx-4050-6gb156-fullhd-ips-144hzbcklit-kb-8455"
+    },
+    {
+        "name": "Notebook HP OmniBook X Flip 2in1 Ryzen AI 5 340/16GB/512GB/16\" 2K IPS Touch/Win11",
+        "price": "46980",
+        "link": "https://www.anhoch.com/products/notebook-hp-omnibook-x-flip-2in1-ryzen-ai-5-34016gb512gb16-2k-ips-touchwin11-8076"
+    },
+    {
+        "name": "Notebook Apple MacBook Air M4 10C CPU/16GB/256GB SSD/Apple 8C GPU/13.6\" LED IPS/Backlit Kb/Silver",
+        "price": "53980",
+        "link": "https://www.anhoch.com/products/notebook-apple-macbook-air-m4-10c-cpu16gb256gb-ssdapple-8c-gpu136-led-ipsbacklit-kbsilver-6545"
+    },
+    {
+        "name": "Notebook Lenovo LOQ Gaming i5-13450HX/24GB/512GB/RTX 5060 8GB/15.6\" FHD IPS/Luna Grey",
+        "price": "68980",
+        "link": "https://www.anhoch.com/products/notebook-lenovo-loq-gaming-i513450hx24gb512gbrtx-5060-8gb156-fhd-ipsluna-grey-8372"
+    },
+    {
+        "name": "Notebook Acer Extensa EX215-57 i5-13420H/16GB/512GB/15.6\" FHD/USB-C",
+        "price": "25980",
+        "link": "https://www.anhoch.com/products/notebook-acer-extensa-ex21557-i513420h16gb512gb156-fhdusbc-8002"
+    },
+    {
+        "name": "Notebook Lenovo Yoga 7 2in1 Ryzen AI 5 340/16GB/512GB/14\" WUXGA OLED Touch/Backlit Kb/Pen/Win11H",
+        "price": "53980",
+        "link": "https://www.anhoch.com/products/notebook-lenovo-yoga-7-2in1-ryzen-ai-5-34016gb512gb14-wuxga-oled-touchbacklit-kbpenwin11h-8525"
+    },
+    {
+        "name": "Notebook HP OmniBook 5 Ultra 7 255U/16GB/1TB/16\" 2K (1920x1200) IPS/Silver",
+        "price": "49980",
+        "link": "https://www.anhoch.com/products/notebook-hp-omnibook-5-ultra-7-255u16gb1tb16-2k-1920x1200-ipssilver-8282"
+    },
+    {
+        "name": "Notebook HP OmniBook 5 Ryzen 7 8840U/16GB/512GB/16\" 2K (1920x1200) IPS/Win11",
+        "price": "52980",
+        "link": "https://www.anhoch.com/products/notebook-hp-omnibook-5-ryzen-7-8840u16gb512gb16-2k-1920x1200-ipswin11-8305"
+    },
+    {
+        "name": "Notebook Lenovo V15 Business G4 Ryzen 7 7730U/16GB/512GB/15.6\" FHD IPS/RJ-45/Black",
+        "price": "29980",
+        "link": "https://www.anhoch.com/products/notebook-lenovo-v15-business-g4-ryzen-7-7730u16gb512gb156-fhd-ipsrj45black-8371"
+    },
+    {
+        "name": "Notebook Lenovo LOQ Gaming Ryzen 5 220 AI/16GB/512GB/RTX 5050 8GB/15.6\" FHD IPS G-Sync",
+        "price": "59980",
+        "link": "https://www.anhoch.com/products/notebook-lenovo-loq-gaming-ryzen-5-220-ai16gb512gbrtx-5050-8gb156-fhd-ips-gsync-8189"
+    },
+    {
+        "name": "Notebook HP Victus Gaming Ryzen 5 8645HS/16GB/512GB/RTX 4050 6GB/15.6\" FHD 144Hz IPS/FreeDOS",
+        "price": "52980",
+        "link": "https://www.anhoch.com/products/notebook-hp-victus-gaming-ryzen-5-8645hs16gb512gbrtx-4050-6gb156-fhd-144hz-ipsfreedos-8279"
+    },
+    {
+        "name": "Notebook Acer Nitro 5 Intel Core 5 210H/16GB/512GB/RTX 3050 6GB/15.6\" FHD IPS 165Hz Slim/Thunderbolt",
+        "price": "48980",
+        "link": "https://www.anhoch.com/products/notebook-acer-nitro-5-intel-core-5-210h16gb512gbrtx-3050-6gb156-fhd-ips-165hz-slimthunderbolt-7777"
+    },
+    {
+        "name": "Notebook Gigabyte A16 Gaming Ryzen 7 260/16GB/1TB SSD/RTX 5060 8GB/16.0\" FHD+ 165Hz IPS/Type-C/DOS",
+        "price": "63480",
+        "link": "https://www.anhoch.com/products/notebook-gigabyte-a16-gaming-ryzen-7-26016gb1tb-ssdrtx-5060-8gb160-fhd-plus--165hz-ipstypecdos-7306"
+    },
+    {
+        "name": "Notebook HP Victus Gaming Ryzen 7 7445HS/16GB/512GB/RTX4050 6GB/15.6\" FHD IPS 144Hz/Backlit Kb/Win11",
+        "price": "50980",
+        "link": "https://www.anhoch.com/products/notebook-hp-victus-gaming-ryzen-7-7445hs16gb512gbrtx4050-6gb156-fhd-ips-144hzbacklit-kbwin11-7645"
+    },
+    {
+        "name": "Notebook HP OMEN 17 Ryzen AI 9 365/16GB/512GB SSD/RTX 5070 8GB/17.3\" FHD 144Hz/Backlit KB/Win11",
+        "price": "99980",
+        "link": "https://www.anhoch.com/products/notebook-hp-omen-17-ryzen-ai-9-36516gb512gb-ssdrtx-5070-8gb173-fhd-144hzbacklit-kbwin11-7392"
+    },
+    {
+        "name": "Notebook Apple MacBook Pro M4 Pro 14C CPU/24GB/512GB SSD/Apple 20C GPU/16.2\" XDR 120Hz/Backlit Kb/SB",
+        "price": "159980",
+        "link": "https://www.anhoch.com/products/notebook-apple-macbook-pro-m4-pro-14c-cpu24gb512gb-ssdapple-20c-gpu162-xdr-120hzbacklit-kbsb-4052"
+    },
+    {
+        "name": "Notebook HP Envy 15 x360 Ryzen 7 7730U/16GB/512GB/15.6\" FHD Touch OLED/Backlit Kb/Win11",
+        "price": "56480",
+        "link": "https://www.anhoch.com/products/notebook-hp-envy-15-x360-ryzen-7-7730u16gb512gb156-fhd-touch-oledbacklit-kbwin11-1751"
+    },
+    {
+        "name": "Notebook Dell Pro 14 Ryzen AI 7 350/16GB/1TB/14\" FHD Touch IPS/Backlit Kb/Win11",
+        "price": "48980",
+        "link": "https://www.anhoch.com/products/notebook-dell-pro-14-ryzen-ai-7-35016gb1tb14-fhd-touch-ipsbacklit-kbwin11-8311"
+    },
+    {
+        "name": "Notebook Dell Pro 14 Ultra 7 255U/16GB/512GB/14\" WUXGA IPS/FRP/Backlit Kb/Ubuntu",
+        "price": "55980",
+        "link": "https://www.anhoch.com/products/notebook-dell-pro-14-ultra-7-255u16gb512gb14-wuxga-ipsfrpbacklit-kbubuntu-8319"
+    },
+    {
+        "name": "Notebook HP EliteBook 1040 G11 Ultra 5 125H/16GB/512GB/14\" WUXGA IPS/Win11P",
+        "price": "51980",
+        "link": "https://www.anhoch.com/products/notebook-hp-elitebook-1040-g11-ultra-5-125h16gb512gb14-wuxga-ipswin11p-8066"
+    },
+    {
+        "name": "Notebook Gigabyte A16 Gaming i7-13620H/16GB/1TB SSD/RTX 5060 8GB/16.0\" FHD+ 165Hz IPS/Type-C/DOS",
+        "price": "63480",
+        "link": "https://www.anhoch.com/products/notebook-gigabyte-a16-gaming-i713620h16gb1tb-ssdrtx-5060-8gb160-fhd-plus--165hz-ipstypecdos-7305"
+    },
+    {
+        "name": "Notebook MSI Modern 15 Intel Core 7 150U/16GB/512GB/15.6\" FHD IPS/No OS",
+        "price": "37980",
+        "link": "https://www.anhoch.com/products/notebook-msi-modern-15-intel-core-7-150u16gb512gb156-fhd-ipsno-os-7863"
+    },
+    {
+        "name": "Notebook Lenovo IdeaPad Slim 3 Ryzen 7 7735HS/16GB/512GB SSD/15.3\" WUXGA IPS/USB-C",
+        "price": "26980",
+        "link": "https://www.anhoch.com/products/notebook-lenovo-ideapad-slim-3-ryzen-7-7735hs16gb512gb-ssd153-wuxga-ipsusbc-8377"
+    },
+    {
+        "name": "Notebook HP OmniBook Ultra Flip Ryzen AI 9 HX 375/32GB/2TB/14\" 2K (2440x1400) IPS Touch/FRP/Win11",
+        "price": "76980",
+        "link": "https://www.anhoch.com/products/notebook-hp-omnibook-ultra-flip-ryzen-ai-9-hx-37532gb2tb14-2k-2440x1400-ips-touchfrpwin11-8142"
+    },
+    {
+        "name": "Notebook Lenovo ThinkPad E16 G2 Ultra 5 125U/16GB/1TB/16\" WUXGA IPS Touch/Backlit KB/FP/Win11Pro",
+        "price": "61980",
+        "link": "https://www.anhoch.com/products/notebook-lenovo-thinkpad-e16-g2-ultra-5-125u16gb1tb16-wuxga-ips-touchbacklit-kbfpwin11pro-7657"
+    },
+    {
+        "name": "Notebook Dell Latitude 5540 i5-1335U/16GB/512GB SSD/15.6\" FHD/FRP/BacklitKB/Ubu",
+        "price": "46980",
+        "link": "https://www.anhoch.com/products/notebook-dell-latitude-5540-i51335u16gb512gb-ssd156-fhdfrpbacklitkbubu-7914"
+    },
+    {
+        "name": "Notebook Lenovo IdeaPad 5 2-in1 Ryzen AI 5 340/16GB/512GB/14\" WUXGA IPS Touch/Pen/BacklitKB",
+        "price": "46980",
+        "link": "https://www.anhoch.com/products/notebook-lenovo-ideapad-5-2in1-ryzen-ai-5-34016gb512gb14-wuxga-ips-touchpenbacklitkb-7943"
+    },
+    {
+        "name": "Notebook HP OMEN Transcend i7-13700HX/16GB/512GB/RTX 4060 8GB/16.0\" WUXGA IPS 165Hz/Backlit Kb/DOS",
+        "price": "86980",
+        "link": "https://www.anhoch.com/products/notebook-hp-omen-transcend-i713700hx16gb512gbrtx-4060-8gb160-wuxga-ips-165hzbacklit-kbdos-1770"
+    },
+    {
+        "name": "Notebook Lenovo ThinkPad E16 G3 Ultra 5 225U/16GB/512GB/16\" WUXGA IPS/Backlit Kb",
+        "price": "59980",
+        "link": "https://www.anhoch.com/products/notebook-lenovo-thinkpad-e16-g3-ultra-5-225u16gb512gb16-wuxga-ipsbacklit-kb-8511"
+    },
+    {
+        "name": "Notebook HP OmniBook 5 Ultra 5 225U/16GB/512GB/16\" 2K (1920x1200) IPS/Silver",
+        "price": "42980",
+        "link": "https://www.anhoch.com/products/notebook-hp-omnibook-5-ultra-5-225u16gb512gb16-2k-1920x1200-ipssilver-8283"
+    },
+    {
+        "name": "Notebook Gigabyte A18 Gaming Ryzen 7 260/16GB/1TB SSD/RTX 5060 8GB/18.0\" WQXGA 165Hz IPS/DOS",
+        "price": "74980",
+        "link": "https://www.anhoch.com/products/notebook-gigabyte-a18-gaming-ryzen-7-26016gb1tb-ssdrtx-5060-8gb180-wqxga-165hz-ipsdos-8284"
+    },
+    {
+        "name": "Notebook Apple MacBook Pro M4 Pro 14C CPU/24GB/512GB SSD/Apple 20C GPU/16.2\" XDR 120Hz/Backlit Kb/SL",
+        "price": "159980",
+        "link": "https://www.anhoch.com/products/notebook-apple-macbook-pro-m4-pro-14c-cpu24gb512gb-ssdapple-20c-gpu162-xdr-120hzbacklit-kbsl-5727"
+    },
+    {
+        "name": "Notebook Lenovo ThinkBook 16 G7 Core 7 240H/16GB/512GB/16\" WUXGA Touch IPS/BcklitKb/Win11Pro",
+        "price": "52980",
+        "link": "https://www.anhoch.com/products/notebook-lenovo-thinkbook-16-g7-core-7-240h16gb512gb16-wuxga-touch-ipsbcklitkbwin11pro-8305"
+    },
+    {
+        "name": "Notebook Acer Aspire Lite i7-1255U/16GB/512GB/15.6\" FHD IPS/GigaLAN/Backlit/DOS/Grey",
+        "price": "25980",
+        "link": "https://www.anhoch.com/products/notebook-acer-aspire-lite-i71255u16gb512gb156-fhd-ipsgigalanbacklitdosgrey-7798"
+    },
+    {
+        "name": "Notebook HP Elitebook Ultra G1q Snapdragon X1E-78-100 16GB/512GB/14\" 2K Touch IPS/Win11P",
+        "price": "58980",
+        "link": "https://www.anhoch.com/products/notebook-hp-elitebook-ultra-g1q-snapdragon-x1e78100-16gb512gb14-2k-touch-ipswin11p-8068"
+    },
+    {
+        "name": "Notebook Dell Inspiron 5441 Snapdragon X Plus X1P-42-100/16GB/1TB/14\" WUXGA IPS/Win11",
+        "price": "39980",
+        "link": "https://www.anhoch.com/products/notebook-dell-inspiron-5441-snapdragon-x-plus-x1p4210016gb1tb14-wuxga-ipswin11-8069"
+    },
+    {
+        "name": "Notebook Gigabyte AERO X16 Ryzen AI 7 350/32GB/1TBSSD/RTX 5070 8GB/16\" IPS QHD+ 165Hz/W11H",
+        "price": "99980",
+        "link": "https://www.anhoch.com/products/notebook-gigabyte-aero-x16-ryzen-ai-7-35032gb1tbssdrtx-5070-8gb16-ips-qhd-plus--165hzw11h-7304"
+    },
+    {
+        "name": "Notebook HP OmniBook X Flip 2in1 Ultra 7 256V/16GB/1TB/14\" 2K IPS Touch/Win11",
+        "price": "57980",
+        "link": "https://www.anhoch.com/products/notebook-hp-omnibook-x-flip-2in1-ultra-7-256v16gb1tb14-2k-ips-touchwin11-8073"
+    },
+    {
+        "name": "Notebook Lenovo Yoga 7 2in1 Ryzen 7 8840HS/16GB/512GB/16\" WUXGA IPS Touch/Win11",
+        "price": "56980",
+        "link": "https://www.anhoch.com/products/notebook-lenovo-yoga-7-2in1-ryzen-7-8840hs16gb512gb16-wuxga-ips-touchwin11-8075"
+    },
+    {
+        "name": "Notebook HP Omen Gaming Ultra 7 255HX/16GB/1TB/RTX 5060 8GB/16\" 144Hz/Win11",
+        "price": "79980",
+        "link": "https://www.anhoch.com/products/notebook-hp-omen-gaming-ultra-7-255hx16gb1tbrtx-5060-8gb16-144hzwin11-8334"
+    },
+    {
+        "name": "Notebook Lenovo ThinkPad E14 G7 Ultra 7 255H/16GB/1TB/14\" WUXGA IPS/Backlit KB/FP",
+        "price": "71480",
+        "link": "https://www.anhoch.com/products/notebook-lenovo-thinkpad-e14-g7-ultra-7-255h16gb1tb14-wuxga-ipsbacklit-kbfp-8346"
+    },
+    {
+        "name": "Notebook Dell Pro 16 Intel Core 5 120U/16GB/512GB/16\" WUXGA IPS/Backlit KB/FPR",
+        "price": "45980",
+        "link": "https://www.anhoch.com/products/notebook-dell-pro-16-intel-core-5-120u16gb512gb16-wuxga-ipsbacklit-kbfpr-8348"
+    },
+    {
+        "name": "Notebook MSI Cyborg 15 Gaming Core 7 240H/16GB/512GB SSD/RTX 5060 8GB/15.6\" FHD 144Hz/Win11",
+        "price": "79980",
+        "link": "https://www.anhoch.com/products/notebook-msi-cyborg-15-gaming-core-7-240h16gb512gb-ssdrtx-5060-8gb156-fhd-144hzwin11-8349"
+    },
+    {
+        "name": "Notebook Lenovo IdeaPad Slim 5 Ryzen 5 8645HS/32GB/512GB/14\" WUXGA OLED/Cosmic Blue",
+        "price": "41980",
+        "link": "https://www.anhoch.com/products/notebook-lenovo-ideapad-slim-5-ryzen-5-8645hs32gb512gb14-wuxga-oledcosmic-blue-8378"
+    },
+    {
+        "name": "Notebook Lenovo ThinkPad E16 G3 Ultra 7 255H/16GB/1TB/16\" WUXGA IPS/Backlit Kb",
+        "price": "70980",
+        "link": "https://www.anhoch.com/products/notebook-lenovo-thinkpad-e16-g3-ultra-7-255h16gb1tb16-wuxga-ipsbacklit-kb-8382"
+    },
+    {
+        "name": "Notebook Lenovo IdeaPad 5 2-in-1 Ultra 7 255H/24GB/1TB/14\" WUXGA OLED Touch/Pen 2/Win11",
+        "price": "71980",
+        "link": "https://www.anhoch.com/products/notebook-lenovo-ideapad-5-2in1-ultra-7-255h24gb1tb14-wuxga-oled-touchpen-2win11-8413"
+    },
+    {
+        "name": "Notebook Acer Extensa EX215-57 i5-13420H/16GB/512GB/15.6\" FHD IPS/No OS",
+        "price": "25980",
+        "link": "https://www.anhoch.com/products/notebook-acer-extensa-ex21557-i513420h16gb512gb156-fhd-ipsno-os-8190"
+    },
+    {
+        "name": "Notebook Apple MacBook Pro M5 10C CPU/16GB/512GB SSD/Apple 10C GPU/14.2\" XDR 120Hz/Backlit Kb/SLV",
+        "price": "99980",
+        "link": "https://www.anhoch.com/products/notebook-apple-macbook-pro-m5-10c-cpu16gb512gb-ssdapple-10c-gpu142-xdr-120hzbacklit-kbslv-7934"
+    },
+    {
+        "name": "Notebook Lenovo Yoga 9 2in1 Ultra 7 258V/32GB/1TB/14\" 2.8K WQXGA+ OLED/Bcklit KB/Win11Pro",
+        "price": "107980",
+        "link": "https://www.anhoch.com/products/notebook-lenovo-yoga-9-2in1-ultra-7-258v32gb1tb14-28k-wqxga-plus--oledbcklit-kbwin11pro-8453"
+    },
+    {
+        "name": "Notebook Gigabyte AERO X16 Ryzen AI 7 350/16GB/1TB SSD/RTX 5060 8GB/16\" IPS QHD+ 165Hz/W11H",
+        "price": "83980",
+        "link": "https://www.anhoch.com/products/notebook-gigabyte-aero-x16-ryzen-ai-7-35016gb1tb-ssdrtx-5060-8gb16-ips-qhd-plus--165hzw11h-8282"
+    },
+    {
+        "name": "Notebook Acer Nitro 5 Intel Core 7 240H/16GB/1TB/RTX 4050 6GB/15.6\" FHD IPS 165Hz Slim/Thunderbolt",
+        "price": "61980",
+        "link": "https://www.anhoch.com/products/notebook-acer-nitro-5-intel-core-7-240h16gb1tbrtx-4050-6gb156-fhd-ips-165hz-slimthunderbolt-7779"
+    },
+    {
+        "name": "Notebook HP 250 G10 i3-1315U 8GB/512GB/15.6\" FullHD IPS/HDMI/USB-C/DOS",
+        "price": "19980",
+        "link": "https://www.anhoch.com/products/notebook-hp-250-g10-i31315u-8gb512gb156-fullhd-ipshdmiusbcdos-8318"
+    },
+    {
+        "name": "Notebook Asus Zenbook Ryzen 7 8840HS/16GB/512GB/14\" FHD OLED Touch/Backlit Kb/Win11/Black",
+        "price": "59980",
+        "link": "https://www.anhoch.com/products/notebook-asus-zenbook-ryzen-7-8840hs16gb512gb14-fhd-oled-touchbacklit-kbwin11black-7820"
+    },
+    {
+        "name": "Notebook Apple MacBook Air M4 10C CPU/16GB/256GB SSD/Apple 8C GPU/13.6\" LED IPS/Backlit Kb/Starlight",
+        "price": "54980",
+        "link": "https://www.anhoch.com/products/notebook-apple-macbook-air-m4-10c-cpu16gb256gb-ssdapple-8c-gpu136-led-ipsbacklit-kbstarlight-6544"
+    },
+    {
+        "name": "Notebook MSI Thin 15 Gaming i5-13420H/16GB/512GB SSD/RTX 4050 6GB/15.6\" FHD 144Hz/Backlit Kb/Win11",
+        "price": "44980",
+        "link": "https://www.anhoch.com/products/notebook-msi-thin-15-gaming-i513420h16gb512gb-ssdrtx-4050-6gb156-fhd-144hzbacklit-kbwin11-7574"
+    },
+    {
+        "name": "Notebook HP Victus Gaming i7 13700H/16GB/512GB/RTX 4060 8GB/15.6\" FHD IPS 144Hz/Backlit Kb/Blue",
+        "price": "69980",
+        "link": "https://www.anhoch.com/products/notebook-hp-victus-gaming-i7-13700h16gb512gbrtx-4060-8gb156-fhd-ips-144hzbacklit-kbblue-2384"
+    },
+    {
+        "name": "Notebook MSI Katana 15 HX i9-14900HX/32GB/1TB SSD/RTX 5070 8GB/15.6\" QHD 165Hz",
+        "price": "107980",
+        "link": "https://www.anhoch.com/products/notebook-msi-katana-15-hx-i914900hx32gb1tb-ssdrtx-5070-8gb156-qhd-165hz-7584"
+    },
+    {
+        "name": "Notebook Asus Vivobook 14 Core 5 120U/8GB/512GB /14\" FHD/Backlit Kb/Win11/Berry Pink",
+        "price": "30980",
+        "link": "https://www.anhoch.com/products/notebook-asus-vivobook-14-core-5-120u8gb512gb-14-fhdbacklit-kbwin11berry-pink-7394"
+    },
+    {
+        "name": "Notebook HP OmniBook X Flip 2in1 Ryzen AI 7 350/24GB/1TB SSD/14\" FHD Touch/Backlit Kb/Win11/Silver",
+        "price": "54980",
+        "link": "https://www.anhoch.com/products/notebook-hp-omnibook-x-flip-2in1-ryzen-ai-7-35024gb1tb-ssd14-fhd-touchbacklit-kbwin11silver-7398"
+    },
+    {
+        "name": "Notebook Lenovo LOQ Gaming i5-13450HX/16GB/512GB/RTX 4050 6GB/15.6\" FullHD 144Hz/Backlit Kb/DOS/Grey",
+        "price": "52980",
+        "link": "https://www.anhoch.com/products/notebook-lenovo-loq-gaming-i513450hx16gb512gbrtx-4050-6gb156-fullhd-144hzbacklit-kbdosgrey-2213"
+    },
+    {
+        "name": "Notebook Apple MacBook Pro M5 10C CPU/16GB/512GB SSD/Apple 10C GPU/14.2\" XDR 120Hz/Backlit Kb/SB",
+        "price": "99980",
+        "link": "https://www.anhoch.com/products/notebook-apple-macbook-pro-m5-10c-cpu16gb512gb-ssdapple-10c-gpu142-xdr-120hzbacklit-kbsb-7933"
+    },
+    {
+        "name": "Notebook Gigabyte AORUS MASTER 18 Ultra 9 275HX/32GB/1TBSSD/RTX 5090 24GB/18\" miniLED 240Hz/W11P",
+        "price": "248980",
+        "link": "https://www.anhoch.com/products/notebook-gigabyte-aorus-master-18-ultra-9-275hx32gb1tbssdrtx-5090-24gb18-miniled-240hzw11p-7975"
+    },
+    {
+        "name": "Notebook Gigabyte AORUS MASTER 16 Ultra 9 275HX/32GB/1TB/RTX 5070Ti 12GB/16\" OLED 240Hz/RGB KB/W11P",
+        "price": "158980",
+        "link": "https://www.anhoch.com/products/notebook-gigabyte-aorus-master-16-ultra-9-275hx32gb1tbrtx-5070ti-12gb16-oled-240hzrgb-kbw11p-7976"
+    },
+    {
+        "name": "Notebook HP OMEN i7-13620H/16GB/1TB/RTX4050 6GB/16.1\" FHD IPS 165Hz/Backlit Kb/Win11",
+        "price": "77980",
+        "link": "https://www.anhoch.com/products/notebook-hp-omen-i713620h16gb1tbrtx4050-6gb161-fhd-ips-165hzbacklit-kbwin11-1769"
+    },
+    {
+        "name": "Notebook HP ProBook 455 G10 Ryzen 5 7530U/8GB/512GB/15.6\" FullHD IPS/HDMI/USB-C/RJ45/DOS",
+        "price": "28980",
+        "link": "https://www.anhoch.com/products/notebook-hp-probook-455-g10-ryzen-5-7530u8gb512gb156-fullhd-ipshdmiusbcrj45dos-1771"
+    },
+    {
+        "name": "Notebook HP ProBook 450 G10 i7-1355U/16GB/512GB/15.6\" FullHD IPS/HDMI/USB-C/RJ45/DOS",
+        "price": "45980",
+        "link": "https://www.anhoch.com/products/notebook-hp-probook-450-g10-i71355u16gb512gb156-fullhd-ipshdmiusbcrj45dos-1774"
+    },
+    {
+        "name": "Notebook HP Omen Max 16T Ultra 9 275HX/32GB/1TB/RTX 5090 24GB/16\" WQXGA 240Hz/RGB KB/Win11",
+        "price": "239980",
+        "link": "https://www.anhoch.com/products/notebook-hp-omen-max-16t-ultra-9-275hx32gb1tbrtx-5090-24gb16-wqxga-240hzrgb-kbwin11-7743"
+    },
+    {
+        "name": "Notebook Lenovo ThinkBook 14 G8 Ultra 7 255H/16GB/512GB/14\" WUXGA IPS/Backlit Kb",
+        "price": "50980",
+        "link": "https://www.anhoch.com/products/notebook-lenovo-thinkbook-14-g8-ultra-7-255h16gb512gb14-wuxga-ipsbacklit-kb-8512"
+    },
+    {
+        "name": "Notebook Lenovo ThinkBook 16 G8 Ultra 7 255H/16GB/512GB/16\" WUXGA IPS/Backlit Kb",
+        "price": "52980",
+        "link": "https://www.anhoch.com/products/notebook-lenovo-thinkbook-16-g8-ultra-7-255h16gb512gb16-wuxga-ipsbacklit-kb-8513"
+    },
+    {
+        "name": "Notebook Gigabyte A16 PRO Intel Core 7 240H/32GB/1TB SSD/RTX 5080 16GB/16.0\" WQXGA 165Hz IPS/DOS",
+        "price": "154980",
+        "link": "https://www.anhoch.com/products/notebook-gigabyte-a16-pro-intel-core-7-240h32gb1tb-ssdrtx-5080-16gb160-wqxga-165hz-ipsdos-7749"
+    },
+    {
+        "name": "Notebook Lenovo Legion Pro 7 Ultra 9 275HX/32GB/2TB/RTX 5080 16GB/16\" WQXGA 240Hz OLED/RGB KB/W11",
+        "price": "199980",
+        "link": "https://www.anhoch.com/products/notebook-lenovo-legion-pro-7-ultra-9-275hx32gb2tbrtx-5080-16gb16-wqxga-240hz-oledrgb-kbw11-7751"
+    },
+    {
+        "name": "Notebook HP OmniBook 5 i5-1334U/16GB/512GB/16\" 2K (1920x1200) IPS/No OS",
+        "price": "34980",
+        "link": "https://www.anhoch.com/products/notebook-hp-omnibook-5--i51334u16gb512gb16-2k-1920x1200-ipsno-os-8306"
+    },
+    {
+        "name": "Notebook Lenovo Legion Pro 7 Ultra 9 275HX/64GB/2TB/RTX 5090 24GB/16\" OLED 240Hz G-Sync/Win11",
+        "price": "249980",
+        "link": "https://www.anhoch.com/products/notebook-lenovo-legion-pro-7-ultra-9-275hx64gb2tbrtx-5090-24gb16-oled-240hz-gsyncwin11-7799"
+    },
+    {
+        "name": "Notebook Lenovo ThinkPad X1 Carbon Gen13 Ultra 7 255U/32GB/1TB SSD/14\" FHD Touch/FPR/BLKB/Win11Pro",
+        "price": "98980",
+        "link": "https://www.anhoch.com/products/notebook-lenovo-thinkpad-x1-carbon-gen13-ultra-7-255u32gb1tb-ssd14-fhd-touchfprblkbwin11pro-8312"
+    },
+    {
+        "name": "Notebook Gigabyte AORUS MASTER 16 Ultra 9 275HX/32GB/1TBSSD/RTX 5080 16GB/16\" OLED 240Hz/RGB KB/W11P",
+        "price": "194980",
+        "link": "https://www.anhoch.com/products/notebook-gigabyte-aorus-master-16-ultra-9-275hx32gb1tbssdrtx-5080-16gb16-oled-240hzrgb-kbw11p-6521"
+    },
+    {
+        "name": "Notebook Acer Nitro Ryzen7 6800H/8GB/512GB SSD/RTX 3050Ti 4GB/15.6\" FHD IPS 144Hz/Bkaclit Kb/Dos",
+        "price": "44980",
+        "link": "https://www.anhoch.com/products/notebook-acer-nitro-ryzen7-6800h8gb512gb-ssdrtx-3050ti-4gb156-fhd-ips-144hzbkaclit-kbdos-0861"
+    },
+    {
+        "name": "Notebook Lenovo Legion 5 Ryzen 7 260/16GB/512GB/RTX 5060 8GB/15.1\" OLED 165Hz G-Sync/Win11",
+        "price": "79980",
+        "link": "https://www.anhoch.com/products/notebook-lenovo-legion-5-ryzen-7-26016gb512gbrtx-5060-8gb151-oled-165hz-gsyncwin11-7822"
+    },
+    {
+        "name": "Notebook Apple MacBook Air M4 10C CPU/16GB/512GB SSD/Apple 10C GPU/13.6\" LED IPS/Backlit Kb/Silver",
+        "price": "80980",
+        "link": "https://www.anhoch.com/products/notebook-apple-macbook-air-m4-10c-cpu16gb512gb-ssdapple-10c-gpu136-led-ipsbacklit-kbsilver-7317"
+    },
+    {
+        "name": "Notebook Dell Pro 16 Ultra 7 255U/16GB/512GB/16\" WUXGA IPS/Backlit Kb/Platinum Silver",
+        "price": "61980",
+        "link": "https://www.anhoch.com/products/notebook-dell-pro-16-ultra-7-255u16gb512gb16-wuxga-ipsbacklit-kbplatinum-silver-8347"
+    },
+    {
+        "name": "Notebook MSI Prestige A16 AI+ Ryzen 9 365/32GB/1TB SSD/16\" UHD OLED/W11P",
+        "price": "93980",
+        "link": "https://www.anhoch.com/products/notebook-msi-prestige-a16-ai-plus--ryzen-9-36532gb1tb-ssd16-uhd-oledw11p-7864"
+    },
+    {
+        "name": "Notebook Dell Vostro 5625 Ryzen 5 5625U/16GB/256GB SSD/16\" FHD+/BacklitKB/Win11Pro",
+        "price": "35980",
+        "link": "https://www.anhoch.com/products/notebook-dell-vostro-5625-ryzen-5-5625u16gb256gb-ssd16-fhd-plus-backlitkbwin11pro-8134"
+    },
+    {
+        "name": "Notebook Dell Latitude 5530 i5-1235U/16GB/512GB/15.6\" FullHD/BacklitKB/Ubuntu",
+        "price": "45980",
+        "link": "https://www.anhoch.com/products/notebook-dell-latitude-5530-i51235u16gb512gb156-fullhdbacklitkbubuntu-7879"
+    },
+    {
+        "name": "Notebook Lenovo IdeaPad Slim 3 Intel Core 7 150U/16GB/512GB/15.6\" FHD IPS 300nits/Arc.Grey",
+        "price": "37980",
+        "link": "https://www.anhoch.com/products/notebook-lenovo-ideapad-slim-3-intel-core-7-150u16gb512gb156-fhd-ips-300nitsarcgrey-7370"
+    },
+    {
+        "name": "Notebook Apple MacBook Air M4 10C CPU/16GB/512GB SSD/Apple 10C GPU/13.6\" LED IPS/Backlit Kb/Midnight",
+        "price": "80980",
+        "link": "https://www.anhoch.com/products/notebook-apple-macbook-air-m4-10c-cpu16gb512gb-ssdapple-10c-gpu136-led-ipsbacklit-kbmidnight-7371"
+    },
+    {
+        "name": "Notebook Lenovo Legion 5 Ultra 9 275HX/32GB/2TB/RTX 5070 8GB/15.1\" WQXGA OLED 165Hz",
+        "price": "117980",
+        "link": "https://www.anhoch.com/products/notebook-lenovo-legion-5-ultra-9-275hx32gb2tbrtx-5070-8gb151-wqxga-oled-165hz-8454"
+    },
+    {
+        "name": "Notebook MSI Titan 18 HX AI Ultra 9 285HX/96GB/4TB SSD/RTX 5090 24GB/18\u201d UHD+ MiniLed 120Hz/Win11Pro",
+        "price": "349980",
+        "link": "https://www.anhoch.com/products/notebook-msi-titan-18-hx-ai-ultra-9-285hx96gb4tb-ssdrtx-5090-24gb18-uhd-plus--miniled-120hzwin11pro-8201"
+    },
+    {
+        "name": "Notebook Gigabyte A18 Gaming Ryzen 7 260/16GB/1TB SSD/RTX 5070 8GB/18.0\" WQXGA 165Hz IPS/DOS",
+        "price": "85980",
+        "link": "https://www.anhoch.com/products/notebook-gigabyte-a18-gaming-ryzen-7-26016gb1tb-ssdrtx-5070-8gb180-wqxga-165hz-ipsdos-7978"
+    },
+    {
+        "name": "Notebook Acer Aspire 5 A515-58P-77RL i7-1355U/16GB/512GB/15.6\" FHD IPS/GigaLAN/Steel Gray/Linux",
+        "price": "32980",
+        "link": "https://www.anhoch.com/products/notebook-acer-aspire-5-a51558p77rl-i71355u16gb512gb156-fhd-ipsgigalansteel-graylinux-6960"
+    },
+    {
+        "name": "Notebook Apple MacBook Air M4 10C CPU/16GB/256GB SSD/Apple 8C GPU/13.6\" LED IPS/Backlit Kb/Sky Blue",
+        "price": "54980",
+        "link": "https://www.anhoch.com/products/notebook-apple-macbook-air-m4-10c-cpu16gb256gb-ssdapple-8c-gpu136-led-ipsbacklit-kbsky-blue-6451"
+    },
+    {
+        "name": "Notebook Dell Latitude 5540 i5-1335U 8GB/512GB SSD/15.6\" FHD/FRP/BacklitKB/Ubu",
+        "price": "44980",
+        "link": "https://www.anhoch.com/products/notebook-dell-latitude-5540-i51335u-8gb512gb-ssd156-fhdfrpbacklitkbubu-7477"
+    },
+    {
+        "name": "Notebook MSI Summit E13 AI EVO Ultra 7 155H/16GB/1TB SSD/13.3\" FHD+ Touch/Backlit KB/Pen/Win11/Black",
+        "price": "54980",
+        "link": "https://www.anhoch.com/products/notebook-msi-summit-e13-ai-evo-ultra-7-155h16gb1tb-ssd133-fhd-plus--touchbacklit-kbpenwin11black-7738"
+    },
+    {
+        "name": "Notebook HP OmniBook Ultra Flip Ultra 7 256V/16GB/1TB/14\" OLED Touch 120Hz/Pen/Win11",
+        "price": "97980",
+        "link": "https://www.anhoch.com/products/notebook-hp-omnibook-ultra-flip-ultra-7-256v16gb1tb14-oled-touch-120hzpenwin11-8252"
+    },
+    {
+        "name": "Notebook HP OmniBook X Flip 2in1 Ultra 7 258V/32GB/1TB/14\" WUXGA IPS Touch/Win11",
+        "price": "73980",
+        "link": "https://www.anhoch.com/products/notebook-hp-omnibook-x-flip-2in1-ultra-7-258v32gb1tb14-wuxga-ips-touchwin11-8254"
+    },
+    {
+        "name": "Notebook HP OMEN Gaming Ryzen 7 350 AI/32GB/1TB/RTX 5070 8GB/16\" 2K (1920x1200) IPS 144Hz",
+        "price": "99980",
+        "link": "https://www.anhoch.com/products/notebook-hp-omen-gaming-ryzen-7-350-ai32gb1tbrtx-5070-8gb16-2k-1920x1200-ips-144hz-8257"
+    },
+    {
+        "name": "Notebook HP 15 Ryzen 5 7520U/16GB/1TB/15.6\" FullHD IPS/USB-C",
+        "price": "25980",
+        "link": "https://www.anhoch.com/products/notebook-hp-15-ryzen-5-7520u16gb1tb156-fullhd-ipsusbc-8280"
+    },
+    {
+        "name": "Notebook Dell Vostro 3530 i7-1355U/8GB/512GB/Intel Iris XE/15.6\" FHD 120Hz/BacklitKB/4Cell/Ubuntu",
+        "price": "29980",
+        "link": "https://www.anhoch.com/products/notebook-dell-vostro-3530-i71355u8gb512gbintel-iris-xe156-fhd-120hzbacklitkb4cellubuntu-7002"
+    },
+    {
+        "name": "Notebook HP Victus Gaming i5 12500H/16GB/512GB SSD/RTX 4050 6GB/15.6\" FHD IPS 144Hz/Backlit Kb/Win11",
+        "price": "53980",
+        "link": "https://www.anhoch.com/products/notebook-hp-victus-gaming-i5-12500h16gb512gb-ssdrtx-4050-6gb156-fhd-ips-144hzbacklit-kbwin11-2633"
+    },
+    {
+        "name": "Notebook HP ProBook 455 G9 Ryzen 5 5625U 8GB/256GB/15.6\" FullHD IPS/USB-C/GigaLAN/DOS/Silver",
+        "price": "26980",
+        "link": "https://www.anhoch.com/products/notebook-hp-probook-455-g9-ryzen-5-5625u-8gb256gb156-fullhd-ipsusbcgigalandossilver-1315"
+    },
+    {
+        "name": "Notebook Acer Aspire Go 15 Intel Core 3 N355/8GB/128GB/15.6\" FHD IPS/Win11",
+        "price": "17980",
+        "link": "https://www.anhoch.com/products/notebook-acer-aspire-go-15-intel-core-3-n3558gb128gb156-fhd-ipswin11-7805"
+    },
+    {
+        "name": "Notebook Dell Latitude 7455 Snapdragon X Plus X1P-64-100/16GB/512GB/14\" QHD+ Touch/Win11Pro",
+        "price": "61980",
+        "link": "https://www.anhoch.com/products/notebook-dell-latitude-7455-snapdragon-x-plus-x1p6410016gb512gb14-qhd-plus--touchwin11pro-8070"
+    },
+    {
+        "name": "Notebook Apple MacBook Pro M3 Octa Core/8GB/512GB SSD/Apple 10C GPU/14.2\" XDR 120Hz/Backlit Kb/SpG",
+        "price": "84980",
+        "link": "https://www.anhoch.com/products/notebook-apple-macbook-pro-m3-octa-core8gb512gb-ssdapple-10c-gpu142-xdr-120hzbacklit-kbspg-1905"
+    },
+    {
+        "name": "Notebook Lenovo Legion 5 Ultra 7 255HX/32GB/1TB/RTX 5070 8GB/15.1\" OLED 165Hz/BacklitKB",
+        "price": "107980",
+        "link": "https://www.anhoch.com/products/notebook-lenovo-legion-5-ultra-7-255hx32gb1tbrtx-5070-8gb151-oled-165hzbacklitkb-8092"
+    },
+    {
+        "name": "Notebook Katana 17 HX i7-14650HX/16GB/1TB SSD/RTX 5060 8GB/17\" QHD+ 240Hz/RGB Kb",
+        "price": "89980",
+        "link": "https://www.anhoch.com/products/notebook-katana-17-hx-i714650hx16gb1tb-ssdrtx-5060-8gb17-qhd-plus--240hzrgb-kb-7583"
+    },
+    {
+        "name": "Notebook MSI Vector 16 HX AI Ultra 9 275HX/32GB/1TB SSD/RTX 5070 Ti 12GB/16\" QHD 240Hz/RGB KB",
+        "price": "144980",
+        "link": "https://www.anhoch.com/products/notebook-msi-vector-16-hx-ai-ultra-9-275hx32gb1tb-ssdrtx-5070-ti-12gb16-qhd-240hzrgb-kb-7585"
+    },
+    {
+        "name": "Notebook Acer Swift GO 16 Ultra 7 155H/32GB DDR5/1TB/16\" 3.2K OLED 120Hz/Thunderbolt",
+        "price": "77980",
+        "link": "https://www.anhoch.com/products/notebook-acer-swift-go-16-ultra-7-155h32gb-ddr51tb16-32k-oled-120hzthunderbolt-7599"
+    },
+    {
+        "name": "Notebook Dell Latitude 3550 i5-1335U/16GB/512GB/15.6\" FHD IPS/FRP/Backlit Kb",
+        "price": "45980",
+        "link": "https://www.anhoch.com/products/notebook-dell-latitude-3550-i51335u16gb512gb156-fhd-ipsfrpbacklit-kb-7861"
+    },
+    {
+        "name": "Notebook MSI Crosshair 16 HX AI Ultra 9 275HX/32GB/1TB/ RTX 5070 8GB/16\" QHD+ IPS 240Hz/RGB Kb",
+        "price": "119980",
+        "link": "https://www.anhoch.com/products/notebook-msi-crosshair-16-hx-ai-ultra-9-275hx32gb1tb-rtx-5070-8gb16-qhd-plus--ips-240hzrgb-kb-7865"
+    },
+    {
+        "name": "Notebook MSI Vector 16 HX AI Ultra 9 275HX/64GB/1TB SSD/RTX 5080 16GB/RGB Kb",
+        "price": "199980",
+        "link": "https://www.anhoch.com/products/notebook-msi-vector-16-hx-ai-ultra-9-275hx64gb1tb-ssdrtx-5080-16gbrgb-kb-7866"
+    },
+    {
+        "name": "Notebook HP EliteBook 650 G10 i5-1345U/16GB/512GB/15.6\" FHD IPS/Backlit Kb/Win11Pro/3YearWarr",
+        "price": "67980",
+        "link": "https://www.anhoch.com/products/notebook-hp-elitebook-650-g10-i51345u16gb512gb156-fhd-ipsbacklit-kbwin11pro3yearwarr-5832"
+    },
+    {
+        "name": "Notebook Apple MacBook Air M4 10C CPU/16GB/256GB SSD/Apple 10C GPU/15.3\" LED IPS/Backlit Kb/Midnight",
+        "price": "82980",
+        "link": "https://www.anhoch.com/products/notebook-apple-macbook-air-m4-10c-cpu16gb256gb-ssdapple-10c-gpu153-led-ipsbacklit-kbmidnight-7373"
+    },
+    {
+        "name": "Notebook Apple MacBook Pro M3 Max 14C CPU/36GB/1TB SSD/Apple 30C GPU/14.2\" XDR 120Hz/Backlit Kb/Slv",
+        "price": "189980",
+        "link": "https://www.anhoch.com/products/notebook-apple-macbook-pro-m3-max-14c-cpu36gb1tb-ssdapple-30c-gpu142-xdr-120hzbacklit-kbslv-1200"
+    },
+    {
+        "name": "Notebook Apple MacBook Air M4 10C CPU/16GB/512GB SSD/Apple 10C GPU/15.3\" LED IPS/Backlit Kb/Silver",
+        "price": "98480",
+        "link": "https://www.anhoch.com/products/notebook-apple-macbook-air-m4-10c-cpu16gb512gb-ssdapple-10c-gpu153-led-ipsbacklit-kbsilver-7377"
+    },
+    {
+        "name": "Notebook Lenovo LOQ Gaming Ryzen 7 250/16GB/1TB/RTX5050 8GB/15.6\" FHD IPS G-Sync/Win11",
+        "price": "64980",
+        "link": "https://www.anhoch.com/products/notebook-lenovo-loq-gaming-ryzen-7-25016gb1tbrtx5050-8gb156-fhd-ips-gsyncwin11-7660"
+    },
+    {
+        "name": "Notebook HP 15 i5-1334U/16GB/512GB/15.6\" FHD IPS/Iris XE/Type-C/DOS/Diamond White",
+        "price": "25480",
+        "link": "https://www.anhoch.com/products/notebook-hp-15-i51334u16gb512gb156-fhd-ipsiris-xetypecdosdiamond-white-7664"
+    },
+    {
+        "name": "Notebook HP Envy x360 2in1 Ultra 7 150U/16GB/512GB SSD/14\" FHD Touch/Backlit Kb/Win11",
+        "price": "52980",
+        "link": "https://www.anhoch.com/products/notebook-hp-envy-x360-2in1-ultra-7-150u16gb512gb-ssd14-fhd-touchbacklit-kbwin11-2516"
+    },
+    {
+        "name": "Notebook Apple MacBook Air M2 8C CPU/16GB/256GB SSD/Apple 8C GPU/13.6\" LED IPS/Backlit Kb/Starlight",
+        "price": "47980",
+        "link": "https://www.anhoch.com/products/notebook-apple-macbook-air-m2-8c-cpu16gb256gb-ssdapple-8c-gpu136-led-ipsbacklit-kbstarlight-7422"
+    },
+    {
+        "name": "Notebook Lenovo IdeaPad Pro 5 Ultra 7 255H/24GB/512GB/14\" 2.8K OLED 120Hz/BcklitKb/USB-C",
+        "price": "61980",
+        "link": "https://www.anhoch.com/products/notebook-lenovo-ideapad-pro-5-ultra-7-255h24gb512gb14-28k-oled-120hzbcklitkbusbc-8460"
+    },
+    {
+        "name": "Notebook Apple MacBook Air M4 10C CPU/16GB/512GB SSD/Apple 10C GPU/13.6\" LED IPS/Backlit Kb/Sky Blue",
+        "price": "80980",
+        "link": "https://www.anhoch.com/products/notebook-apple-macbook-air-m4-10c-cpu16gb512gb-ssdapple-10c-gpu136-led-ipsbacklit-kbsky-blue-6925"
+    },
+    {
+        "name": "Notebook Apple MacBook Pro M4 Pro 14C CPU/48GB/512GB SSD/Apple 20C GPU/16.2\" XDR 120Hz/Backlit Kb/SL",
+        "price": "196980",
+        "link": "https://www.anhoch.com/products/notebook-apple-macbook-pro-m4-pro-14c-cpu48gb512gb-ssdapple-20c-gpu162-xdr-120hzbacklit-kbsl-7701"
+    },
+    {
+        "name": "Notebook Gigabyte A16 PRO Intel Core 7 240H/32GB/1TB SSD/RTX 5070Ti 12GB/16.0\" WQXGA 165Hz IPS/DOS",
+        "price": "114980",
+        "link": "https://www.anhoch.com/products/notebook-gigabyte-a16-pro-intel-core-7-240h32gb1tb-ssdrtx-5070ti-12gb160-wqxga-165hz-ipsdos-7750"
+    },
+    {
+        "name": "Notebook Lenovo IdeaPad Pro 5 Ultra 5 125H/32GB/1TB SSD/16\" 2.5K IPS 120Hz/Backlit Kb",
+        "price": "49980",
+        "link": "https://www.anhoch.com/products/notebook-lenovo-ideapad-pro-5-ultra-5-125h32gb1tb-ssd16-25k-ips-120hzbacklit-kb-8526"
+    },
+    {
+        "name": "Notebook Lenovo Yoga 7 2in1 Ryzen AI 7 370/32GB/1TB/14\" WQXGA+ OLED 120Hz Touch/Pen/Backlit Kb/W11H",
+        "price": "76980",
+        "link": "https://www.anhoch.com/products/notebook-lenovo-yoga-7-2in1-ryzen-ai-7-37032gb1tb14-wqxga-plus--oled-120hz-touchpenbacklit-kbw11h-8527"
+    },
+    {
+        "name": "Notebook Apple MacBook Pro M4 Pro 12C CPU/24GB/512GB SSD/Apple 16C GPU/14.2\" XDR 120Hz/Backlit Kb/SL",
+        "price": "138980",
+        "link": "https://www.anhoch.com/products/notebook-apple-macbook-pro-m4-pro-12c-cpu24gb512gb-ssdapple-16c-gpu142-xdr-120hzbacklit-kbsl-5725"
+    },
+    {
+        "name": "Notebook Apple MacBook Pro M4 Pro 12C CPU/24GB/512GB SSD/Apple 16C GPU/14.2\" XDR 120Hz/Backlit Kb/SB",
+        "price": "138980",
+        "link": "https://www.anhoch.com/products/notebook-apple-macbook-pro-m4-pro-12c-cpu24gb512gb-ssdapple-16c-gpu142-xdr-120hzbacklit-kbsb-5726"
+    },
+    {
+        "name": "Notebook Lenovo ThinkBook 16 G8 Core 5 210H/16GB/512GB SSD/16\" WUXGA IPS/Backlit Kb/DOS",
+        "price": "42980",
+        "link": "https://www.anhoch.com/products/notebook-lenovo-thinkbook-16-g8-core-5-210h16gb512gb-ssd16-wuxga-ipsbacklit-kbdos-7520"
+    },
+    {
+        "name": "Notebook Lenovo ThinkBook 16 G8 Core 7 240H/16GB/512GB SSD/16\" WUXGA IPS/Backlit Kb/Win11",
+        "price": "59980",
+        "link": "https://www.anhoch.com/products/notebook-lenovo-thinkbook-16-g8-core-7-240h16gb512gb-ssd16-wuxga-ipsbacklit-kbwin11-7522"
+    },
+    {
+        "name": "Notebook Acer Nitro 5 i9-12900H/16GB/512GB/RTX4060 8GB/15.6\" FHD 165Hz/RGB Kb/DOS",
+        "price": "79980",
+        "link": "https://www.anhoch.com/products/notebook-acer-nitro-5-i912900h16gb512gbrtx4060-8gb156-fhd-165hzrgb-kbdos-7280"
+    },
+    {
+        "name": "Notebook Dell Alienware Core 7 240H/32GB/1TB SSD/RTX 5060 8GB/16.0\" WQXGA 120Hz IPS/Win11",
+        "price": "89980",
+        "link": "https://www.anhoch.com/products/notebook-dell-alienware-core-7-240h32gb1tb-ssdrtx-5060-8gb160-wqxga-120hz-ipswin11-7794"
+    },
+    {
+        "name": "Notebook MSI Crosshair 18 HX AI Ultra 9 275HX/32GB/1TB/ RTX 5070 8GB/18\" QHD+ IPS 240Hz/RGB Kb",
+        "price": "119980",
+        "link": "https://www.anhoch.com/products/notebook-msi-crosshair-18-hx-ai-ultra-9-275hx32gb1tb-rtx-5070-8gb18-qhd-plus--ips-240hzrgb-kb-8309"
+    },
+    {
+        "name": "Notebook Lenovo Legion Pro 5 Ultra 7 255HX/16GB/1TB/RTX 5060 8GB/16\" OLED 165Hz G-Sync/Win11",
+        "price": "83980",
+        "link": "https://www.anhoch.com/products/notebook-lenovo-legion-pro-5-ultra-7-255hx16gb1tbrtx-5060-8gb16-oled-165hz-gsyncwin11-7806"
+    },
+    {
+        "name": "Notebook Lenovo LOQ Gaming Ryzen5 7235HS/12GB/512GB/RTX4050 6GB/15.6\" FHD 144Hz/Backlit Kb/Win11",
+        "price": "43980",
+        "link": "https://www.anhoch.com/products/notebook-lenovo-loq-gaming-ryzen5-7235hs12gb512gbrtx4050-6gb156-fhd-144hzbacklit-kbwin11-7808"
+    },
+    {
+        "name": "Notebook HP Victus Gaming Ryzen5 7535HS/8GB/512GB SSD/RX 6550M 4GB/15.6\" FHD IPS 144Hz/BacklitKb/W11",
+        "price": "35980",
+        "link": "https://www.anhoch.com/products/notebook-hp-victus-gaming-ryzen5-7535hs8gb512gb-ssdrx-6550m-4gb156-fhd-ips-144hzbacklitkbw11-3684"
+    },
+    {
+        "name": "Notebook Lenovo Yoga 7 2in1 Ryzen5 8640HS/8GB/512GB SSD/14\" WUXGA IPS Touch/W11H/Arctic Gray",
+        "price": "42980",
+        "link": "https://www.anhoch.com/products/notebook-lenovo-yoga-7-2in1-ryzen5-8640hs8gb512gb-ssd14-wuxga-ips-touchw11harctic-gray-3688"
+    },
+    {
+        "name": "Notebook Apple MacBook Air M2 Octa Core/8GB/512GB SSD/15.3\" LED IPS/Backlit Kb/Starlight",
+        "price": "64980",
+        "link": "https://www.anhoch.com/products/notebook-apple-macbook-air-m2-octa-core8gb512gb-ssd153-led-ipsbacklit-kbstarlight-1899"
+    },
+    {
+        "name": "Notebook Dell 15 Intel Core 3 100U/8GB/512GB/15.6\" FHD 120Hz/BacklitKB",
+        "price": "20980",
+        "link": "https://www.anhoch.com/products/notebook-dell-15-intel-core-3-100u8gb512gb156-fhd-120hzbacklitkb-8337"
+    },
+    {
+        "name": "Notebook Dell Pro 15 Essential Ryzen 5 7520U/8GB/512GB/15.6\" FHD 120Hz/BacklitKB",
+        "price": "19980",
+        "link": "https://www.anhoch.com/products/notebook-dell-pro-15-essential-ryzen-5-7520u8gb512gb156-fhd-120hzbacklitkb-8341"
+    },
+    {
+        "name": "Notebook Apple MacBook Pro M4 Pro 14C CPU/24GB/1TB SSD/Apple 20C GPU/14.2\" XDR 120Hz/Backlit Kb/SB",
+        "price": "167980",
+        "link": "https://www.anhoch.com/products/notebook-apple-macbook-pro-m4-pro-14c-cpu24gb1tb-ssdapple-20c-gpu142-xdr-120hzbacklit-kbsb-7319"
+    },
+    {
+        "name": "Notebook Lenovo IdeaPad Slim 3 Ryzen 5 5625U 16GB/512GB/15.6\" FHD IPS/Arctic Grey",
+        "price": "22980",
+        "link": "https://www.anhoch.com/products/notebook-lenovo-ideapad-slim-3-ryzen-5-5625u-16gb512gb156-fhd-ipsarctic-grey-8089"
+    },
+    {
+        "name": "Notebook HP OmniBook X Snapdragon X Plus/16GB/512GB /14\" 2.2K Touch/Backlit Kb/Win11/Silver",
+        "price": "44980",
+        "link": "https://www.anhoch.com/products/notebook-hp-omnibook-x-snapdragon-x-plus16gb512gb-14-22k-touchbacklit-kbwin11silver-6089"
+    },
+    {
+        "name": "Notebook Samsung Galaxy Book 4 Ultra 7 150U/16GB/512GB /15.6\" FHD/Win11/Silver",
+        "price": "44980",
+        "link": "https://www.anhoch.com/products/notebook-samsung-galaxy-book-4-ultra-7-150u16gb512gb-156-fhdwin11silver-6090"
+    },
+    {
+        "name": "Notebook Apple MacBook Air M4 10C CPU/16GB/512GB SSD/Apple 10C GPU/15.3\" LED IPS/Backlit Kb/Midnight",
+        "price": "98480",
+        "link": "https://www.anhoch.com/products/notebook-apple-macbook-air-m4-10c-cpu16gb512gb-ssdapple-10c-gpu153-led-ipsbacklit-kbmidnight-7374"
+    },
+    {
+        "name": "Notebook Apple MacBook Air M4 10C CPU/16GB/256GB SSD/Apple 10C GPU/15.3\" LED IPS/Backlit Kb/Silver",
+        "price": "82980",
+        "link": "https://www.anhoch.com/products/notebook-apple-macbook-air-m4-10c-cpu16gb256gb-ssdapple-10c-gpu153-led-ipsbacklit-kbsilver-7376"
+    },
+    {
+        "name": "Notebook Asus ROG STRIX G16 Ryzen9 8940HX/16GB/1TB SSD/RTX 5070Ti 12GB/16\" FHD 165Hz/Backlit/Win11",
+        "price": "129980",
+        "link": "https://www.anhoch.com/products/notebook-asus-rog-strix-g16-ryzen9-8940hx16gb1tb-ssdrtx-5070ti-12gb16-fhd-165hzbacklitwin11-7391"
+    },
+    {
+        "name": "Notebook Lenovo ThinkPad E16 G2 Ultra 5 125U/16GB/1TB SSD/16\" WUXGA IPS/Backlit KB/FP/Win11Pro",
+        "price": "59980",
+        "link": "https://www.anhoch.com/products/notebook-lenovo-thinkpad-e16-g2-ultra-5-125u16gb1tb-ssd16-wuxga-ipsbacklit-kbfpwin11pro-7395"
+    },
+    {
+        "name": "Notebook Apple MacBook Air M2 8C CPU/16GB/256GB SSD/Apple 8C GPU/13.6\" LED IPS/Backlit Kb/Midnight",
+        "price": "47980",
+        "link": "https://www.anhoch.com/products/notebook-apple-macbook-air-m2-8c-cpu16gb256gb-ssdapple-8c-gpu136-led-ipsbacklit-kbmidnight-7421"
+    },
+    {
+        "name": "Notebook Apple MacBook Air M4 10C CPU/16GB/256GB SSD/Apple 8C GPU/13.6\" LED IPS/Backlit Kb/Midnight",
+        "price": "54980",
+        "link": "https://www.anhoch.com/products/notebook-apple-macbook-air-m4-10c-cpu16gb256gb-ssdapple-8c-gpu136-led-ipsbacklit-kbmidnight-6452"
+    },
+    {
+        "name": "Notebook Asus VivoBook 14 X1404VA i5-1334U/12GB/256GB/14\" FHD IPS/BT/Win11/Blue",
+        "price": "23480",
+        "link": "https://www.anhoch.com/products/notebook-asus-vivobook-14-x1404va-i51334u12gb256gb14-fhd-ipsbtwin11blue-7745"
+    },
+    {
+        "name": "Notebook Acer Aspire Go 15 AG15-31P-3947 i3-N305/8GB/128GB/15.6\" FHD IPS/Win11HomeS/Silver",
+        "price": "18980",
+        "link": "https://www.anhoch.com/products/notebook-acer-aspire-go-15-ag1531p3947-i3n3058gb128gb156-fhd-ipswin11homessilver-8260"
+    },
+    {
+        "name": "Notebook Lenovo IdeaPad Slim 3 Ryzen 7 8840HS/24GB/512GB/16\" WUXGA IPS/AMD Radeon 780M",
+        "price": "38980",
+        "link": "https://www.anhoch.com/products/notebook-lenovo-ideapad-slim-3-ryzen-7-8840hs24gb512gb16-wuxga-ipsamd-radeon-780m-7931"
+    }
+]
