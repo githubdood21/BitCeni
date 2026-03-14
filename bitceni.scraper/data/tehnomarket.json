@@ -5,9 +5,9 @@
         "link": "https://tehnomarket.com.mk/product/29402893/lenovo-notebook-ideapad-1-n45008gb512gb156-fhdusb-ccloud-grey"
     },
     {
-        "name": "Notebook HP 15 Ryzen3 7320U/8GB/256GB/15.6\" FullHD IPS/DOS/Grey",
-        "price": "23499",
-        "link": "https://tehnomarket.com.mk/product/29399314/notebook-hp-15-ryzen3-7320u8gb256gb156-fullhd-ipsdosgrey"
+        "name": "Notebook Acer Aspire Lite AL15-32P N4500/8GB/256GB/15.6\" FHD IPS/No OS",
+        "price": "20999",
+        "link": "https://tehnomarket.com.mk/product/29404051/notebook-acer-aspire-lite-al15-32p-n45008gb256gb156-fhd-ipsno-os"
     },
     {
         "name": "Notebook Lenovo IdeaPad Slim 3 Ryzen 5 7520U/16GB/512GB/15.6\" FHD/USB-",
@@ -15,19 +15,9 @@
         "link": "https://tehnomarket.com.mk/product/29403996/notebook-lenovo-ideapad-slim-3-ryzen-5-7520u16gb512gb156-fhdusb-c"
     },
     {
-        "name": "HP 250 G9 I3-1215U 8GB/256GB/15.6\" FHD AG/IRIS XE/GIGALAN/TYPE-C/DOS/D",
-        "price": "24699",
-        "link": "https://tehnomarket.com.mk/product/29395736/hp-250-g9-i3-1215u-8gb256gb156-fhd-agiris-xegigalantype-cdosdark-silver"
-    },
-    {
-        "name": "Notebook HP 15 i5-1334U/16GB/512GB/15.6\" FHD IPS/Iris XE/Type-C/FreeDO",
-        "price": "25499",
-        "link": "https://tehnomarket.com.mk/product/29403785/notebook-hp-15-i5-1334u16gb512gb156-fhd-ipsiris-xetype-cfreedos"
-    },
-    {
-        "name": "Notebook Lenovo IdeaPad Slim 3 i5-12450H 16GB/512GB SSD/15.6\" FHD/DOS/",
-        "price": "25999",
-        "link": "https://tehnomarket.com.mk/product/29401556/notebook-lenovo-ideapad-slim-3-i5-12450h-16gb512gb-ssd156-fhddosultraslimgray"
+        "name": "Notebook Lenovo V15 Business G4 Ryzen 3 7320U/16GB/512GB/15.6\" FHD/USB",
+        "price": "23999",
+        "link": "https://tehnomarket.com.mk/product/29404233/notebook-lenovo-v15-business-g4-ryzen-3-7320u16gb512gb156-fhdusb-cblack"
     },
     {
         "name": "Notebook HP 255 G10 Ryzen 5 7530U/16GB/512GB/15.6\" FHD IPS/No OS",
@@ -38,6 +28,11 @@
         "name": "Notebook Dell 15 i5-1334U/8GB/512GB/15.6\" FHD 120Hz/BacklitKB",
         "price": "25999",
         "link": "https://tehnomarket.com.mk/product/29404010/notebook-dell-15-i5-1334u8gb512gb156-fhd-120hzbacklitkb"
+    },
+    {
+        "name": "Notebook Asus VivoBook 14 X1404VA i5-1334U/12GB/256GB/14\" FHD IPS/BT/W",
+        "price": "25999",
+        "link": "https://tehnomarket.com.mk/product/29404375/notebook-asus-vivobook-14-x1404va-i5-1334u12gb256gb14-fhd-ipsbtwin11blue"
     },
     {
         "name": "Notebook Dell Vostro 3530 i5-1334U 16GB/512GB/IntelUHD/15.6\"FHD120Hz/B",
@@ -60,14 +55,24 @@
         "link": "https://tehnomarket.com.mk/product/29404011/notebook-hp-250-g10-intel-core-5-120u8gb512gb156-fullhdusb-cdos"
     },
     {
-        "name": "Notebook HP 15 i5-1334U 16GB/512GB/15.6\" FHD IPS/Iris XE/Type-C/DOS/Si",
-        "price": "28999",
-        "link": "https://tehnomarket.com.mk/product/29401523/notebook-hp-15-i5-1334u-16gb512gb156-fhd-ipsiris-xetype-cdossilver"
+        "name": "Notebook Lenovo IdeaPad Slim 3 i5-12450H 16GB/512GB SSD/15.6\" FHD/DOS/",
+        "price": "27999",
+        "link": "https://tehnomarket.com.mk/product/29401556/notebook-lenovo-ideapad-slim-3-i5-12450h-16gb512gb-ssd156-fhddosultraslimgray"
+    },
+    {
+        "name": "Notebook Acer Aspire 3 Ryzen 7 7730U/16GB/512GB SSD/15.6\" FHD IPS/Back",
+        "price": "28499",
+        "link": "https://tehnomarket.com.mk/product/29404036/notebook-acer-aspire-3-ryzen-7-7730u16gb512gb-ssd156-fhd-ipsbacklit-kbdos"
     },
     {
         "name": "Notebook Lenovo IdeaPad Slim 3 i5-13420H 16GB/512GB SSD/15.3\" WUXGA IP",
         "price": "28999",
         "link": "https://tehnomarket.com.mk/product/29402444/notebook-lenovo-ideapad-slim-3-i5-13420h-16gb512gb-ssd153-wuxga-ipsno-os"
+    },
+    {
+        "name": "Notebook HP 15 i5-1334U/16GB/512GB/15.6\" FHD IPS/Iris XE/Type-C/FreeDO",
+        "price": "28999",
+        "link": "https://tehnomarket.com.mk/product/29403785/notebook-hp-15-i5-1334u16gb512gb156-fhd-ipsiris-xetype-cfreedos"
     },
     {
         "name": "Notebook HP 250 G10 Intel Core 5 120U/16GB/512GB/15.6\" FullHD/USB-C/DO",
@@ -85,9 +90,24 @@
         "link": "https://tehnomarket.com.mk/product/29403786/notebook-lenovo-v15-business-g4-ryzen-7-7730u16gb512gb156-fhd-ipsrj-45black"
     },
     {
+        "name": "Notebook HP 255R G10 Ryzen 7 7735U/16GB/512GB/15.6\" FHD IPS/USB-C/Dark",
+        "price": "29999",
+        "link": "https://tehnomarket.com.mk/product/29404300/notebook-hp-255r-g10-ryzen-7-7735u16gb512gb156-fhd-ipsusb-cdark-silver"
+    },
+    {
+        "name": "Notebook HP 255 G10 Ryzen 7 7730U/16GB/512GB/15.6\" FHD IPS/BacklitKb/D",
+        "price": "29999",
+        "link": "https://tehnomarket.com.mk/product/29404035/notebook-hp-255-g10-ryzen-7-7730u16gb512gb156-fhd-ipsbacklitkbdark-ash-silver"
+    },
+    {
         "name": "Notebook Lenovo IdeaPad Slim 3 Ryzen7 7730U 16GB/512GB/16\" WUXGA IPS/N",
         "price": "31999",
         "link": "https://tehnomarket.com.mk/product/29402445/notebook-lenovo-ideapad-slim-3-ryzen7-7730u-16gb512gb16-wuxga-ipsno-os"
+    },
+    {
+        "name": "Notebook Lenovo IdeaPad Slim 3 i7-13620H/16GB/512GB/15.3\" FHD IPS/USB-",
+        "price": "34999",
+        "link": "https://tehnomarket.com.mk/product/29404323/notebook-lenovo-ideapad-slim-3-i7-13620h16gb512gb153-fhd-ipsusb-cluna-grey"
     },
     {
         "name": "Notebook Dell 15 i7-1355U/16GB/512GB/15.6\" FHD 120Hz/BacklitKB/FreeDOS",
@@ -95,24 +115,59 @@
         "link": "https://tehnomarket.com.mk/product/29403784/notebook-dell-15-i7-1355u16gb512gb156-fhd-120hzbacklitkbfreedos"
     },
     {
+        "name": "Notebook MSI Thin 15 Gaming i5-13420H/16GB/512GB/RTX3050 4GB/15.6\" FHD",
+        "price": "40999",
+        "link": "https://tehnomarket.com.mk/product/29404301/notebook-msi-thin-15-gaming-i5-13420h16gb512gbrtx3050-4gb156-fhd-144hzbacklit-kbwin11"
+    },
+    {
+        "name": "Notebook Dell Inspiron 5441 Snapdragon X Plus X1P-42-100/16GB/1TB/14\"",
+        "price": "40999",
+        "link": "https://tehnomarket.com.mk/product/29404430/notebook-dell-inspiron-5441-snapdragon-x-plus-x1p-42-10016gb1tb14-wuxga-ipswin11"
+    },
+    {
+        "name": "Apple MB NEO 13: SILVER/A18 PRO 6C CPU/5C GPU/8GB/256GB-ZEE",
+        "price": "41999",
+        "link": "https://tehnomarket.com.mk/product/29404736/apple-mb-neo-13-silvera18-pro-6c-cpu5c-gpu8gb256gb-zee"
+    },
+    {
+        "name": "Apple MB NEO 13: BLUSH/A18 PRO 6C CPU/5C GPU/8GB/256GB-ZEE",
+        "price": "41999",
+        "link": "https://tehnomarket.com.mk/product/29404737/apple-mb-neo-13-blusha18-pro-6c-cpu5c-gpu8gb256gb-zee"
+    },
+    {
+        "name": "Apple MB NEO 13: INDIGO/A18 PRO 6C CPU/5C GPU/8GB/256GB-ZEE",
+        "price": "41999",
+        "link": "https://tehnomarket.com.mk/product/29404738/apple-mb-neo-13-indigoa18-pro-6c-cpu5c-gpu8gb256gb-zee"
+    },
+    {
+        "name": "Apple MB NEO 13: CITRUS/A18 PRO 6C CPU/5C GPU/8GB/256GB-ZEE",
+        "price": "41999",
+        "link": "https://tehnomarket.com.mk/product/29404739/apple-mb-neo-13-citrusa18-pro-6c-cpu5c-gpu8gb256gb-zee"
+    },
+    {
         "name": "Notebook Dell Vostro 3520 i7-1255U 16GB/512GB/Intel Iris XE/15.6\" FHD",
         "price": "44999",
         "link": "https://tehnomarket.com.mk/product/29399440/notebook-dell-vostro-3520-i7-1255u-16gb512gbintel-iris-xe156-fhd-120hzbacklitkb4cellubuntu"
     },
     {
-        "name": "DELL Vostro 3510 i5-1135G7/8GB/512GB SSD/MX350 2GB/15.6\u201d FHD/BACKLIT/B",
+        "name": "Notebook MSI Thin 15 Gaming i5-13420H/16GB/512GB SSD/RTX 4050 6GB/15.6",
+        "price": "46999",
+        "link": "https://tehnomarket.com.mk/product/29404322/notebook-msi-thin-15-gaming-i5-13420h16gb512gb-ssdrtx-4050-6gb156-fhd-144hzbacklit-kbwin11"
+    },
+    {
+        "name": "Notebook Gigabyte A16 Gaming i5-13420H/16GB/512GB SSD/RTX 4050 6GB/16.",
         "price": "48999",
-        "link": "https://tehnomarket.com.mk/product/29391376/dell-vostro-3510-i5-1135g78gb512gb-ssdmx350-2gb156-fhdbacklitblack"
+        "link": "https://tehnomarket.com.mk/product/29404474/notebook-gigabyte-a16-gaming-i5-13420h16gb512gb-ssdrtx-4050-6gb160-fhd-165hz-ipstype-cdos"
     },
     {
-        "name": "Notebook Lenovo LOQ Gaming i5-12450HX/16GB/512GB/RTX4050 6GB/15.6\" FHD",
-        "price": "52999",
-        "link": "https://tehnomarket.com.mk/product/29403125/notebook-lenovo-loq-gaming-i5-12450hx16gb512gbrtx4050-6gb156-fhd-ips-144hzdos"
+        "name": "Notebook Lenovo LOQ Gaming Ryzen 5 220 AI/16GB/512GB/RTX 5050 8GB/15.6",
+        "price": "62999",
+        "link": "https://tehnomarket.com.mk/product/29404053/notebook-lenovo-loq-gaming-ryzen-5-220-ai16gb512gbrtx-5050-8gb156-fhd-ips-g-sync"
     },
     {
-        "name": "Apple MBA 13.6: SILVER/M4 10C CPU/8C GPU/16GB/256GB-ZEE",
-        "price": "54990",
-        "link": "https://tehnomarket.com.mk/product/29402254/apple-mba-136-silverm4-10c-cpu8c-gpu16gb256gb-zee"
+        "name": "Notebook Gigabyte A16 Gaming i7-13620H/16GB/1TB SSD/RTX 5060 8GB/16.0\"",
+        "price": "65999",
+        "link": "https://tehnomarket.com.mk/product/29404054/notebook-gigabyte-a16-gaming-i7-13620h16gb1tb-ssdrtx-5060-8gb160-fhd-165hz-ipstype-cdos"
     },
     {
         "name": "Apple MBA 13.6: STARLIGHT/M2/8C GPU/16GB/256GB-ZEE",
@@ -120,14 +175,24 @@
         "link": "https://tehnomarket.com.mk/product/29403166/apple-mba-136-starlightm28c-gpu16gb256gb-zee"
     },
     {
-        "name": "Apple MBA 13.6: MIDNIGHT/M2/8C GPU/16GB/256GB-ZEE",
-        "price": "73799",
-        "link": "https://tehnomarket.com.mk/product/29403165/apple-mba-136-midnightm28c-gpu16gb256gb-zee"
+        "name": "Apple MBA 13.6: MIDNIGHT/M5 10C CPU/8C GPU/16GB/512GB-ZEE",
+        "price": "73999",
+        "link": "https://tehnomarket.com.mk/product/29404726/apple-mba-136-midnightm5-10c-cpu8c-gpu16gb512gb-zee"
     },
     {
-        "name": "Apple MBA 13.6: SKY BLUE/M4 10C CPU/8C GPU/16GB/256GB-ZEE",
-        "price": "75999",
-        "link": "https://tehnomarket.com.mk/product/29402175/apple-mba-136-sky-bluem4-10c-cpu8c-gpu16gb256gb-zee"
+        "name": "Apple MBA 13.6: SKY BLUE/M5 10C CPU/8C GPU/16GB/512GB-ZEE",
+        "price": "73999",
+        "link": "https://tehnomarket.com.mk/product/29404727/apple-mba-136-sky-bluem5-10c-cpu8c-gpu16gb512gb-zee"
+    },
+    {
+        "name": "Apple MBA 13.6: STARLIGHT/M5 10C CPU/8C GPU/16GB/512GB-ZEE",
+        "price": "73999",
+        "link": "https://tehnomarket.com.mk/product/29404725/apple-mba-136-starlightm5-10c-cpu8c-gpu16gb512gb-zee"
+    },
+    {
+        "name": "Apple MBA 13.6: SILVER/M5 10C CPU/8C GPU/16GB/512GB-ZEE",
+        "price": "73999",
+        "link": "https://tehnomarket.com.mk/product/29404724/apple-mba-136-silverm5-10c-cpu8c-gpu16gb512gb-zee"
     },
     {
         "name": "Apple MBA 13.6: MIDNIGHT/M4 10C CPU/8C GPU/16GB/256GB-ZEE",
@@ -138,5 +203,120 @@
         "name": "Apple MBA 13.6: STARLIGHT/M4 10C CPU/8C GPU/16GB/256GB-ZEE",
         "price": "75999",
         "link": "https://tehnomarket.com.mk/product/29402253/apple-mba-136-starlightm4-10c-cpu8c-gpu16gb256gb-zee"
+    },
+    {
+        "name": "Apple MBA 13.6: SILVER/M4 10C CPU/8C GPU/16GB/256GB-ZEE",
+        "price": "75999",
+        "link": "https://tehnomarket.com.mk/product/29402254/apple-mba-136-silverm4-10c-cpu8c-gpu16gb256gb-zee"
+    },
+    {
+        "name": "Notebook Gigabyte A18 Gaming Ryzen 7 260/16GB/1TB SSD/RTX 5060 8GB/18.",
+        "price": "78999",
+        "link": "https://tehnomarket.com.mk/product/29404382/notebook-gigabyte-a18-gaming-ryzen-7-26016gb1tb-ssdrtx-5060-8gb180-wqxga-165hz-ipsdos"
+    },
+    {
+        "name": "Apple MBA 15.3: SKY BLUE/M5 10C CPU/10C GPU/16GB/512GB-ZEE",
+        "price": "91999",
+        "link": "https://tehnomarket.com.mk/product/29404731/apple-mba-153-sky-bluem5-10c-cpu10c-gpu16gb512gb-zee"
+    },
+    {
+        "name": "Apple MBA 15.3: STARLIGHT/M5 10C CPU/10C GPU/16GB/512GB-ZEE",
+        "price": "91999",
+        "link": "https://tehnomarket.com.mk/product/29404729/apple-mba-153-starlightm5-10c-cpu10c-gpu16gb512gb-zee"
+    },
+    {
+        "name": "Apple MBA 15.3: MIDNIGHT/M5 10C CPU/10C GPU/16GB/512GB-ZEE",
+        "price": "91999",
+        "link": "https://tehnomarket.com.mk/product/29404730/apple-mba-153-midnightm5-10c-cpu10c-gpu16gb512gb-zee"
+    },
+    {
+        "name": "Apple MBA 15.3: SILVER/M5 10C CPU/10C GPU/16GB/512GB-ZEE",
+        "price": "91999",
+        "link": "https://tehnomarket.com.mk/product/29404728/apple-mba-153-silverm5-10c-cpu10c-gpu16gb512gb-zee"
+    },
+    {
+        "name": "Notebook Dell Alienware Core 7 240H/32GB/1TB SSD/RTX 5060 8GB/16.0\" WQ",
+        "price": "92999",
+        "link": "https://tehnomarket.com.mk/product/29404587/notebook-dell-alienware-core-7-240h32gb1tb-ssdrtx-5060-8gb160-wqxga-120hz-ipswin11"
+    },
+    {
+        "name": "Apple MBA 15.3: MIDNIGHT/M4 10C CPU/10C GPU/16GB/256GB-ZEE",
+        "price": "93999",
+        "link": "https://tehnomarket.com.mk/product/29403134/apple-mba-153-midnightm4-10c-cpu10c-gpu16gb256gb-zee"
+    },
+    {
+        "name": "Apple MBA 15.3: SILVER/M4 10C CPU/10C GPU/16GB/256GB-ZEE",
+        "price": "93999",
+        "link": "https://tehnomarket.com.mk/product/29403135/apple-mba-153-silverm4-10c-cpu10c-gpu16gb256gb-zee"
+    },
+    {
+        "name": "Apple MBP 14: Silver /M5 10C/10C GPU/16GB/512GB-ZEE",
+        "price": "105999",
+        "link": "https://tehnomarket.com.mk/product/29403659/apple-mbp-14-silver-m5-10c10c-gpu16gb512gb-zee"
+    },
+    {
+        "name": "Apple MBP 14: Space Black /M5 10C/10C GPU/16GB/512GB-ZEE",
+        "price": "105999",
+        "link": "https://tehnomarket.com.mk/product/29403658/apple-mbp-14-space-black-m5-10c10c-gpu16gb512gb-zee"
+    },
+    {
+        "name": "Apple MBA 15.3: MIDNIGHT/M4 10C CPU/10C GPU/16GB/512GB-ZEE",
+        "price": "109499",
+        "link": "https://tehnomarket.com.mk/product/29403132/apple-mba-153-midnightm4-10c-cpu10c-gpu16gb512gb-zee"
+    },
+    {
+        "name": "Apple Macbook Air 13.6\" Space Grey/M2/10C GPU/8GB/512GB-ZEE",
+        "price": "118999",
+        "link": "https://tehnomarket.com.mk/product/29395678/apple-macbook-air-136-space-greym210c-gpu8gb512gb-zee"
+    },
+    {
+        "name": "Apple Macbook Pro 14\" SILVER/M3 8C/10C GPU/8GB/512GB-ZEE",
+        "price": "121090",
+        "link": "https://tehnomarket.com.mk/product/29399276/apple-macbook-pro-14-silverm3-8c10c-gpu8gb512gb-zee"
+    },
+    {
+        "name": "Apple MBP 14: SILVER/M5 10C/10C GPU/24GB/1TB-ZEE",
+        "price": "138999",
+        "link": "https://tehnomarket.com.mk/product/29404367/apple-mbp-14-silverm5-10c10c-gpu24gb1tb-zee"
+    },
+    {
+        "name": "Apple MBP 14: SPACE BLACK/M4 Pro 12C/16C GPU/24GB/512G-ZEE",
+        "price": "147699",
+        "link": "https://tehnomarket.com.mk/product/29401694/apple-mbp-14-space-blackm4-pro-12c16c-gpu24gb512g-zee"
+    },
+    {
+        "name": "Apple MBP 14: SILVER/M5 PRO 15C CPU/15C/16C GPU/24GB/1T-ZEE",
+        "price": "151999",
+        "link": "https://tehnomarket.com.mk/product/29404732/apple-mbp-14-silverm5-pro-15c-cpu15c16c-gpu24gb1t-zee"
+    },
+    {
+        "name": "Apple MBP 14: SPACE BLACK/M5 PRO 15C CPU/15C/16C GPU/24GB/1T-ZEE",
+        "price": "151999",
+        "link": "https://tehnomarket.com.mk/product/29404733/apple-mbp-14-space-blackm5-pro-15c-cpu15c16c-gpu24gb1t-zee"
+    },
+    {
+        "name": "Apple MBP 16: SPACE BLACK/M4 Pro 14C/20C GPU/24GB/512G-ZEE",
+        "price": "176999",
+        "link": "https://tehnomarket.com.mk/product/29401567/apple-mbp-16-space-blackm4-pro-14c20c-gpu24gb512g-zee"
+    },
+    {
+        "name": "Apple MBP 16: SILVER/M4 Pro 14C/20C GPU/24GB/512G-ZEE",
+        "price": "176999",
+        "link": "https://tehnomarket.com.mk/product/29401695/apple-mbp-16-silverm4-pro-14c20c-gpu24gb512g-zee"
+    },
+    {
+        "name": "Apple MBP 16: SILVER/M5 PRO 18C CPU/18C/20C GPU/24GB/1T-ZEE",
+        "price": "181999",
+        "link": "https://tehnomarket.com.mk/product/29404734/apple-mbp-16-silverm5-pro-18c-cpu18c20c-gpu24gb1t-zee"
+    },
+    {
+        "name": "Apple MBP 16: SPACE BLACK/M5 PRO 18C CPU/18C/20C GPU/24GB/1T-ZEE",
+        "price": "181999",
+        "link": "https://tehnomarket.com.mk/product/29404735/apple-mbp-16-space-blackm5-pro-18c-cpu18c20c-gpu24gb1t-zee"
+    },
+    {
+        "name": "Notebook MSI Vector 16 HX AI Ultra 9 275HX/64GB/1TB SSD/RTX 5080 16GB/",
+        "price": "199999",
+        "link": "https://tehnomarket.com.mk/product/29404236/notebook-msi-vector-16-hx-ai-ultra-9-275hx64gb1tb-ssdrtx-5080-16gbrgb-kb"
     }
 ]

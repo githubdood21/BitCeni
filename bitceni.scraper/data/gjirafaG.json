@@ -1,1 +1,487 @@
-[]
+[
+    {
+        "name": "Lenovo LOQ 15ARP9, 15.6\", AMD Ryzen 5 7235HS, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050",
+        "price": "42390",
+        "link": "https://gjirafa50.mk/laptop-lenovo-loq-15arp9-156-amd-ryzen-5-7235hs-16gb-ram-512gb-ssd-nvidia-geforce-rtx-3050"
+    },
+    {
+        "name": "Монитор MSI MPG 491CQP, QD-OLED, 49\", 5120x1440, DQHD, 144Hz, HDR True Black 400",
+        "price": "51890",
+        "link": "https://gjirafa50.mk/monitor-msi-mpg-491cqp-qd-oled-49-5120x1440-dqhd-144hz-hdr-true-black-400"
+    },
+    {
+        "name": "Lenovo LOQ 17IRX10, 17.3\", Intel Core i5-13450HX, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 5050 8GB GDDR7, сив",
+        "price": "60990",
+        "link": "https://gjirafa50.mk/laptop-lenovo-loq-17irx10-173-intel-core-i5-13450hx-16gb-512gb-ssd-nvidia-geforce-rtx-5050-8gb-gddr7-i-hirte"
+    },
+    {
+        "name": "ASUS ROG Zephyrus G16 GU605CP, 16\", Intel Core Ultra 9, 32GB RAM, 1TB SSD, NVIDIA GeForce RTX 5070, сив",
+        "price": "144590",
+        "link": "https://gjirafa50.mk/laptop-asus-rog-zephyrus-g16-gu605cp-16-intel-core-ultra-9-32gb-ram-1tb-ssd-nvidia-geforce-rtx-5070-i-hirte"
+    },
+    {
+        "name": "GIGABYTE Gaming A16, 16\", AMD Ryzen 7 260, 16GB DDR5, 512GB SSD, NVIDIA GeForce RTX 5050 8GB GDDR7, црн",
+        "price": "61690",
+        "link": "https://gjirafa50.mk/laptop-gigabyte-gaming-a16-16-amd-ryzen-7-260-16gb-ddr5-512gb-ssd-nvidia-geforce-rtx-5050-8gb-gddr7-crn"
+    },
+    {
+        "name": "MSI Cyborg 15 A13VE-1613XPL, 15.6\", Intel Core i5-13420H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 4050, i zi",
+        "price": "49290",
+        "link": "https://gjirafa50.mk/laptop-msi-cyborg-15-a13ve-1613xpl-156-intel-core-i5-13420h-16gb-ram-512gb-ssd-nvidia-geforce-rtx-4050-i-zi"
+    },
+    {
+        "name": "MSI Thin 15 B13VE-3091XPL, 15.6\", Intel Core i5-13420H, 16GB DDR4-3200, 512GB SSD, NVIDIA GeForce RTX 4050 6GB GDDR6, темно сива",
+        "price": "50890",
+        "link": "https://gjirafa50.mk/laptop-msi-thin-15-b13ve-3091xpl-156-intel-core-i5-13420h-16gb-ddr4-3200-512gb-ssd-nvidia-geforce-rtx-4050-6gb-gddr6-temno-siva"
+    },
+    {
+        "name": "Lenovo LOQ 15IRX10, 15.6\", Intel Core i5-13450HX, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 5050 8GB GDDR7, сив",
+        "price": "60990",
+        "link": "https://gjirafa50.mk/laptop-lenovo-loq-15irx10-156-intel-core-i5-13450hx-16gb-ram-512gb-ssd-nvidia-geforce-rtx-5050-8gb-gddr7-siv"
+    },
+    {
+        "name": "ASUS TUF Gaming FA808UH-S8021, 18\", AMD Ryzen 7 260, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 5050 8GB GDDR7, темно сив",
+        "price": "74490",
+        "link": "https://gjirafa50.mk/laptop-asus-tuf-gaming-fa808uh-s8021-18-amd-ryzen-7-260-16gb-ram-512gb-ssd-nvidia-geforce-rtx-5050-8gb-gddr7-i-hirte-erret"
+    },
+    {
+        "name": "ASUS ROG Strix SCAR 18 (G835LX), 18\", Intel Core Ultra 9 275HX, 64 GB RAM, 4 TB SSD, NVIDIA RTX 5090, Windows 11 Pro, црн",
+        "price": "339290",
+        "link": "https://gjirafa50.mk/laptop-asus-rog-strix-scar-18-g835lx-18-intel-core-ultra-9275hx-64gb-ram-4tb-ssd-nvidia-rtx5090-windows11-pro-i-zi"
+    },
+    {
+        "name": "Lenovo LOQ 15ARP9, 15.6\", Ryzen 5 7235HS, 16GB RAM, 512GB SSD, GeForce RTX 3050, бел",
+        "price": "45690",
+        "link": "https://gjirafa50.mk/laptop-lenovo-loq-15arp9-156-ryzen-5-7235hs-16gb-ram-512gb-ssd-geforce-rtx-3050-i-hirte"
+    },
+    {
+        "name": "ASUS ROG Strix G18 (G814PM‑ES96), 18\\\", Intel Core 9 275HX, 32 GB DDR5, 1 TB SSD, NVIDIA RTX 5060, Windows 11 Home, сив",
+        "price": "139990",
+        "link": "https://gjirafa50.mk/laptop-asus-rog-strix-g18-g814pmes96-18-intel-core-9275hx-32gb-ddr5-1tb-ssd-nvidia-rtx5060-windows11homei-hirte"
+    },
+    {
+        "name": "ASUS TUF Gaming F16 FA608UH-R7165W, 16\" FHD+, AMD Ryzen 7 260, 16GB DDR5, 512GB SSD, NVIDIA GeForce RTX 5050, сив",
+        "price": "70690",
+        "link": "https://gjirafa50.mk/laptop-asus-tuf-gaming-f16-fa608uh-r7165w-16-amd-ryzen-7-260-16gb-ddr5-512gb-ssd-nvidia-geforce-rtx-5050-i-hirte"
+    },
+    {
+        "name": "ASUS TUF Gaming A16 (FA608UM-RV015), 16\", AMD Ryzen 7, 16GB RAM, 1TB SSD, NVIDIA GeForce RTX 5060, темно сив",
+        "price": "74890",
+        "link": "https://gjirafa50.mk/laptop-asus-tuf-gaming-a16-fa608um-rv015-16-amd-ryzen-716gb-ram-1tb-ssd-nvidia-geforce-rtx-5060-i-hirte-erret"
+    },
+    {
+        "name": "ASUS TUF Gaming A15, 15.6\", AMD Ryzen 7 7445HS, 16GB RAM, 1TB SSD, NVIDIA GeForce RTX 3050 4GB, црн",
+        "price": "48890",
+        "link": "https://gjirafa50.mk/laptop-asus-tuf-gaming-a15-156-amd-ryzen-7-7445hs-16gb-ram-1tb-ssd-nvidia-geforce-rtx-3050-4gb-i-zi"
+    },
+    {
+        "name": "MSI Cyborg 15 B2RW, 15.6″, Intel Core 5 210H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 5050 8GB, црн",
+        "price": "60590",
+        "link": "https://gjirafa50.mk/laptop-msi-cyborg-15-b2rw-156-intel-core-5-210h-16gb-ram-512gb-ssd-nvidia-geforce-rtx-5050-8gb-i-zi"
+    },
+    {
+        "name": "Lenovo Legion 7 16IAX10, 16\\\", Intel Core Ultra 7 255HX, 32GB RAM, 1TB SSD, NVIDIA GeForce RTX 5060, бел",
+        "price": "122790",
+        "link": "https://gjirafa50.mk/laptop-lenovo-legion-7-16iax10-16-intel-core-ultra-7-255hx-32gb-ram-1tb-ssd-nvidia-geforce-rtx-5060-i-bardhe"
+    },
+    {
+        "name": "MSI Katana A15 AI B8V, 15\", AMD Ryzen 9 8945HS, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 4050, црн",
+        "price": "55190",
+        "link": "https://gjirafa50.mk/laptop-msi-katana-a15-ai-b8v-15-amd-ryzen-9-8945hs-16gb-ram-512gb-ssd-nvidia-geforce-rtx-4050-i-zi"
+    },
+    {
+        "name": "Lenovo LOQ 15ARP9, 15.6\", AMD Ryzen 5 7235HS, 16GB RAM, 1TB SSD, NVIDIA GeForce RTX 3050, Windows 11 Home",
+        "price": "60390",
+        "link": "https://gjirafa50.mk/laptop-lenovo-loq-15arp9-156-amd-ryzen-5-7235hs-16gb-ram-1tb-ssd-nvidia-geforce-rtx-3050-windows-11-home"
+    },
+    {
+        "name": "MSI Thin 15 B13UC-3423XPL, 15.6\", Intel Core i5-13420H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050, сив",
+        "price": "45590",
+        "link": "https://gjirafa50.mk/laptop-msi-thin-15-b13uc-3423xpl-156-intel-core-i5-13420h-16gb-ram-512gb-ssd-nvidia-geforce-rtx-3050-i-hirte"
+    },
+    {
+        "name": "MSI Katana 17 B13VEK-1261XPL, 17\", Intel Core i7-13620H, 16GB RAM, 1TB SSD, GeForce Nvidia RTX 4050,црна боја",
+        "price": "83390",
+        "link": "https://gjirafa50.mk/laptop-msi-katana-17-b13vek-1261xpl-17-intel-core-i7-13620h-16gb-ram-1tb-ssd-geforce-nvidia-rtx-4050"
+    },
+    {
+        "name": "Asus ROG Strix G16, 16\", AMD Ryzen 9 9955HX, 32GB RAM, 1TB SSD, NVIDIA GeForce RTX 5070, сив",
+        "price": "120490",
+        "link": "https://gjirafa50.mk/laptop-asus-rog-strix-g16-16-amd-ryzen-9-9955hx-32gb-ram-1tb-ssd-nvidia-geforce-rtx-5070-i-hirte"
+    },
+    {
+        "name": "Lenovo LOQ 15ARP9, 15.6\", Ryzen 5 7235HS",
+        "price": "54790",
+        "link": "https://gjirafa50.mk/laptop-lenovo-loq-15arp9-156-amd-ryzen-5-7235hs-16gb-ram-512gb-ssd-rtx-3050-144hz-i-hirte"
+    },
+    {
+        "name": "Lenovo V15 G4 IRU, Intel Core i5 13420H, 15.6\\\" FHD, RAM 8GB, SSD 512GB, сива боја",
+        "price": "40290",
+        "link": "https://gjirafa50.mk/laptop-lenovo-v15-g4-iru-156-intel-core-i5-13420h-156-fhd-ram-8gb-ssd-512gb-i-hirte"
+    },
+    {
+        "name": "ASUS ROG Strix G16 G615LM, 16\", Intel Core Ultra 9 275HX, 32GB RAM, 1TB SSD, NVIDIA GeForce RTX 5060, сив",
+        "price": "127790",
+        "link": "https://gjirafa50.mk/laptop-asus-rog-strix-g16-g615lm-16-intel-core-ultra-9-275hx-32gb-ram-1tb-ssd-nvidia-geforce-rtx-5060-i-hirte"
+    },
+    {
+        "name": "Гејмерски лаптоп HP OMEN MAX 16-ak0002nc, 16\", AMD Ryzen AI 9 HX 375, 32GB RAM, 1TB SSD, NVIDIA GeForce RTX 5070 Ti, црн",
+        "price": "155990",
+        "link": "https://gjirafa50.mk/laptop-gaming-hp-omen-max-16-ak0002nc-16-amd-ryzen-ai-9-hx-375-32gb-ram-1tb-ssd-nvidia-geforce-rtx-5070-ti-i-zi"
+    },
+    {
+        "name": "Acer Predator Helios Neo 16S AI (PHN16S-71), 16\", Intel Core Ultra 9 275HX, 32GB RAM, 1TB SSD, NVIDIA RTX 5070, црн",
+        "price": "140990",
+        "link": "https://gjirafa50.mk/laptop-acer-predator-helios-neo-16s-ai-phn16s-71-16-intel-core-ultra-9-275hx-32gb-ram-1tb-ssd-nvidia-rtx-5070-i-zi"
+    },
+    {
+        "name": "Lenovo Legion Pro 5 16IAX10, 16\\\", Intel Core Ultra 9 275HX, 32GB RAM, 1TB SSD, NVIDIA GeForce RTX 5060, црна",
+        "price": "118790",
+        "link": "https://gjirafa50.mk/laptop-lenovo-legion-pro-5-16iax10-16-intel-core-ultra-9-275hx-32gb-ram-1tb-ssd-nvidia-geforce-rtx-5060-i-zi"
+    },
+    {
+        "name": "HP Victus 15-fa2003nc, 15.6\", Intel Core 5 210H процесор, 24GB RAM, 1TB SSD, NVIDIA GeForce RTX 5060, сина",
+        "price": "78690",
+        "link": "https://gjirafa50.mk/laptophp-victus-15-fa2003nc156-intel-core-5-210h-24gb-ram-1tb-ssd-nvidia-geforce-rtx-5060-i-kalter"
+    },
+    {
+        "name": "Lenovo Legion Pro 7 16IAX10H, 16\", Intel Core Ultra 9-275HX, 32GB RAM, 1TB SSD, NVIDIA GeForce RTX 5080, црн",
+        "price": "211290",
+        "link": "https://gjirafa50.mk/laptop-lenovo-legion-pro-7-16iax10h-16-intel-core-ultra-9-275hx-32gb-ram-1tb-ssd-nvidia-geforce-rtx-5080-i-zi"
+    },
+    {
+        "name": "Lenovo Legion Pro 5 16IAX10, 16\\\", Intel Core Ultra 7 255HX, 32GB RAM, 1TB SSD, NVIDIA GeForce RTX 5070, црн",
+        "price": "122790",
+        "link": "https://gjirafa50.mk/lapotp-lenovo-legion-pro-5-16iax10-16-intel-core-ultra-7-255hx-32gb-ram-1tb-ssd-nvidia-geforce-rtx-5070-i-zi"
+    },
+    {
+        "name": "ASUS ROG Strix G16 G615LR-NEBULA006W, 16\\\", Intel Core Ultra 9 275HX, 32GB RAM, 1TB SSD, црн",
+        "price": "159990",
+        "link": "https://gjirafa50.mk/laptop-asus-rog-strix-g16-g615lr-nebula006w-16-intel-core-ultra-9-275hx-32gb-ram-1tb-ssd-nvidia-geforce-rtx-5070-ti-i-zi"
+    },
+    {
+        "name": "Asus ROG Zephyrus G14 GA403, 14\", AMD Ryzen 9 270, 32GB RAM, 1TB SSD, NVIDIA GeForce RTX 5060, сив",
+        "price": "180890",
+        "link": "https://gjirafa50.mk/laptop-asus-rog-zephyrus-g14-ga403-14-amd-ryzen-9-270-32gb-ram-1tb-ssd-nvidia-geforce-rtx-5060-e-hirte"
+    },
+    {
+        "name": "Acer Predator Helios 16 PH16-73-919G, 16\", Intel Core U9-275HX, 64GB RAM, 1TB SSD, NVIDIA GeForce RTX 5090, црн",
+        "price": "281890",
+        "link": "https://gjirafa50.mk/laptop-acer-predator-helios-16-ph16-73-919g-16-intel-core-u9-275hx-64gb-ram-1tb-ssd-nvidia-geforce-rtx-5090-i-zi"
+    },
+    {
+        "name": "Lenovo LOQ 15ARP9, 15\", AMD Ryzen 5 7235HS, 32GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050",
+        "price": "55190",
+        "link": "https://gjirafa50.mk/laptop-lenovo-loq-15arp9-156-amd-ryzen-5-7235hs-32gb-ram-512gb-ssd-rtx-3050-i-hirte"
+    },
+    {
+        "name": "ASUS TUF A16 FA607NUG-RL116W, 16\", AMD Ryzen 7-7445HS, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 4050",
+        "price": "64190",
+        "link": "https://gjirafa50.mk/laptop-asus-tuf-a16-fa607nug-rl116w-16-amd-ryzen-7-7445hs-16gb-ram-512gb-ssd-nvidia-geforce-rtx-4050-i-hirte"
+    },
+    {
+        "name": "Acer Nitro V 16 ANV16-42-R5L5, 16\", AMD Ryzen 5-240, 16GB RAM, 1TB SSD, NVIDIA GeForce RTX 4050 црна",
+        "price": "54390",
+        "link": "https://gjirafa50.mk/laptop-acer-nitro-v-16-anv16-42-r5l5-16-amd-ryzen-5-24016gb-ram-1tb-ssd-nvidia-geforce-rtx-4050-i-zi"
+    },
+    {
+        "name": "MSI Cyborg 15 B13W, 15.6\", Intel Core i7-13620H, 16GB DDR5, 512GB SSD, NVIDIA GeForce RTX 5050 8GB GDDR7, црн",
+        "price": "72790",
+        "link": "https://gjirafa50.mk/laptop-msi-cyborg-15-b13w-156-intel-core-i7-13620h-16gb-ddr5-512gb-ssd-nvidia-geforce-rtx-5050-8gb-gddr7-i-zi-2"
+    },
+    {
+        "name": "Acer Predator Helios Neo 18 AI (PHN18-72), 18\", Intel Core Ultra 9 275HX, 32GB RAM, 1TB SSD, NVIDIA RTX 5060, црн",
+        "price": "128690",
+        "link": "https://gjirafa50.mk/laptop-acer-predator-helios-neo-18-ai-phn18-72-18-intel-core-ultra-9-275hx-32gb-ram-1tb-ssd-nvidia-rtx-5060-i-zi-2"
+    },
+    {
+        "name": "HP OMEN Max 16-ah0002nc, 16\", Intel Core Ultra U9-275HX, 32GB RAM, 1TB SSD, NVIDIA GeForce RTX 5070 Ti, бел",
+        "price": "174790",
+        "link": "https://gjirafa50.mk/laptop-hp-omen-max-16-ah0002nc-16-intel-core-ultra-u9-275hx-32gb-ram-1tb-ssd-nvidia-geforce-rtx-5070-ti-i-bardhe"
+    },
+    {
+        "name": "за гејминг MSI Vector 16 HX AI A2XWHG, Core Ultra 7 255HX, 16GB RAM, 1TB SSD, RTX 5070 Ti 12GB, 16\" FHD+ 144Hz, црн",
+        "price": "120790",
+        "link": "https://gjirafa50.mk/laptop-msi-vector-16-hx-ai-a2xwhg-16-intel-core-ultra-7-255hx-16gb-ram-1tb-ssd-nvidia-geforce-rtx-5070-ti-i-zi"
+    },
+    {
+        "name": "MSI Titan 18 HX AI A2XWJG-224CZ, 18\", Intel Core Ultra 9 285HX, 96GB RAM, 4TB SSD, Nvidia GeForce RTX 5090, црн",
+        "price": "341290",
+        "link": "https://gjirafa50.mk/laptop-msi-titan-18-hx-ai-a2xwjg-224cz-18-intel-core-ultra-9-285hx-96gb-ram-4tb-ssd-nvidia-geforce-rtx-5090-i-zi"
+    },
+    {
+        "name": "Asus ROG Strix G16 G614, 16\", AMD Ryzen 9 8940HX, 16GB RAM, 1TB SSD, NVIDIA RTX 5070, црн",
+        "price": "134390",
+        "link": "https://gjirafa50.mk/laptop-asus-rog-strix-g16-g614-16-amd-ryzen-9-8940hx-16gb-ram-1tb-ssd-nvidia-rtx-5070-i-zi"
+    },
+    {
+        "name": "HP ZBook Fury 16 G1i, 16\", Intel Core Ultra U9-285HX, 128GB RAM, 3TB SSD, NVIDA RTX PRO 5000, сребрен",
+        "price": "405190",
+        "link": "https://gjirafa50.mk/laptop-hp-zbook-fury-16-g1i-16-intel-core-ultra-u9-285hx-128gb-ram-3tb-ssd-nvida-rtx-pro-5000-i-argjendte"
+    },
+    {
+        "name": "MSI Vector 16 HX AI A2XWHG-446XCZ 16\", Core Ultra 9 275HX, RTX 5070 Ti 12 GB, 32 GB RAM, 1 TB SSD, сив",
+        "price": "136790",
+        "link": "https://gjirafa50.mk/laptop-msi-vector-16-hx-ai-a2xwhg-446xcz-16-core-ultra-9-275hx-rtx-5070-ti-12-gb-32-gb-ram-1-tb-ssd-i-hirte"
+    },
+    {
+        "name": "HP OMEN Transcend 14-fb1072nc, 14\", Intel Core Ultra 7 255H, 32GB RAM, 1TB SSD, NVIDIA GeForce RTX 5060, бел",
+        "price": "131990",
+        "link": "https://gjirafa50.mk/laptop-hp-omen-transcend-14-fb1072nc-14-intel-core-ultra-7-255h-32gb-ram-1tb-ssd-nvidia-geforce-rtx-5060-i-bardhe"
+    },
+    {
+        "name": "ASUS ROG Strix SCAR 18, 18\" U9-275HX, 64GB RAM, 1TB SSD, RTX 5090, црн",
+        "price": "274090",
+        "link": "https://gjirafa50.mk/laptop-asus-rog-strix-scar-18-18-u9-275hx-64gb-ram-1tb-ssd-rtx-5090-i-zi"
+    },
+    {
+        "name": "Гејмерски лаптоп HP OMEN MAX 16, 16\", AMD Ryzen AI9-HX375, 32GB RAM, 1TB RAM, NVIDIA GeForce RTX 5070, црн",
+        "price": "125790",
+        "link": "https://gjirafa50.mk/laptop-hp-omen-max-16-16-amd-ryzen-ai9-hx375-32gb-ram-1tb-ram-nvidia-geforce-rtx-5070-i-zi"
+    },
+    {
+        "name": "MSI Cyborg A17 AI B2HWEKG-011XPL, 17.3\", AMD Ryzen 7 260, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 5050 8GB GDDR7, црн",
+        "price": "63990",
+        "link": "https://gjirafa50.mk/laptop-msi-cyborg-a17-ai-b2hwekg-011xpl-173-amd-ryzen-7-260-16gb-512gb-ssd-nvidia-geforce-rtx-5050-8gb-gddr7-i-zi"
+    },
+    {
+        "name": "Acer Nitro V 16 ANV16-42-R70Q, 16\", AMD Ryzen 5, 16GB RAM, 1TB SSD, NVIDIA GeForce RTX 3050, црн",
+        "price": "49490",
+        "link": "https://gjirafa50.mk/laptop-acer-nitro-v-16-anv16-42-r70q-16-amd-ryzen-5-16gb-ram-1tb-ssd-nvidia-geforce-rtx-3050-i-zi"
+    },
+    {
+        "name": "Acer Aspire 16 (A16-71GM-76JL), 16\", Intel Core Ultra 5 125H, 16GB RAM, 1TB SSD, NVIDIA RTX 3050, сив",
+        "price": "65190",
+        "link": "https://gjirafa50.mk/laptop-acer-aspire-16-a16-71gm-76jl-16-intel-core-ultra-5-125h-16gb-ram-1tb-ssd-nvidia-rtx-3050-i-hirte"
+    },
+    {
+        "name": "Lenovo Legion Pro 7 16IAX10H, 16\\\", Intel Core Ultra 9 275HX, 32GB RAM, 2TB SSD, NVIDIA GeForce RTX 5070 Ti 12GB, црн",
+        "price": "201290",
+        "link": "https://gjirafa50.mk/laptop-lenovo-legion-pro-7-16iax10h-16-intel-core-ultra-9-275hx-32gb-ram-2tb-ssd-nvidia-geforce-rtx-5070-ti-12gb-i-zi"
+    },
+    {
+        "name": "MSI Katana 17 HX B14WGK, 17.3\", Intel Core i7 14650HX, 16GB RAM, 1TB SSD, NVIDIA GeForce RTX 5070 8GB, црн",
+        "price": "93390",
+        "link": "https://gjirafa50.mk/laptop-msi-katana-17-hx-b14wgk-173-intel-core-i7-14650hx-16gb-ram-1tb-ssd-nvidia-geforce-rtx-50708gb-i-zi"
+    },
+    {
+        "name": "HP OMEN 16-am0071nc, 16\", Intel Core 7 250H, 32GB RAM, 1TB SSD, NVIDIA RTX 5060, бел",
+        "price": "107990",
+        "link": "https://gjirafa50.mk/laptop-hp-omen-16-am0071nc-16-intel-core-7-250h-32gb-ram-1tb-ssd-nvidia-rtx-5060-i-bardhe"
+    },
+    {
+        "name": "Acer Nitro V 15 (ANV15-42-R7K7), 15.6\", AMD Ryzen 7 7445HS, 16GB RAM, 1TB SSD, NVIDIA RTX 3050, црн",
+        "price": "49490",
+        "link": "https://gjirafa50.mk/laptop-acer-nitro-v-15-anv15-42-r7k7-156-amd-ryzen-7-7445hs-16gb-ram-1tb-ssd-nvidia-rtx-3050-i-zi"
+    },
+    {
+        "name": "Acer Nitro V 16 ANV16-72-76MC, 16\", Intel Core 7 240H, 32GB RAM, 1TB SSD, NVIDIA GeForce RTX 5060, црн",
+        "price": "79990",
+        "link": "https://gjirafa50.mk/laptop-acer-nitro-v-16-anv16-72-76mc-16-intel-core-7-240h-32gb-ram-1tb-ssd-nvidia-geforce-rtx-5060-i-zi"
+    },
+    {
+        "name": "Acer Nitro 16S AI (AN16S-61-R3HE), 16\", AMD Ryzen AI 9 365, 32GB RAM, 1TB SSD, NVIDIA RTX 5070, црн",
+        "price": "121890",
+        "link": "https://gjirafa50.mk/laptop-acer-nitro-16s-ai-an16s-61-r3he-16-amd-ryzen-ai-9-365-32gb-ram-1tb-ssd-nvidia-rtx-5070-i-zi"
+    },
+    {
+        "name": "HP OMEN 16-am0001nc, 16\", Intel Core Ultra U7-255H, 32GB RAM, 1TB SSD, AMD RTX 5070, бел",
+        "price": "115690",
+        "link": "https://gjirafa50.mk/laptop-hp-omen-16-am0001nc-16-intel-core-ultra-u7-255h-32gb-ram-1tb-ssd-amd-rtx-5070-i-bardhe"
+    },
+    {
+        "name": "MSI Thin 15 B13VE-3091XPL, 15.6\", Intel Core i5-13420H, 16GB DDR4-3200, 512GB SSD, NVIDIA GeForce RTX 4050 6GB GDDR6, темно сива",
+        "price": "52590",
+        "link": "https://gjirafa50.mk/laptop-msi-thin-15-b13ve-3091xpl-156-intel-core-i5-13420h-16gb-ddr4-3200-512gb-ssd-nvidia-geforce-rtx-4050-6gb-gddr6-i-hirte-i-erret"
+    },
+    {
+        "name": "Acer Nitro V 15 ANV15-52-53V3, 15.6\", Intel Core i5 210H, 16GB RAM, 512GB SSD, NVIDIA RTX 4050, црн",
+        "price": "54390",
+        "link": "https://gjirafa50.mk/laptop-acer-nitro-v-15-anv15-52-53v3-156-intel-core-i5-210h-16gb-ram-512gb-ssd-nvidia-rtx-4050-i-zi"
+    },
+    {
+        "name": "HP OMEN Slim16-an0001nc, 16\", Intel Core Ultra U7-255H, 24GB RAM, 1TB SSD, NVIDIA GeForceRTX 5060, црн",
+        "price": "100990",
+        "link": "https://gjirafa50.mk/laptop-hp-omen-slim16-an0001nc16-intel-core-ultra-u7-255h-24gb-ram-1tb-ssd-nvidia-geforcertx-5060-i-zi"
+    },
+    {
+        "name": "HP OMEN 17-db1001nc, 17.3\", AMD Ryzen AI 7 350 процесор, 24GB RAM, 1TB SSD, NVIDIA GeForce RTX 5050/8GB, црн",
+        "price": "95990",
+        "link": "https://gjirafa50.mk/laptop-hp-omen-17-db1001nc-173-amd-ryzen-ai-7-350-24gb-ram-1tb-ssd-nvidia-geforce-rtx-50508gb-i-zi"
+    },
+    {
+        "name": "Gigabyte Gaming A18 3VH, 18\", AMD Rzyen 7 260, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 5060, црн",
+        "price": "93490",
+        "link": "https://gjirafa50.mk/laptop-gigabyte-gaming-a18-3vh-18amd-rzyen-7-260-16gb-ram-512gb-ssd-nvidia-geforce-rtx-5060-i-zi"
+    },
+    {
+        "name": "ASUS ROG Strix G16 G614, 16\", AMD Ryzen 9 9955HX3D, 16GB RAM, 1TB SSD, NVIDIA GeForce RTX 5070 Ti, црн",
+        "price": "191890",
+        "link": "https://gjirafa50.mk/laptop-asus-rog-strix-g16-g614-16-amd-ryzen-9-9955hx3d-16gb-ram-1tb-ssd-nvidia-geforce-rtx-5070-ti-i-zi"
+    },
+    {
+        "name": "HP OMEN 17-db1003nc, 17.3\", AMD Ryzen AI 9, 32GB RAM, 1TB SSD, NVIDIA GeForce, црн",
+        "price": "119990",
+        "link": "https://gjirafa50.mk/laptop-hp-omen-17-db1003nc-173-amd-ryzen-ai-9-32gb-ram-1tb-ssd-nvidia-geforce-i-zi"
+    },
+    {
+        "name": "HP Victus 15-fa2751nc, i5, 15.6\", NVIDIA GeForce RTX 4050, 16GB RAM, 512GB SSD, црн",
+        "price": "59990",
+        "link": "https://gjirafa50.mk/laptop-hp-victus-15-fa2751nc-i5-156-nvidia-geforce-rtx-4050-16gb-ram-512gb-ssd-i-zi"
+    },
+    {
+        "name": "MSI Cyborg 15 B13W, 15.6\", Intel Core i5-13420H, 16GB DDR5, 512GB SSD, NVIDIA GeForce RTX 5060 8GB GDDR7, црн",
+        "price": "67390",
+        "link": "https://gjirafa50.mk/laptop-msi-cyborg-15-b13w-156-intel-core-i5-13420h-16gb-ddr5-512gb-ssd-nvidia-geforce-rtx-5060-8gb-gddr7-i-zi-2"
+    },
+    {
+        "name": "HP Victus 15-fb3000nc, 15.6\", AMD Ryzen 5 процесор, 16GB RAM, 1TB SSD, NVIDIA GeForce RTX 5050, сина",
+        "price": "72490",
+        "link": "https://gjirafa50.mk/laptop-hp-victus-15-fb3000nc-156-amd-ryzen-5-16gb-ram-1tb-ssd-nvidia-geforce-rtx-5050-i-kalter"
+    },
+    {
+        "name": "HP OMEN Transcend 14-fb1073nc, 14\", Intel Core Ultra U7-255H, 32GB RAM, 2TB SSD, NVIDIA GeForce RTX 5060, црн",
+        "price": "144490",
+        "link": "https://gjirafa50.mk/laptop-hp-omen-transcend-14-fb1073nc-14-intel-core-ultra-u7-255h-32gb-ram-2tb-ssd-nvidia-geforce-rtx-5060-i-zi"
+    },
+    {
+        "name": "Acer Nitro V 15 ANV15-52, 15.6\", Intel Core i5-13420H, 16GB RAM, 1TB SSD, NVIDIA GeForce RTX 4050, црн",
+        "price": "53790",
+        "link": "https://gjirafa50.mk/laptop-acer-nitro-v-15-anv15-52-156-intel-core-i5-13420h-16gb-ram-1tb-ssd-nvidia-geforce-rtx-4050-i-zi"
+    },
+    {
+        "name": "HP OMEN Transcend 14-fb1004nc, 14\", Intel Core Ultra 9-285H9, 32GB RAM, 1TB SSD, NVIDIA GeForceRTX 5070, црн",
+        "price": "156590",
+        "link": "https://gjirafa50.mk/laptop-hp-omen-transcend-14-fb1004nc-14-intel-core-ultra-9-285h9-32gb-ram-1tb-ssd-nvidia-geforcertx-5070-i-zi"
+    },
+    {
+        "name": "HP OMEN Slim 16-an0074nc, 16\", Intel Core U7-255H, 32GB RAM, 2TB SSD, NVIDIA GeForce RTX 5070W, црн",
+        "price": "119990",
+        "link": "https://gjirafa50.mk/laptop-hp-omen-slim-16-an0074nc-16-intel-coreu7-255h-32gb-ram-2tb-ssd-nvidia-geforce-rtx-5070w-i-zi"
+    },
+    {
+        "name": "Acer Predator Helios 18 AI (PH18-73-953K), 18\", Intel Core Ultra 9 275HX, 64GB RAM, 2TB SSD, NVIDIA RTX 5080, црн",
+        "price": "242990",
+        "link": "https://gjirafa50.mk/laptop-acer-predator-helios-18-ai-ph18-73-953k18-intel-core-ultra-9-275hx-64gb-ram-2tb-ssd-nvidia-rtx-5080-i-zi"
+    },
+    {
+        "name": "Acer Nitro 18 AN18-61-R3GE, 18\", AMD Ryzen AI 9 365, 32GB RAM, 1TB SSD, NVIDIA GeForce RTX 5070 Ti, црн",
+        "price": "141990",
+        "link": "https://gjirafa50.mk/laptop-acer-nitro-18-an18-61-r3ge-18-amd-ryzen-ai-9-365-32gb-ram-1tb-ssd-nvidia-geforce-rtx-5070-ti-i-zi"
+    },
+    {
+        "name": "Acer Predator Helios Neo 18 AI (PHN18-72), 18\", Intel Core Ultra 9 275HX, 32GB RAM, 1TB SSD, NVIDIA RTX 5060, црн",
+        "price": "123590",
+        "link": "https://gjirafa50.mk/laptop-acer-predator-helios-neo-18-ai-phn18-72-18-intel-core-ultra-9-275hx-32gb-ram-1tb-ssd-nvidia-rtx-5060-i-zi"
+    },
+    {
+        "name": "Acer Nitro V 17/ANV17-41-R4CC, 17.3\", AMD Ryzen R5-240, 16GB RAM, 1TB SSD, NVIDIA GeForce RTX 4050, црн",
+        "price": "59990",
+        "link": "https://gjirafa50.mk/laptop-acer-nitro-v-17anv17-41-r4cc173-amd-ryzen-r5-240-16gb-ram-1tb-ssd-nvidia-geforce-rtx-4050-i-zi"
+    },
+    {
+        "name": "HP OMEN Slim 16-an0073nc, 16\", Intel Core Ultra 7-255H, 16\", AMD RTX 5060, 32GB RAM, 1TB SSD, црн",
+        "price": "116790",
+        "link": "https://gjirafa50.mk/laptop-hp-omen-slim-16-an0073nc16-intel-core-ultra-7-255h-16-amd-rtx-5060-32gb-ram-1tb-ssd-i-zi"
+    },
+    {
+        "name": "HP ZBook Fury 18 G1i, 18\", Intel Core U7-265HX, 64GB RAM, 5TB SSD, NVIDIA GeForce RTX 3000, сребрен",
+        "price": "252590",
+        "link": "https://gjirafa50.mk/laptop-hp-zbook-fury-18-g1i-18-intel-core-u7-265hx-64gb-ram-5tb-ssd-nvidia-geforce-rtx-3000-i-argjendte"
+    },
+    {
+        "name": "HP OMEN 16 ap0001nc, 16\", AMD Ryzen 9-8940HX, 32GB RAM, 1TB SSD, NVIDIA GeForce RTX 5060, црн",
+        "price": "103590",
+        "link": "https://gjirafa50.mk/laptop-hp-omen-16-ap0001nc-16-amd-ryzen-9-8940hx-32gb-ram-1tb-ssd-nvidia-geforce-rtx-5060-i-zi"
+    },
+    {
+        "name": "MSI Vector A16 HX A8WHG-049XCZ, 16\", AMD Ryzen 9 8940HX, 64GB RAM, 2TB SSD, NVIDIA GeForce RTX 5070 Ti, 12GB GDDR7, сив",
+        "price": "165990",
+        "link": "https://gjirafa50.mk/laptop-msi-vector-a16-hx-a8whg-049xcz-16-amd-ryzen-9-8940hx-64gb-ram-2tb-ssd-nvidia-geforce-rtx-5070-ti-12gb-gddr7-i-hirte"
+    },
+    {
+        "name": "ASUS ROG Strix G16 2025, 16\", Intel Core Ultra 9 275HX, 32GB RAM, 1TB SSD, црн",
+        "price": "204890",
+        "link": "https://gjirafa50.mk/laptop-asus-rog-strix-g16-2025-16-intel-core-ultra-9-275hx-32gb-ram-1tb-ssd-i-zi"
+    },
+    {
+        "name": "HP Omen 16-am0072nc, 16\", Intel Core Ultra 7, 32GB RAM, 2TB SSD, NVIDIA GeForce RTX 5070, црн",
+        "price": "120490",
+        "link": "https://gjirafa50.mk/laptop-hp-omen-16-am0072nc-16-intel-core-ultra-7-32gb-ram-2tb-ssd-nvidia-geforce-rtx-5070-i-zi"
+    },
+    {
+        "name": "MSI Katana 15 HX B14WFK-605XPL, 15.6\", 16GB DDR5, 512GB SSD, NVIDIA GeForce RTX 5060, црн",
+        "price": "83090",
+        "link": "https://gjirafa50.mk/laptop-msi-katana-15-hx-b14wfk-605xpl-156-16gb-ddr5-512gb-ssd-nvidia-geforce-rtx-5060-i-zi"
+    },
+    {
+        "name": "Acer Nitro V 16 AI (ANV16-42), 16\", AMD Ryzen 7 260, 16GB RAM, 1TB SSD, NVIDIA RTX 5060, црн",
+        "price": "77990",
+        "link": "https://gjirafa50.mk/laptop-acer-nitro-v-16-ai-anv16-42-16-amd-ryzen-7-260-16gb-ram-1tb-ssd-nvidia-rtx-5060-i-zi"
+    },
+    {
+        "name": "Acer Nitro 16S AI (AN16S-61-R6XA), 16\", AMD Ryzen AI 9 365, 32GB RAM, 1TB SSD, NVIDIA RTX 5070 Ti, црн",
+        "price": "135890",
+        "link": "https://gjirafa50.mk/laptop-acer-nitro-16s-ai-an16s-61-r6xa-16-amd-ryzen-ai-9-365-32gb-ram-1tb-ssd-nvidia-rtx-5070-ti-i-zi"
+    },
+    {
+        "name": "MSI Raider 18 HX AI A2XWIG, Core Ultra 9-285HX, 18\" UHD+, RTX 5080, 64GB, 4TB SSD, црн",
+        "price": "301890",
+        "link": "https://gjirafa50.mk/laptop-msi-raider-18-hx-ai-a2xwig-core-ultra-9-285hx-18-uhd-rtx-5080-64gb-4tb-ssd-i-zi"
+    },
+    {
+        "name": "Cyborg 15 A13VE-1067XPL, 15\" 144 Hz, i7-13620H, 16GB RAM, 512GB SSD, Nvidia RTX 4050",
+        "price": "60290",
+        "link": "https://gjirafa50.mk/laptop-cyborg-15-a13ve-1067xpl-15-144-hz-i7-13620h-16gb-ram-512gb-ssd-nvidia-rtx-4050"
+    },
+    {
+        "name": "Asus ROG Strix G16 G615, 16\", Intel Core Ultra 7 255HX, 16GB RAM, 1TB SSD, NVIDIA GeForce RTX 5070 Ti, црн",
+        "price": "127990",
+        "link": "https://gjirafa50.mk/laptop-asus-rog-strix-g16-g615-16-intel-core-ultra-7-255hx-16gb-ram-1tb-ssd-nvidia-geforce-rtx-5070-ti-i-zi"
+    },
+    {
+        "name": "MSI Vector A18 HX, 18\", AMD Ryzen 9 9955HX, 32GB RAM, 2TB SSD, NVIDIA GeForce RTX 5080, 16GB GDDR7, темно сива боја",
+        "price": "211190",
+        "link": "https://gjirafa50.mk/laptop-msi-vector-a18-hx-18-amd-ryzen-9-9955hx-32gb-ram-2tb-ssd-nvidia-geforce-rtx-5080-16gb-gddr7-i-hirte-erret"
+    },
+    {
+        "name": "MSI Crosshair 18 HX AI A2XWFKG, 18\", Intel Core Ultra 9 275HX, 32GB RAM, 2TB SSD, NVIDIA RTX 5060, црн",
+        "price": "125890",
+        "link": "https://gjirafa50.mk/laptop-msi-crosshair-18-hx-ai-a2xwfkg-18-intel-core-ultra-9-275hx-32gb-ram-2tb-ssd-nvidia-rtx-5060-i-zi"
+    },
+    {
+        "name": "MSI Katana 17 HX B14WGK-025CZ 17\", Core i9-14900HX, RTX 5070 8 GB, 32 GB RAM, 1 TB SSD, црн",
+        "price": "122990",
+        "link": "https://gjirafa50.mk/laptop-msi-katana-17-hx-b14wgk-025cz-17-core-i9-14900hx-rtx-5070-8-gb-32-gb-ram-1-tb-ssd-i-zi"
+    },
+    {
+        "name": "MSI Raider A18 HX A9WJG-067CZ, 18\", Ryzen 9 9955HX3D, 64GB RAM, 2TB SSD, црн",
+        "price": "299190",
+        "link": "https://gjirafa50.mk/laptop-msi-raider-a18-hx-a9wjg-067cz-18-ryzen-9-9955hx3d-64gb-ram-2tb-ssd-i-zi"
+    },
+    {
+        "name": "HP OMEN Slim 16-an0002nc, 16\", Intel Core Ultra 9 процесор, 32GB RAM, 2TB SSD, NVIDIA GeForce RTX 5070, црн",
+        "price": "127690",
+        "link": "https://gjirafa50.mk/laptop-hp-omen-slim-16-an0002nc-16-intel-core-ultra-9-32gb-ram-2tb-ssd-nvidia-geforce-rtx-5070-i-zi"
+    },
+    {
+        "name": "Asus ROG Strix G16 G614, 16\", AMD Ryzen 9 9955HX3D, 32GB RAM, 1TB SSD, NVIDIA GeForce RTX 5070 Ti, црн",
+        "price": "193390",
+        "link": "https://gjirafa50.mk/laptop-asus-rog-strix-g16-g61416-amd-ryzen-9-9955hx3d-32gb-ram-1tb-ssd-nvidia-geforce-rtx-5070-ti-i-zi"
+    },
+    {
+        "name": "MSI Katana 15 HX B14WGK-821XPL, 15.6\", Intel Core i7-14650HX, 16GB RAM, 1TB SSD, NVIDIA GeForce RTX 5070, црн",
+        "price": "96990",
+        "link": "https://gjirafa50.mk/laptop-msi-katana-15-hx-b14wgk-821xpl-156-intel-core-i7-14650hx-16gb-ram-1tb-ssd-nvidia-geforce-rtx-5070-i-zi"
+    },
+    {
+        "name": "ASUS TUF Gaming F16 FX608JH-I5165W, 16\", Intel Core i5-13450HX, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 5050 8GB, темно сива",
+        "price": "85590",
+        "link": "https://gjirafa50.mk/laptop-asus-tuf-gaming-f16-fx608jh-i5165w-16-intel-core-i5-13450hx-16gb-ram-512gb-ssd-nvidia-geforce-rtx-5050-8gb-i-hirte-erret"
+    },
+    {
+        "name": "ACER Nitro V 15 ANV15-41, Ryzen 5-6600H, 15.6\" FHD, RTX 3050, 16GB, 1TB SSD, црн",
+        "price": "56690",
+        "link": "https://gjirafa50.mk/laptop-acer-nitro-v-15-anv15-41-ryzen-5-6600h-156-fhd-rtx-3050-16gb-1tb-ssd-i-zi"
+    }
+]

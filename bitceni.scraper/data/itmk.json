@@ -1,1 +1,97 @@
-[]
+[
+    {
+        "name": "Notebook 15.6 Dell Dc15250 Intel Core I5-1334u/ 16gb Ddr4 (1x16gb 2666mhz)/ 512gb Ssd M.2 Nvme/ Intel Uhd Graphics/ 120hz Anti-Glare Fullhd Led Display/ Backlit Kb",
+        "price": "30790",
+        "link": "https://it.mk/product/notebook-15-6-dell-dc15250-intel-core-i5-1334u-16gb-ddr4-1x16gb-2666mhz-512gb-ssd-m-2-nvme-intel-uhd-graphics-120hz-anti-glare-fullhd-led-display-backlit-kb/"
+    },
+    {
+        "name": "Notebook 15.6 Dell Dc15250 Intel Core I3-100u/ 8gb Ddr4/ 512gb Ssd M.2/ Iris Xe Graphics/ 120hz Anti-Glare Led Display/ Backlit Kb/ Carbon Black/ Ubuntu",
+        "price": "23650",
+        "link": "https://it.mk/product/notebook-15-6-dell-dc15250-intel-core-i3-100u-8gb-ddr4-512gb-ssd-m-2-iris-xe-graphics-120hz-anti-glare-led-display-backlit-kb-carbon-black-ubuntu/"
+    },
+    {
+        "name": "Notebook 16 Dell Pro 16 Intel Core 5 120u/16gb Ram Ddr5 5600mhz/ 512 Gb Ssd M.2 Nvme/Fullhd+ (16:10) Ips/Bt/Backlit Kb/Thunderbolt 4/Rj45/Pc16250",
+        "price": "43990",
+        "link": "https://it.mk/product/notebook-16-dell-pro-16-intel-core-5-120u-16gb-ram-ddr5-5600mhz-512-gb-ssd-m-2-nvme-fullhd-16-10-ips-bt-backlit-kb-thunderbolt-4-rj45-pc16250/"
+    },
+    {
+        "name": "Notebook 16 Dell Alienware 16 Aurora Intel Core C7 240h /16gb Ram Ddr5 5600mhz/ 1tb Ssd M.2 Nvme/Rtx4050 6gb/ Wqxga(2560×1600) 120hz 300 Nits / Wi-Fi7+Bt5.4, Aw White Kb/ Win 11 Home/ Interstellar Indigo",
+        "price": "98980",
+        "link": "https://it.mk/product/notebook-16-dell-alienware-16-aurora-intel-core-c7-240h-16gb-ram-ddr5-5600mhz-1tb-ssd-m-2-nvme-rtx4050-6gb-wqxga-2560x1600-120hz-300-nits-wi-fi7-bt5-4-aw-white-kb-win-11-home-interstellar-indigo/"
+    },
+    {
+        "name": "Docking Station Type-C 9 In1, Hdmi / Vga / 3 X Usb 3.1 Gen 1 / 1xtype-C (Pd 100w)/ Gblanrj45 / Microsd/Sd Reader/ 3.5mm/ Gray/ Sotako St-C0901",
+        "price": "2730",
+        "link": "https://it.mk/product/docking-station-type-c-9-in1-hdmi-vga-3-x-usb-3-1-gen-1-1xtype-c-pd-100w-gblanrj45-microsd-sd-reader-3-5mm-gray-sotako-st-c0901/"
+    },
+    {
+        "name": "Docking Station Type-C 6 In1, Hdmi / Usb 3.0 / Vga/ Type-C Pd Max 60w/ Gigabit Lan / 3.5mm/ Sd/Microsd Card Reader/Cablexpert/ Space Gray/ A-Cm-Combo6-01",
+        "price": "1590",
+        "link": "https://it.mk/product/docking-station-type-c-6-in1-hdmi-usb-3-0-vga-type-c-pd-max-60w-gigabit-lan-3-5mm-sd-microsd-card-reader-cablexpert-space-gray-a-cm-combo6-01/"
+    },
+    {
+        "name": "Notebook 14 Dell Pro14 Intel Core 5 120u/8gb Ram Ddr5 5600mhz/ 512 Gb Ssd M.2 Nvme/Fullhd+ (16:10) Ips/Bt/Backlit Kb/Thunderbolt 4/Rj45/Pc14250",
+        "price": "40950",
+        "link": "https://it.mk/product/notebook-14-dell-pro14-intel-core-5-120u-8gb-ram-ddr5-5600mhz-512-gb-ssd-m-2-nvme-fullhd-16-10-ips-bt-backlit-kb-thunderbolt-4-rj45-pc14250/"
+    },
+    {
+        "name": "Notebook 14 Dell Pro Plus 14 Intel Ultra 5 235u Vpro/16gb Ram Ddr5 5600mhz/ 512 Gb Ssd M.2 Nvme 2230/Fullhd+ (16:10) Ips/Bt/Backlit Kb/Thunderbolt 4/Rj45/Pb14250",
+        "price": "54490",
+        "link": "https://it.mk/product/notebook-14-dell-pro-plus-14-intel-ultra-5-235u-vpro-16gb-ram-ddr5-5600mhz-512-gb-ssd-m-2-nvme-2230-fullhd-16-10-ips-bt-backlit-kb-thunderbolt-4-rj45-pb14250/"
+    },
+    {
+        "name": "Nb Stand Secomp Pillow Lapdesk (Tablet And Laptop) Max 14, Silver",
+        "price": "1420",
+        "link": "https://it.mk/product/nb-stand-secomp-pillow-lapdesk-tablet-and-laptop-max-14-silver/"
+    },
+    {
+        "name": "Notebook 16 Dell Pro 16 Intel Core 7 150u/16gb Ram Ddr5 5600mhz/ 512 Gb Ssd M.2 Nvme/Fullhd+ (16:10) Ips/Bt/Backlit Kb/Thunderbolt 4/Rj45/Pc16250",
+        "price": "60790",
+        "link": "https://it.mk/product/notebook-16-dell-pro-16-intel-core-7-150u-16gb-ram-ddr5-5600mhz-512-gb-ssd-m-2-nvme-fullhd-16-10-ips-bt-backlit-kb-thunderbolt-4-rj45-pc16250/"
+    },
+    {
+        "name": "Notebook 16 Dell Pro 16 Plus Pb16250, Ultra 7 265u/16gb Ram (1x 16) 5600 Mhz Ddr5/ 512gb Ssd M.2 Nvme/ /Cam+Mic,Bt/Backlit Kb /Fingerprint Reader",
+        "price": "67090",
+        "link": "https://it.mk/product/notebook-16-dell-pro-16-plus-pb16250-ultra-7-265u-16gb-ram-1x-16-5600-mhz-ddr5-512gb-ssd-m-2-nvme-cam-mic-bt-backlit-kb-fingerprint-reader/"
+    },
+    {
+        "name": "Docking Station Boomerang Jud481 Hdmi / Vga / 2 X Usb3.0 / Lan, Audio/Mic 3.5mm, Jud481",
+        "price": "3020",
+        "link": "https://it.mk/product/docking-station-boomerang-jud481-hdmi-vga-2-x-usb3-0-lan-audio-mic-3-5mm-jud481/"
+    },
+    {
+        "name": "Notebook 15.6 Dell Dc15250 Intel Core I3-100u/ 16gb Ddr4/ 512gb Ssd M.2/ Iris Xe Graphics/ 120hz Anti-Glare Led Display/ Backlit Kb/ Carbon Black/ Ubuntu",
+        "price": "25720",
+        "link": "https://it.mk/product/notebook-15-6-dell-dc15250-intel-core-i3-100u-16gb-ddr4-512gb-ssd-m-2-iris-xe-graphics-120hz-anti-glare-led-display-backlit-kb-carbon-black-ubuntu/"
+    },
+    {
+        "name": "Nb Adapter Universal Hama 45w, 5-20v, Usb-C /Thunderbolt, 200005",
+        "price": "1500",
+        "link": "https://it.mk/product/nb-adapter-universal-hama-45w-5-20v-usb-c-thunderbolt-200005/"
+    },
+    {
+        "name": "Nb Adapter Universal Hama Eco 3000 (7 Connectors), 36w, 3000mah, 137336",
+        "price": "1320",
+        "link": "https://it.mk/product/nb-adapter-universal-hama-eco-3000-7-connectors-36w-3000mah-137336/"
+    },
+    {
+        "name": "Nb Stand Hama Aluminium (Folding, Up To 40 Cm) 15.4 Silver, 126811",
+        "price": "1370",
+        "link": "https://it.mk/product/nb-stand-hama-aluminium-folding-up-to-40-cm-15-4-silver-126811/"
+    },
+    {
+        "name": "Nb Stand Digitus Mls 10-15 Foldable 5 Levels, Da-90368",
+        "price": "1260",
+        "link": "https://it.mk/product/nb-stand-digitus-mls-10-15-foldable-5-levels-da-90368/"
+    },
+    {
+        "name": "Notebook Stand Cooler Kolink Kl-N200 15.6, 2x 140mm Fans, Blue Led, Usb, Black",
+        "price": "1110",
+        "link": "https://it.mk/product/notebook-stand-cooler-kolink-kl-n200-15-6-2x-140mm-fans-blue-led-usb-black/"
+    },
+    {
+        "name": "Coolers Notebook Hama Slim 13-15.6, 53067",
+        "price": "840",
+        "link": "https://it.mk/product/coolers-notebook-hama-slim-13-15-6-53067/"
+    }
+]

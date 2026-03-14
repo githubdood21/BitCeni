@@ -1,142 +1,517 @@
-[2026-01-02 16:34:45] ===== SCRAPER RUN STARTED =====
-[2026-01-02 16:34:45] Running TheA1Scraper.py (attempt 1/1)
-[2026-01-02 16:35:16] SUCCESS: TheA1Scraper.py
-[2026-01-02 16:35:16] Output: 27696, DELL
-Insp 3535 Ryzen7 7730U 16/1TB, https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/dell-insp-3535-ryzen7-7730u-16-1tb/1000050221
-7776, DELL
-15 Core 3-100U 16/512GB, https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/dell-15-core-3-100u-16-512gb/1000060546
-12576, DELL
-15 i5-1334U 16/512GB, https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/dell-15-i5-1334u-16-512gb/1000060547
-20976, DELL
-15 i7-1355U 16/512GB, https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/dell-15-i7-1355u-16-512gb/1000060548
-22176, HP
-250 G10 Intel i5-1334U 8/512GB, https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/hp-250-g10-intel-i5-1334u-8-512gb/1000057381
-16176, HP
-250 G9 i5-1334U 16/1TB, https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/hp-250-g9-i5-1334u-16-1tb/1000060555
-12576, HP
-250 G9 i5-1334U 16/512GB, https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/hp-250-g9-i5-1334u-16-512gb/1000060557
-10176, HP
-255 G10 R5-7530U 16/512GB, https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/hp-255-g10-r5-7530u-16-512gb/1000060558
-89592, DELL
-Alien Core 7 240H 16/1TB 4050, https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/dell-alien-core-7-240h-16-1tb-4050/1000060535
-108792, DELL
-Alien Core 7 240H 32/1TB 5060, https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/dell-alien-core-7-240h-32-1tb-5060/1000060536
-79992, DELL
-Alienware Core 5 210H 16/512GB, https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/dell-alienware-core-5-210h-16-512gb/1000060534
-16176, Acer
-Aspire Go R7 5825U 20/512GB, https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/acer-aspire-go-r7-5825u-20-512gb/1000060554
-22176, DELL
-Dell_I 16 Core 5-120U 16/512GB, https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/dell-dell_i-16-core-5-120u-16-512gb/1000060550
-48576, HP
-EliteBook Intel U5 125U 16/512, https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/hp-elitebook-intel-u5-125u-16-512/1000057382
-11376, Acer
-Extensa R5 7520U 16/512GB, https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/acer-extensa-r5-7520u-16-512gb/1000060553
-19512, Lenovo
-IPS3 15ARP10 R5 7533HS 16/512G, https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/lenovo-ips3-15arp10-r5-7533hs-16-512g/1000055583
-8976, Lenovo
-IPS3 R5 7520U 16/512GB, https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/lenovo-ips3-r5-7520u-16-512gb/1000060542
-18576, Lenovo
-IPS3 R7 7735HS 16/1TB, https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/lenovo-ips3-r7-7735hs-16-1tb/1000060543
-14976, Lenovo
-IPS3 i5-13420H 16/512GB, https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/lenovo-ips3-i5-13420h-16-512gb/1000060545
-20976, Lenovo
-IPS3 i7-13620H 16/512GB, https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/lenovo-ips3-i7-13620h-16-512gb/1000060544
-44976, Apple
-MBA 13.6 M2/8C CPU/8C/16/256GB, https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/apple-mba-13.6-m2-8c-cpu-8c-16-256gb/1000059990
-47088, Apple
-MBA 13.6/M4/10C CPU/8C GPU/16/, https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/apple-mba-13.6-m4-10c-cpu-8c-gpu-16/1000060537
-28656, HP
-Pavilon i5 1335U 12/512GB, https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/hp-pavilon-i5-1335u-12-512gb/1000059227
-6576, DELL
-Pro 5 Essential R5 7520U 8/512, https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/dell-pro-5-essential-r5-7520u-8-512/1000060549
-53592, Acer
-SwiftGo 16 Ultra 5 16/1TB, https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/acer-swiftgo-16-ultra-5-16-1tb/1000057528
-19536, DELL
-Vostro 3530 i3-1305U 8/512GB, https://www.a1.mk/webshop/mk/laptopsandtablets/laptop/dell-vostro-3530-i3-1305u-8-512gb/1000051820
-No more to show.
-[2026-01-02 16:35:16] Running TheAnanasScraper.py (attempt 1/1)
-[2026-01-02 16:35:32] SUCCESS: TheAnanasScraper.py
-[2026-01-02 16:35:32] Output: An error occurred: Message: Unable to locate element: .sc-492kdg-0; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+[2026-03-14 16:02:35] ===== SCRAPER RUN STARTED =====
+[2026-03-14 16:02:35] Running TheA1Scraper.py (attempt 1/1)
+[2026-03-14 16:03:00] SUCCESS: TheA1Scraper.py
+[2026-03-14 16:03:00] Output: No more to show.
+SCRAPE_DONE
+[2026-03-14 16:03:00] Running TheAnanasScraper.py (attempt 1/1)
+[2026-03-14 16:03:13] SUCCESS: TheAnanasScraper.py
+[2026-03-14 16:03:13] Output: An error occurred: Message: Unable to locate element: .sc-492kdg-0; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
 Stacktrace:
 RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
 WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
 NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:555:5
-dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
-[2026-01-02 16:35:32] Running TheAnhochScraper.py (attempt 1/1)
-[2026-01-02 16:36:19] EXCEPTION: TheAnhochScraper.py raised an exception on attempt 1
-[2026-01-02 16:36:19] 'utf-8' codec can't decode byte 0x94 in position 27876: invalid start byte
-[2026-01-02 16:36:19] FAILED: TheAnhochScraper.py failed after 1 attempts
-[2026-01-02 16:36:19] Running TheDDStoreScraper.py (attempt 1/1)
-[2026-01-02 16:37:19] TIMEOUT: TheDDStoreScraper.py exceeded 1 minutes. Killing process...
-[2026-01-02 16:37:19] FAILED: TheDDStoreScraper.py failed after 1 attempts
-[2026-01-02 16:37:19] Running TheGjirafaBScraper.py (attempt 1/1)
-[2026-01-02 16:37:37] SUCCESS: TheGjirafaBScraper.py
-[2026-01-02 16:37:37] Output: An error occurred: 'charmap' codec can't encode characters in position 7-12: character maps to <undefined>
-[2026-01-02 16:37:37] Running TheGjirafaGScraper.py (attempt 1/1)
-[2026-01-02 16:37:55] SUCCESS: TheGjirafaGScraper.py
-[2026-01-02 16:37:55] Output: An error occurred: 'charmap' codec can't encode characters in position 7-12: character maps to <undefined>
-[2026-01-02 16:37:55] Running TheGjirafaHScraper.py (attempt 1/1)
-[2026-01-02 16:38:17] SUCCESS: TheGjirafaHScraper.py
-[2026-01-02 16:38:17] Output: No more to show.
-[2026-01-02 16:38:17] Running TheGjirafaSScraper.py (attempt 1/1)
-[2026-01-02 16:38:39] SUCCESS: TheGjirafaSScraper.py
-[2026-01-02 16:38:39] Output: No more to show.
-[2026-01-02 16:38:39] Running TheHivetecScraper.py (attempt 1/1)
-[2026-01-02 16:39:39] TIMEOUT: TheHivetecScraper.py exceeded 1 minutes. Killing process...
-[2026-01-02 16:39:39] FAILED: TheHivetecScraper.py failed after 1 attempts
-[2026-01-02 16:39:39] Running TheItMkScraper.py (attempt 1/1)
-[2026-01-02 16:39:57] SUCCESS: TheItMkScraper.py
-[2026-01-02 16:39:57] Output: An error occurred: 'charmap' codec can't encode character '\u2033' in position 18: character maps to <undefined>
-[2026-01-02 16:39:57] Running TheLaptopiMkScraper.py (attempt 1/1)
-[2026-01-02 16:40:57] TIMEOUT: TheLaptopiMkScraper.py exceeded 1 minutes. Killing process...
-[2026-01-02 16:40:57] FAILED: TheLaptopiMkScraper.py failed after 1 attempts
-[2026-01-02 16:40:57] Running TheNeptunScraper.py (attempt 1/1)
-[2026-01-02 16:41:57] TIMEOUT: TheNeptunScraper.py exceeded 1 minutes. Killing process...
-[2026-01-02 16:41:57] FAILED: TheNeptunScraper.py failed after 1 attempts
-[2026-01-02 16:41:57] Running TheSetecScraper.py (attempt 1/1)
-[2026-01-02 16:42:57] TIMEOUT: TheSetecScraper.py exceeded 1 minutes. Killing process...
-[2026-01-02 16:42:57] FAILED: TheSetecScraper.py failed after 1 attempts
-[2026-01-02 16:42:57] Running TheTehnomarketScraper.py (attempt 1/1)
-[2026-01-02 16:43:12] EXCEPTION: TheTehnomarketScraper.py raised an exception on attempt 1
-[2026-01-02 16:43:12] 'utf-8' codec can't decode byte 0x94 in position 3865: invalid start byte
-[2026-01-02 16:43:12] FAILED: TheTehnomarketScraper.py failed after 1 attempts
-[2026-01-02 16:43:12] Running TheTelekomScraper.py (attempt 1/1)
-[2026-01-02 16:44:12] TIMEOUT: TheTelekomScraper.py exceeded 1 minutes. Killing process...
-[2026-01-02 16:44:12] FAILED: TheTelekomScraper.py failed after 1 attempts
-[2026-01-02 16:44:12] ===== RUN SUMMARY =====
-[2026-01-02 16:44:12] Total scrapers run: 15
-[2026-01-02 16:44:12] Succeeded: 7
-[2026-01-02 16:44:12] Failed: 8
-[2026-01-02 16:44:12] Successful scrapers:
-[2026-01-02 16:44:12]   - TheA1Scraper.py
-[2026-01-02 16:44:12]   - TheAnanasScraper.py
-[2026-01-02 16:44:12]   - TheGjirafaBScraper.py
-[2026-01-02 16:44:12]   - TheGjirafaGScraper.py
-[2026-01-02 16:44:12]   - TheGjirafaHScraper.py
-[2026-01-02 16:44:12]   - TheGjirafaSScraper.py
-[2026-01-02 16:44:12]   - TheItMkScraper.py
-[2026-01-02 16:44:12] Failed scrapers:
-[2026-01-02 16:44:12]   - TheAnhochScraper.py
-[2026-01-02 16:44:12]   - TheDDStoreScraper.py
-[2026-01-02 16:44:12]   - TheHivetecScraper.py
-[2026-01-02 16:44:12]   - TheLaptopiMkScraper.py
-[2026-01-02 16:44:12]   - TheNeptunScraper.py
-[2026-01-02 16:44:12]   - TheSetecScraper.py
-[2026-01-02 16:44:12]   - TheTehnomarketScraper.py
-[2026-01-02 16:44:12]   - TheTelekomScraper.py
-[2026-01-02 16:44:12] Scanning JSON output files
-[2026-01-02 16:44:13] JSON files found: 13 / 15
-[2026-01-02 16:44:13] Empty JSON files:
-[2026-01-02 16:44:13]   - hivetec.json
-[2026-01-02 16:44:13]   - neptun.json
-[2026-01-02 16:44:13]   - setec.json
-[2026-01-02 16:44:13]   - telekom.json
-[2026-01-02 16:44:13] JSON files with empty arrays:
-[2026-01-02 16:44:13]   - ananas.json
-[2026-01-02 16:44:13]   - gjirafaB.json
-[2026-01-02 16:44:13]   - gjirafaG.json
-[2026-01-02 16:44:13]   - gjirafaH.json
-[2026-01-02 16:44:13]   - gjirafaS.json
-[2026-01-02 16:44:13]   - itmk.json
-[2026-01-02 16:44:13] Metadata written to 2026-01-02_16-44-13.json
-[2026-01-02 16:44:13] ===== SCRAPER RUN FINISHED =====
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+SCRAPE_DONE
+[2026-03-14 16:03:13] Running TheAnhochScraper.py (attempt 1/1)
+[2026-03-14 16:03:50] SUCCESS: TheAnhochScraper.py
+[2026-03-14 16:03:50] Output: 53980, Notebook Lenovo Yoga 7 2in1 Ultra 7 155U/16GB/1TB SSD/16" WUXGA IPS Touch/Backlit KB/Win11, https://www.anhoch.com/products/notebook-lenovo-yoga-7-2in1-ultra-7-155u16gb1tb-ssd16-wuxga-ips-touchbacklit-kbwin11-7659
+27480, Notebook HP 255 G10 Ryzen 7 7730U/16GB/512GB/15.6" FHD IPS/USB-C/Dark Ash Silver, https://www.anhoch.com/products/notebook-hp-255-g10-ryzen-7-7730u16gb512gb156-fhd-ipsusbcdark-ash-silver-7662
+37980, Notebook Lenovo IdeaPad Slim 5 Intel Core 5 210H/16GB/512GB/14" WUXGA IPS/BacklitKB, https://www.anhoch.com/products/notebook-lenovo-ideapad-slim-5-intel-core-5-210h16gb512gb14-wuxga-ipsbacklitkb-7937
+59980, Notebook Acer Nitro Gaming Ryzen 7 250/16GB/512GB/RTX 5050 8GB/16" WUXGA IPS 180Hz/Win11, https://www.anhoch.com/products/notebook-acer-nitro-gaming-ryzen-7-25016gb512gbrtx-5050-8gb16-wuxga-ips-180hzwin11-7942
+25480, Notebook Lenovo IdeaPad Slim 3 i5-13420H/16GB/512GB/15.3" WUXGA IPS/No OS, https://www.anhoch.com/products/notebook-lenovo-ideapad-slim-3-i513420h16gb512gb153-wuxga-ipsno-os-7706
+25480, Notebook Acer Aspire Lite AL16-52P i5-1334U/16GB/512GB/16" FHD IPS/No OS, https://www.anhoch.com/products/notebook-acer-aspire-lite-al1652p-i51334u16gb512gb16-fhd-ipsno-os-8242
+17980, Notebook Acer Aspire Lite AL15-32P N4500/8GB/256GB/15.6" FHD IPS/Win11Pro, https://www.anhoch.com/products/notebook-acer-aspire-lite-al1532p-n45008gb256gb156-fhd-ipswin11pro-8259
+27480, Notebook Acer Aspire 3 Ryzen 7 7730U/16GB/512GB SSD/15.6" FHD IPS/DOS, https://www.anhoch.com/products/notebook-acer-aspire-3-ryzen-7-7730u16gb512gb-ssd156-fhd-ipsdos-7758
+59980, Notebook Gigabyte A16 Gaming Ryzen 7 260/16GB/512GB SSD/RTX 5050 8GB/16.0" FHD+ 165Hz IPS/Type-C/DOS, https://www.anhoch.com/products/notebook-gigabyte-a16-gaming-ryzen-7-26016gb512gb-ssdrtx-5050-8gb160-fhd-plus--165hz-ipstypecdos-8283
+36980, Notebook Lenovo IdeaPad Slim 3 i7-1355U/16GB/1TB SSD/15.6" FHD Touch/KB Backlit/Win11, https://www.anhoch.com/products/notebook-lenovo-ideapad-slim-3-i71355u16gb1tb-ssd156-fhd-touchkb-backlitwin11-8296
+38980, Notebook Asus F1504VA i7-1355U/16GB/1TB SSD/15.6" FHD Touch/KB Backlit/Win11, https://www.anhoch.com/products/notebook-asus-f1504va-i71355u16gb1tb-ssd156-fhd-touchkb-backlitwin11-8297
+54980, Notebook Gigabyte A16 Gaming i7-13620H/16GB/512GB SSD/RTX 4050 6GB/16.0" FHD+ 165Hz IPS/Type-C/Win11, https://www.anhoch.com/products/notebook-gigabyte-a16-gaming-i713620h16gb512gb-ssdrtx-4050-6gb160-fhd-plus--165hz-ipstypecwin11-8303
+38980, Notebook MSI Thin 15 Gaming i5-13420H/16GB/512GB/RTX3050 4GB/15.6" FHD 144Hz/Backlit Kb/Win11, https://www.anhoch.com/products/notebook-msi-thin-15-gaming-i513420h16gb512gbrtx3050-4gb156-fhd-144hzbacklit-kbwin11-7796
+43980, Notebook Dell Pro 16 Ryzen 7 250/16GB/1TB/16" FHD Touch IPS/Backlit Kb/Win11, https://www.anhoch.com/products/notebook-dell-pro-16-ryzen-7-25016gb1tb16-fhd-touch-ipsbacklit-kbwin11-8310
+47980, Notebook Gigabyte A16 Gaming i5-13420H/16GB/512GB SSD/RTX 4050 6GB/16.0" FHD+ 165Hz IPS/Type-C/DOS, https://www.anhoch.com/products/notebook-gigabyte-a16-gaming-i513420h16gb512gb-ssdrtx-4050-6gb160-fhd-plus--165hz-ipstypecdos-6522
+30980, Notebook Asus VivoBook 14 X1404VA i7-1355U/12GB/512GB/14" FHD IPS/BT/Win11/Blue, https://www.anhoch.com/products/notebook-asus-vivobook-14-x1404va-i71355u12gb512gb14-fhd-ipsbtwin11blue-7802
+27480, Notebook Lenovo IdeaPad Slim 3 Ryzen 5 8540U/8GB/512GB/15.3" WUXGA Touch IPS/Backlit KB/Win11, https://www.anhoch.com/products/notebook-lenovo-ideapad-slim-3-ryzen-5-8540u8gb512gb153-wuxga-touch-ipsbacklit-kbwin11-8067
+28480, Notebook HP 255R G10 Ryzen 7 7735U/16GB/512GB/15.6" FHD IPS/USB-C/Dark Silver, https://www.anhoch.com/products/notebook-hp-255r-g10-ryzen-7-7735u16gb512gb156-fhd-ipsusbcdark-silver-8072
+25480, Notebook HP 250 G10 Intel Core 5 120U/16GB/512GB/15.6" FullHD/USB-C/DOS, https://www.anhoch.com/products/notebook-hp-250-g10-intel-core-5-120u16gb512gb156-fullhdusbcdos-8331
+69980, Notebook HP Victus Gaming i7-13620H/16GB/512GB SSD/RTX 5060 8GB/15.6" FHD 144Hz IPS/Win11/Silver, https://www.anhoch.com/products/notebook-hp-victus-gaming-i713620h16gb512gb-ssdrtx-5060-8gb156-fhd-144hz-ipswin11silver-7819
+23980, Notebook HP 250 G10 Intel Core 5 120U/8GB/512GB/15.6" FullHD/USB-C/DOS, https://www.anhoch.com/products/notebook-hp-250-g10-intel-core-5-120u8gb512gb156-fullhdusbcdos-8332
+31980, Notebook Dell 15 i7-1355U/16GB/512GB/15.6" FHD 120Hz/BacklitKB/FreeDOS, https://www.anhoch.com/products/notebook-dell-15-i71355u16gb512gb156-fhd-120hzbacklitkbfreedos-8333
+29980, Notebook Lenovo IdeaPad Slim 3 Intel Core 5 210H/8GB/512GB/15.3" WUXGA IPS Touch/Win11, https://www.anhoch.com/products/notebook-lenovo-ideapad-slim-3-intel-core-5-210h8gb512gb153-wuxga-ips-touchwin11-8077
+27980, Notebook Lenovo IdeaPad Slim 3 Ryzen 7 7735HS/16GB/512GB/15.3" WUXGA IPS/USB-C, https://www.anhoch.com/products/notebook-lenovo-ideapad-slim-3-ryzen-7-7735hs16gb512gb153-wuxga-ipsusbc-8334
+33980, Notebook Lenovo IdeaPad Slim 3 i7-13620H/16GB/512GB/15.3" FHD IPS/USB-C/Luna Grey, https://www.anhoch.com/products/notebook-lenovo-ideapad-slim-3-i713620h16gb512gb153-fhd-ipsusbcluna-grey-8336
+24480, Notebook Acer Aspire Go 15 Ryzen 5 7520U/8GB/512GB/15.6" FHD IPS Touch/Win11/Silver, https://www.anhoch.com/products/notebook-acer-aspire-go-15-ryzen-5-7520u8gb512gb156-fhd-ips-touchwin11silver-7824
+24480, Notebook Dell 15 i5-1334U/8GB/512GB/15.6" FHD 120Hz/BacklitKB, https://www.anhoch.com/products/notebook-dell-15-i51334u8gb512gb156-fhd-120hzbacklitkb-8338
+33980, Notebook HP 15 Ryzen 7 7730U/16GB/512GB/15.6" FHD IPS Touchscreen/Win11/Natural Silver, https://www.anhoch.com/products/notebook-hp-15-ryzen-7-7730u16gb512gb156-fhd-ips-touchscreenwin11natural-silver-7572
+26980, Notebook Dell 15 i5-1334U/16GB/512GB/15.6" FHD 120Hz/BacklitKB, https://www.anhoch.com/products/notebook-dell-15-i51334u16gb512gb156-fhd-120hzbacklitkb-8350
+49980, Notebook Acer Nitro Gaming i5-13420H/16GB/512GB SSD/RTX 5050 8GB/15.6" FHD 165Hz/Backlit Kb/Win11, https://www.anhoch.com/products/notebook-acer-nitro-gaming-i513420h16gb512gb-ssdrtx-5050-8gb156-fhd-165hzbacklit-kbwin11-8350
+48980, Notebook HP OmniBook 5 Ultra 7 255U/16GB/1TB/16" 2K Touch IPS/Win11/Silver, https://www.anhoch.com/products/notebook-hp-omnibook-5-ultra-7-255u16gb1tb16-2k-touch-ipswin11silver-8351
+20980, Notebook Lenovo V15 Business G5 i3-1315U/8GB/512GB/15.6" FHD/USB-C/RJ-45, https://www.anhoch.com/products/notebook-lenovo-v15-business-g5--i31315u8gb512gb156-fhdusbcrj45-8623
+69980, Notebook Lenovo LOQ Gaming i7-13650HX/16GB/512GB/RTX 5060 8GB/15.6" IPS 144Hz G-Sync/Win11, https://www.anhoch.com/products/notebook-lenovo-loq-gaming-i713650hx16gb512gbrtx-5060-8gb156-ips-144hz-gsyncwin11-8368
+23980, Notebook HP 255 G10 Ryzen 5 7530U/16GB/512GB/15.6" FHD IPS/No OS, https://www.anhoch.com/products/notebook-hp-255-g10-ryzen-5-7530u16gb512gb156-fhd-ipsno-os-7860
+25480, Notebook Lenovo V15 Business G4 i5-13420H/16GB/512GB/15.6" FHD IPS/USB-C/RJ-45, https://www.anhoch.com/products/notebook-lenovo-v15-business-g4-i513420h16gb512gb156-fhd-ipsusbcrj45-7606
+27980, Notebook Lenovo IdeaPad Slim 3 Ryzen 7 7735HS/16GB/512GB SSD/15.3" WUXGA IPS/USB-C, https://www.anhoch.com/products/notebook-lenovo-ideapad-slim-3-ryzen-7-7735hs16gb512gb-ssd153-wuxga-ipsusbc-8377
+28980, Notebook Dell Inspiron 3535 i5-1334U/16GB/512GB/Intel UHD/15.6" FHD Touch/Win11, https://www.anhoch.com/products/notebook-dell-inspiron-3535-i51334u16gb512gbintel-uhd156-fhd-touchwin11-7619
+55980, Notebook Lenovo LOQ Gaming i5-13450HX/16GB/512GB/RTX 5050 8GB/15.6" FHD IPS 144Hz/Win11, https://www.anhoch.com/products/notebook-lenovo-loq-gaming-i513450hx16gb512gbrtx-5050-8gb156-fhd-ips-144hzwin11-8141
+49980, Notebook HP Victus Gaming Ryzen 7 7445HS/16GB/512GB/RTX4050 6GB/15.6" FHD IPS 144Hz/Backlit Kb/Win11, https://www.anhoch.com/products/notebook-hp-victus-gaming-ryzen-7-7445hs16gb512gbrtx4050-6gb156-fhd-ips-144hzbacklit-kbwin11-7645
+49980, Notebook Lenovo IdeaPad 5 2-in1 Ryzen AI 7 350/16GB/1TB/16" WUXGA IPS Touch/Pen/BacklitKB/Win11, https://www.anhoch.com/products/notebook-lenovo-ideapad-5-2in1-ryzen-ai-7-35016gb1tb16-wuxga-ips-touchpenbacklitkbwin11-8451
+27480, Notebook HP Pavilion 15 i5-1335U/12GB/512GB/15.6" FullHD IPS/Silver/DOS, https://www.anhoch.com/products/notebook-hp-pavilion-15-i51335u12gb512gb156-fullhd-ipssilverdos-8212
+84980, Notebook Lenovo Legion 5 i7-14700HX/16GB/512GB/RTX 5060 8GB/15.1" OLED 165Hz/Backlit Kb/Win11, https://www.anhoch.com/products/notebook-lenovo-legion-5-i714700hx16gb512gbrtx-5060-8gb151-oled-165hzbacklit-kbwin11-8533
+27980, Notebook HP Laptop 15 Intel Core 5 120U/16GB/512GB/15.6" FullHD IPS/FreeDOS, https://www.anhoch.com/products/notebook-hp-laptop-15-intel-core-5-120u16gb512gb156-fullhd-ipsfreedos-8255
+54980, Notebook Acer Nitro 5 Intel Core 5 210H/16GB/512GB/RTX 4050 6GB/15.6" FHD IPS 165Hz Slim/Thunderbolt, https://www.anhoch.com/products/notebook-acer-nitro-5-intel-core-5-210h16gb512gbrtx-4050-6gb156-fhd-ips-165hz-slimthunderbolt-7778
+65980, Notebook Lenovo LOQ Gaming i5-13450HX/24GB/512GB/RTX 5060 8GB/15.6" FHD IPS/Luna Grey, https://www.anhoch.com/products/notebook-lenovo-loq-gaming-i513450hx24gb512gbrtx-5060-8gb156-fhd-ipsluna-grey-8372
+41980, Notebook HP OmniBook 5 Flip 2in1 Core 7 150U/16GB/512GB /14" FHD Touch/Backlit Kb/Win11/Silver, https://www.anhoch.com/products/notebook-hp-omnibook-5-flip-2in1-core-7-150u16gb512gb-14-fhd-touchbacklit-kbwin11silver-7393
+55980, Notebook HP Victus Gaming i7-13620H/16GB/1TB/RTX 4050 6GB/15.6" FullHD IPS 144Hz/Backlit Kb, https://www.anhoch.com/products/notebook-hp-victus-gaming-i713620h16gb1tbrtx-4050-6gb156-fullhd-ips-144hzbacklit-kb-8455
+48980, Notebook HP OmniBook 5 Ultra 7 255U/16GB/1TB/16" 2K (1920x1200) IPS/Silver, https://www.anhoch.com/products/notebook-hp-omnibook-5-ultra-7-255u16gb1tb16-2k-1920x1200-ipssilver-8282
+46980, Notebook HP OmniBook X Flip 2in1 Ryzen AI 5 340/16GB/512GB/16" 2K IPS Touch/Win11, https://www.anhoch.com/products/notebook-hp-omnibook-x-flip-2in1-ryzen-ai-5-34016gb512gb16-2k-ips-touchwin11-8076
+59980, Notebook Gigabyte G6 KF Gaming i7-13620H/16GB/1TB SSD/RTX 4060 8GB/16.0" FHD+ 165Hz IPS/DOS, https://www.anhoch.com/products/notebook-gigabyte-g6-kf-gaming-i713620h16gb1tb-ssdrtx-4060-8gb160-fhd-plus--165hz-ipsdos-7831
+25980, Notebook Acer Extensa EX215-57 i5-13420H/16GB/512GB/15.6" FHD/USB-C, https://www.anhoch.com/products/notebook-acer-extensa-ex21557-i513420h16gb512gb156-fhdusbc-8002
+51980, Notebook Lenovo ThinkBook 16 G7 Ryzen 7 7735HS/16GB/512GB/16" WUXGA Touch IPS/BcklitKb/Win11Pro, https://www.anhoch.com/products/notebook-lenovo-thinkbook-16-g7-ryzen-7-7735hs16gb512gb16-wuxga-touch-ipsbcklitkbwin11pro-8304
+49980, Notebook HP OmniBook 5 Ryzen 7 8840U/16GB/512GB/16" 2K (1920x1200) IPS/Win11, https://www.anhoch.com/products/notebook-hp-omnibook-5-ryzen-7-8840u16gb512gb16-2k-1920x1200-ipswin11-8305
+23980, Notebook Acer Aspire Go 15 i5-1334U/8GB/256GB/15.3" WUXGA IPS/Win11, https://www.anhoch.com/products/notebook-acer-aspire-go-15-i51334u8gb256gb153-wuxga-ipswin11-7804
+25480, Notebook Lenovo IdeaPad Slim 3 i5-13420H/16GB/512GB/15.3" WUXGA IPS/USB-C/Luna Grey, https://www.anhoch.com/products/notebook-lenovo-ideapad-slim-3-i513420h16gb512gb153-wuxga-ipsusbcluna-grey-8368
+99980, Notebook HP OMEN Gaming Ryzen AI 9 365/16GB/512GB SSD/RTX 5070 8GB/17.3" FHD 144Hz/Backlit KB/Win11, https://www.anhoch.com/products/notebook-hp-omen-gaming-ryzen-ai-9-36516gb512gb-ssdrtx-5070-8gb173-fhd-144hzbacklit-kbwin11-7392
+55980, Notebook Lenovo LOQ Gaming Ryzen 5 220 AI/16GB/512GB/RTX 5050 8GB/15.6" FHD IPS G-Sync, https://www.anhoch.com/products/notebook-lenovo-loq-gaming-ryzen-5-220-ai16gb512gbrtx-5050-8gb156-fhd-ips-gsync-8189
+54480, Notebook HP Envy 15 x360 2in1 Ryzen 7 7730U/16GB/512GB/15.6" FHD Touch OLED/Backlit Kb/Win11, https://www.anhoch.com/products/notebook-hp-envy-15-x360-2in1-ryzen-7-7730u16gb512gb156-fhd-touch-oledbacklit-kbwin11-1751
+48980, Notebook Acer Nitro 5 Intel Core 5 210H/16GB/512GB/RTX 3050 6GB/15.6" FHD IPS 165Hz Slim/Thunderbolt, https://www.anhoch.com/products/notebook-acer-nitro-5-intel-core-5-210h16gb512gbrtx-3050-6gb156-fhd-ips-165hz-slimthunderbolt-7777
+119980, Notebook MSI Crosshair 18 HX AI Ultra 9 275HX/32GB/1TB/ RTX 5070 8GB/18" QHD+ IPS 240Hz/RGB Kb, https://www.anhoch.com/products/notebook-msi-crosshair-18-hx-ai-ultra-9-275hx32gb1tb-rtx-5070-8gb18-qhd-plus--ips-240hzrgb-kb-8309
+52980, Notebook Acer Nitro Gaming Ryzen 5 240/16GB/512GB/RTX 5050 8GB/16" WUXGA IPS 180Hz/Win11, https://www.anhoch.com/products/notebook-acer-nitro-gaming-ryzen-5-24016gb512gbrtx-5050-8gb16-wuxga-ips-180hzwin11-7801
+84980, Notebook Lenovo Legion 5 Ryzen 7 260/16GB/512GB/RTX 5060 8GB/15.1" OLED 165Hz G-Sync/Win11, https://www.anhoch.com/products/notebook-lenovo-legion-5-ryzen-7-26016gb512gbrtx-5060-8gb151-oled-165hz-gsyncwin11-7822
+79980, Notebook HP Omen Gaming Ultra 7 255HX/16GB/1TB/RTX 5060 8GB/16" 144Hz/Win11, https://www.anhoch.com/products/notebook-hp-omen-gaming-ultra-7-255hx16gb1tbrtx-5060-8gb16-144hzwin11-8334
+37980, Notebook MSI Modern 15 Intel Core 7 150U/16GB/512GB/15.6" FHD IPS/No OS, https://www.anhoch.com/products/notebook-msi-modern-15-intel-core-7-150u16gb512gb156-fhd-ipsno-os-7863
+72980, Notebook HP OMEN Transcend i7-13700HX/16GB/512GB/RTX 4060 8GB/16.0" WUXGA IPS 165Hz/Backlit Kb/DOS, https://www.anhoch.com/products/notebook-hp-omen-transcend-i713700hx16gb512gbrtx-4060-8gb160-wuxga-ips-165hzbacklit-kbdos-1770
+52980, Notebook HP Victus Gaming Ryzen 5 8645HS/16GB/512GB/RTX 4050 6GB/15.6" FHD 144Hz IPS/FreeDOS, https://www.anhoch.com/products/notebook-hp-victus-gaming-ryzen-5-8645hs16gb512gbrtx-4050-6gb156-fhd-144hz-ipsfreedos-8279
+99980, Notebook Gigabyte AERO X16 Ryzen AI 7 350/32GB/1TBSSD/RTX 5070 8GB/16" IPS QHD+ 165Hz/W11H, https://www.anhoch.com/products/notebook-gigabyte-aero-x16-ryzen-ai-7-35032gb1tbssdrtx-5070-8gb16-ips-qhd-plus--165hzw11h-7304
+157980, Notebook Apple MacBook Pro M4 Pro 14C CPU/24GB/512GB SSD/Apple 20C GPU/16.2" XDR 120Hz/Backlit Kb/SB, https://www.anhoch.com/products/notebook-apple-macbook-pro-m4-pro-14c-cpu24gb512gb-ssdapple-20c-gpu162-xdr-120hzbacklit-kbsb-4052
+73980, Notebook MSI Cyborg 15 B13W i7-13620H/16GB/1TB SSD/RTX 5060 8GB/15" FHD 144Hz/RGB Kb, https://www.anhoch.com/products/notebook-msi-cyborg-15-b13w-i713620h16gb1tb-ssdrtx-5060-8gb15-fhd-144hzrgb-kb-8440
+96980, Notebook MSI Katana 15 HX i7-14650HX/16GB/1TB SSD/RTX 5070 8GB/15" QHD+ 165Hz/RGB Kb, https://www.anhoch.com/products/notebook-msi-katana-15-hx-i714650hx16gb1tb-ssdrtx-5070-8gb15-qhd-plus--165hzrgb-kb-8441
+53980, Notebook Lenovo Yoga 7 2in1 Ryzen AI 5 340/16GB/512GB/14" WUXGA OLED Touch/Backlit Kb/Pen/Win11H, https://www.anhoch.com/products/notebook-lenovo-yoga-7-2in1-ryzen-ai-5-34016gb512gb14-wuxga-oled-touchbacklit-kbpenwin11h-8525
+43980, Notebook Dell 16 Intel Core 7 150U/16GB/1TB/16" FHD+ Touch/Backlit Kb/Win11, https://www.anhoch.com/products/notebook-dell-16-intel-core-7-150u16gb1tb16-fhd-plus--touchbacklit-kbwin11-8536
+94980, Notebook Gigabyte A16 Gaming i7-13620H/16GB/1TB SSD/RTX 5070 8GB/16" FHD+ IPS 165Hz/Win11, https://www.anhoch.com/products/notebook-gigabyte-a16-gaming-i713620h16gb1tb-ssdrtx-5070-8gb16-fhd-plus--ips-165hzwin11-8537
+114980, Notebook Lenovo Legion 5 i9-14900HX/16GB/1TB/RTX 5070 8GB/15.1" WUXGA OLED 165Hz/Win11, https://www.anhoch.com/products/notebook-lenovo-legion-5-i914900hx16gb1tbrtx-5070-8gb151-wuxga-oled-165hzwin11-8538
+157980, Notebook Apple MacBook Pro M4 Pro 14C CPU/24GB/512GB SSD/Apple 20C GPU/16.2" XDR 120Hz/Backlit Kb/SL, https://www.anhoch.com/products/notebook-apple-macbook-pro-m4-pro-14c-cpu24gb512gb-ssdapple-20c-gpu162-xdr-120hzbacklit-kbsl-5727
+61980, Notebook Acer Nitro 5 Intel Core 7 240H/16GB/1TB/RTX 4050 6GB/15.6" FHD IPS 165Hz Slim/Thunderbolt, https://www.anhoch.com/products/notebook-acer-nitro-5-intel-core-7-240h16gb1tbrtx-4050-6gb156-fhd-ips-165hz-slimthunderbolt-7779
+48980, Notebook Dell Pro 14 Ryzen AI 7 350/16GB/1TB/14" FHD Touch IPS/Backlit Kb/Win11, https://www.anhoch.com/products/notebook-dell-pro-14-ryzen-ai-7-35016gb1tb14-fhd-touch-ipsbacklit-kbwin11-8311
+55980, Notebook Dell Pro 14 Ultra 7 255U/16GB/512GB/14" WUXGA IPS/FRP/Backlit Kb/Ubuntu, https://www.anhoch.com/products/notebook-dell-pro-14-ultra-7-255u16gb512gb14-wuxga-ipsfrpbacklit-kbubuntu-8319
+57980, Notebook HP Elitebook Ultra G1q Snapdragon X1E-78-100 16GB/512GB/14" 2K Touch IPS/Win11P, https://www.anhoch.com/products/notebook-hp-elitebook-ultra-g1q-snapdragon-x1e78100-16gb512gb14-2k-touch-ipswin11p-8068
+23980, Notebook Lenovo IdeaPad Slim 3 Ryzen 5 7520U/16GB/512GB/15.6" FHD/USB-C, https://www.anhoch.com/products/notebook-lenovo-ideapad-slim-3-ryzen-5-7520u16gb512gb156-fhdusbc-8340
+45980, Notebook Dell Pro 16 Intel Core 5 120U/16GB/512GB/16" WUXGA IPS/Backlit KB/FPR, https://www.anhoch.com/products/notebook-dell-pro-16-intel-core-5-120u16gb512gb16-wuxga-ipsbacklit-kbfpr-8348
+76980, Notebook MSI Cyborg 15 Gaming Core 7 240H/16GB/512GB SSD/RTX 5060 8GB/15.6" FHD 144Hz/Win11, https://www.anhoch.com/products/notebook-msi-cyborg-15-gaming-core-7-240h16gb512gb-ssdrtx-5060-8gb156-fhd-144hzwin11-8349
+76980, Notebook Dell Alienware Core 7 240H/16GB/1TB SSD/RTX 5050 8GB/16.0" WQXGA 120Hz IPS/Win11, https://www.anhoch.com/products/notebook-dell-alienware-core-7-240h16gb1tb-ssdrtx-5050-8gb160-wqxga-120hz-ipswin11-8363
+77980, Notebook Apple MacBook Air M4 10C CPU/16GB/256GB SSD/Apple 10C GPU/15.3" LED IPS/Backlit Kb/Midnight, https://www.anhoch.com/products/notebook-apple-macbook-air-m4-10c-cpu16gb256gb-ssdapple-10c-gpu153-led-ipsbacklit-kbmidnight-7373
+46980, Notebook Dell Latitude 5540 i5-1335U/16GB/512GB SSD/15.6" FHD/FRP/BacklitKB/Ubu, https://www.anhoch.com/products/notebook-dell-latitude-5540-i51335u16gb512gb-ssd156-fhdfrpbacklitkbubu-7914
+49980, Notebook Lenovo Ideapad 5 2in1 Ultra 7 255U/16GB/512GB/14" WUXGA IPS Touch/Backlit KB/Pen/Win11, https://www.anhoch.com/products/notebook-lenovo-ideapad-5-2in1-ultra-7-255u16gb512gb14-wuxga-ips-touchbacklit-kbpenwin11-7658
+25980, Notebook Acer Extensa EX215-57 i5-13420H/16GB/512GB/15.6" FHD IPS/No OS, https://www.anhoch.com/products/notebook-acer-extensa-ex21557-i513420h16gb512gb156-fhd-ipsno-os-8190
+46980, Notebook Lenovo IdeaPad 5 2-in1 Ryzen AI 5 340/16GB/512GB/14" WUXGA IPS Touch/Pen/BacklitKB, https://www.anhoch.com/products/notebook-lenovo-ideapad-5-2in1-ryzen-ai-5-34016gb512gb14-wuxga-ips-touchpenbacklitkb-7943
+63980, Notebook HP OMEN i7-13620H/16GB/1TB/RTX4050 6GB/16.1" FHD IPS 165Hz/Backlit Kb/Win11, https://www.anhoch.com/products/notebook-hp-omen-i713620h16gb1tbrtx4050-6gb161-fhd-ips-165hzbacklit-kbwin11-1769
+26980, Notebook HP ProBook 455 G10 Ryzen 5 7530U/8GB/512GB/15.6" FullHD IPS/HDMI/USB-C/RJ45/DOS, https://www.anhoch.com/products/notebook-hp-probook-455-g10-ryzen-5-7530u8gb512gb156-fullhd-ipshdmiusbcrj45dos-1771
+229980, Notebook HP Omen Max 16T Ultra 9 275HX/32GB/1TB/RTX 5090 24GB/16" WQXGA 240Hz/RGB KB/Win11, https://www.anhoch.com/products/notebook-hp-omen-max-16t-ultra-9-275hx32gb1tbrtx-5090-24gb16-wqxga-240hzrgb-kbwin11-7743
+154980, Notebook Gigabyte A16 PRO Intel Core 7 240H/32GB/1TB SSD/RTX 5080 16GB/16.0" WQXGA 165Hz IPS/DOS, https://www.anhoch.com/products/notebook-gigabyte-a16-pro-intel-core-7-240h32gb1tb-ssdrtx-5080-16gb160-wqxga-165hz-ipsdos-7749
+124980, Notebook Asus Zenbook DUO Ultra 9 285H/32GB/2TB/Dual 14.5" OLED Touch/Detacheable Backlit Kb/Win11, https://www.anhoch.com/products/notebook-asus-zenbook-duo-ultra-9-285h32gb2tbdual-145-oled-touchdetacheable-backlit-kbwin11-8532
+114980, Notebook Asus ROG Strix G16 Ryzen 9 8940HX/16GB/1TB/RTX 5070 8GB/16" FHD+ IPS 165Hz/Win11, https://www.anhoch.com/products/notebook-asus-rog-strix-g16-ryzen-9-8940hx16gb1tbrtx-5070-8gb16-fhd-plus--ips-165hzwin11-8534
+94980, Notebook Acer Predator Helios Neo Ultra 9 275HX/16GB/1TB/RTX 5060 8GB/16" WQXGA OLED 240Hz/RGB/Win11, https://www.anhoch.com/products/notebook-acer-predator-helios-neo-ultra-9-275hx16gb1tbrtx-5060-8gb16-wqxga-oled-240hzrgbwin11-8535
+83980, Notebook Gigabyte AERO X16 Ryzen AI 7 350/16GB/1TB SSD/RTX 5060 8GB/16" IPS QHD+ 165Hz/W11H, https://www.anhoch.com/products/notebook-gigabyte-aero-x16-ryzen-ai-7-35016gb1tb-ssdrtx-5060-8gb16-ips-qhd-plus--165hzw11h-8282
+52980, Notebook Asus TUF Gaming Ryzen 7 7445HS/16GB/512GB/RTX4050 6GB/16" WUXGA IPS 144Hz/Backlit Kb/Win11, https://www.anhoch.com/products/notebook-asus-tuf-gaming-ryzen-7-7445hs16gb512gbrtx4050-6gb16-wuxga-ips-144hzbacklit-kbwin11-7795
+194980, Notebook Gigabyte AORUS MASTER 16 Ultra 9 275HX/32GB/1TBSSD/RTX 5080 16GB/16" OLED 240Hz/RGB KB/W11P, https://www.anhoch.com/products/notebook-gigabyte-aorus-master-16-ultra-9-275hx32gb1tbssdrtx-5080-16gb16-oled-240hzrgb-kbw11p-6521
+42980, Notebook Acer Nitro Ryzen7 6800H/8GB/512GB SSD/RTX 3050Ti 4GB/15.6" FHD IPS 144Hz/Bkaclit Kb/Dos, https://www.anhoch.com/products/notebook-acer-nitro-ryzen7-6800h8gb512gb-ssdrtx-3050ti-4gb156-fhd-ips-144hzbkaclit-kbdos-0861
+38980, Notebook Dell Inspiron 5441 Snapdragon X Plus X1P-42-100/16GB/1TB/14" WUXGA IPS/Win11, https://www.anhoch.com/products/notebook-dell-inspiron-5441-snapdragon-x-plus-x1p4210016gb1tb14-wuxga-ipswin11-8069
+72480, Notebook Lenovo ThinkPad E14 G7 Ultra 7 255H/16GB/1TB/14" WUXGA IPS/Backlit KB/FP, https://www.anhoch.com/products/notebook-lenovo-thinkpad-e14-g7-ultra-7-255h16gb1tb14-wuxga-ipsbacklit-kbfp-8346
+89980, Notebook MSI Katana 17 HX i7-14650HX/16GB/1TB SSD/RTX 5060 8GB/17" QHD+ 240Hz/RGB Kb, https://www.anhoch.com/products/notebook-msi-katana-17-hx-i714650hx16gb1tb-ssdrtx-5060-8gb17-qhd-plus--240hzrgb-kb-7583
+93980, Notebook MSI Prestige A16 AI+ Ryzen 9 365/32GB/1TB SSD/16" UHD OLED/W11P, https://www.anhoch.com/products/notebook-msi-prestige-a16-ai-plus--ryzen-9-36532gb1tb-ssd16-uhd-oledw11p-7864
+80980, Notebook Apple MacBook Air M4 10C CPU/16GB/512GB SSD/Apple 10C GPU/13.6" LED IPS/Backlit Kb/Midnight, https://www.anhoch.com/products/notebook-apple-macbook-air-m4-10c-cpu16gb512gb-ssdapple-10c-gpu136-led-ipsbacklit-kbmidnight-7371
+94980, Notebook Apple MacBook Air M4 10C CPU/16GB/512GB SSD/Apple 10C GPU/15.3" LED IPS/Backlit Kb/Midnight, https://www.anhoch.com/products/notebook-apple-macbook-air-m4-10c-cpu16gb512gb-ssdapple-10c-gpu153-led-ipsbacklit-kbmidnight-7374
+77980, Notebook Apple MacBook Air M4 10C CPU/16GB/256GB SSD/Apple 10C GPU/15.3" LED IPS/Backlit Kb/Silver, https://www.anhoch.com/products/notebook-apple-macbook-air-m4-10c-cpu16gb256gb-ssdapple-10c-gpu153-led-ipsbacklit-kbsilver-7376
+54980, Notebook HP OmniBook X Flip 2in1 Ryzen AI 7 350/24GB/1TB SSD/14" FHD Touch/Backlit Kb/Win11/Silver, https://www.anhoch.com/products/notebook-hp-omnibook-x-flip-2in1-ryzen-ai-7-35024gb1tb-ssd14-fhd-touchbacklit-kbwin11silver-7398
+26480, Notebook HP 15 i5-1334U/16GB/512GB/15.6" FHD IPS/Iris XE/Type-C/DOS/Diamond White, https://www.anhoch.com/products/notebook-hp-15-i51334u16gb512gb156-fhd-ipsiris-xetypecdosdiamond-white-7664
+179980, Notebook MSI Stealth A16 Mercedes AMG Ryzen 9 HX370/32GB/1TB/RTX 5070 8GB/16" QHD+ 240Hz OLED/W11P, https://www.anhoch.com/products/notebook-msi-stealth-a16-mercedes-amg-ryzen-9-hx37032gb1tbrtx-5070-8gb16-qhd-plus--240hz-oledw11p-8442
+107980, Notebook Lenovo Yoga 9 2in1 Ultra 7 258V/32GB/1TB/14" 2.8K WQXGA+ OLED Touch/Bcklit KB/Win11Pro, https://www.anhoch.com/products/notebook-lenovo-yoga-9-2in1-ultra-7-258v32gb1tb14-28k-wqxga-plus--oled-touchbcklit-kbwin11pro-8453
+248980, Notebook Gigabyte AORUS MASTER 18 Ultra 9 275HX/32GB/1TBSSD/RTX 5090 24GB/18" miniLED 240Hz/W11P, https://www.anhoch.com/products/notebook-gigabyte-aorus-master-18-ultra-9-275hx32gb1tbssdrtx-5090-24gb18-miniled-240hzw11p-7975
+158980, Notebook Gigabyte AORUS MASTER 16 Ultra 9 275HX/32GB/1TB/RTX 5070Ti 12GB/16" OLED 240Hz/RGB KB/W11P, https://www.anhoch.com/products/notebook-gigabyte-aorus-master-16-ultra-9-275hx32gb1tbrtx-5070ti-12gb16-oled-240hzrgb-kbw11p-7976
+59980, Notebook HP Victus Gaming Ryzen 7 7840HS/16GB/1TB/RTX 4050 6GB/16.1" FHD IPS 144Hz/Backlit Kb/DOS, https://www.anhoch.com/products/notebook-hp-victus-gaming-ryzen-7-7840hs16gb1tbrtx-4050-6gb161-fhd-ips-144hzbacklit-kbdos-1753
+38980, Notebook Dell Latitude 5540 i5-1335U 8GB/512GB SSD/15.6" FHD/FRP/BacklitKB/Ubu, https://www.anhoch.com/products/notebook-dell-latitude-5540-i51335u-8gb512gb-ssd156-fhdfrpbacklitkbubu-7477
+97980, Notebook HP OmniBook Ultra Flip 2in1 Ultra 7 256V/16GB/1TB/14" OLED Touch 120Hz/Pen/Win11, https://www.anhoch.com/products/notebook-hp-omnibook-ultra-flip-2in1-ultra-7-256v16gb1tb14-oled-touch-120hzpenwin11-8252
+45980, Notebook HP ProBook 450 G10 i7-1355U/16GB/512GB/15.6" FullHD IPS/HDMI/USB-C/RJ45/DOS, https://www.anhoch.com/products/notebook-hp-probook-450-g10-i71355u16gb512gb156-fullhd-ipshdmiusbcrj45dos-1774
+29980, Notebook Dell Vostro 3530 i7-1355U/8GB/512GB/Intel Iris XE/15.6" FHD 120Hz/BacklitKB/4Cell/Ubuntu, https://www.anhoch.com/products/notebook-dell-vostro-3530-i71355u8gb512gbintel-iris-xe156-fhd-120hzbacklitkb4cellubuntu-7002
+42980, Notebook HP OmniBook 5 Ultra 5 225U/16GB/512GB/16" 2K (1920x1200) IPS/Silver, https://www.anhoch.com/products/notebook-hp-omnibook-5-ultra-5-225u16gb512gb16-2k-1920x1200-ipssilver-8283
+53980, Notebook HP Victus Gaming i5 12500H/16GB/512GB SSD/RTX 4050 6GB/15.6" FHD IPS 144Hz/Backlit Kb/Win11, https://www.anhoch.com/products/notebook-hp-victus-gaming-i5-12500h16gb512gb-ssdrtx-4050-6gb156-fhd-ips-144hzbacklit-kbwin11-2633
+72980, Notebook Acer Nitro 5 i9-12900H/16GB/512GB/RTX4060 8GB/15.6" FHD 165Hz/RGB Kb/DOS, https://www.anhoch.com/products/notebook-acer-nitro-5-i912900h16gb512gbrtx4060-8gb156-fhd-165hzrgb-kbdos-7280
+26980, Notebook HP ProBook 455 G9 Ryzen 5 5625U 8GB/256GB/15.6" FullHD IPS/USB-C/GigaLAN/DOS/Silver, https://www.anhoch.com/products/notebook-hp-probook-455-g9-ryzen-5-5625u-8gb256gb156-fullhd-ipsusbcgigalandossilver-1315
+25980, Notebook Acer Aspire Lite i7-1255U/16GB/512GB/15.6" FHD IPS/GigaLAN/Backlit/DOS/Grey, https://www.anhoch.com/products/notebook-acer-aspire-lite-i71255u16gb512gb156-fhd-ipsgigalanbacklitdosgrey-7798
+98980, Notebook Lenovo ThinkPad X1 Carbon Gen13 Ultra 7 255U/32GB/1TB SSD/14" FHD Touch/FPR/BLKB/Win11Pro, https://www.anhoch.com/products/notebook-lenovo-thinkpad-x1-carbon-gen13-ultra-7-255u32gb1tb-ssd14-fhd-touchfprblkbwin11pro-8312
+57980, Notebook HP OmniBook X Flip 2in1 Ultra 7 256V/16GB/1TB/14" 2K IPS Touch/Win11, https://www.anhoch.com/products/notebook-hp-omnibook-x-flip-2in1-ultra-7-256v16gb1tb14-2k-ips-touchwin11-8073
+25980, Notebook HP 15 Intel i5-1334U/16GB/512GB/15.6" FHD IPS/Iris XE/Type-C/FreeDOS, https://www.anhoch.com/products/notebook-hp-15-intel-i51334u16gb512gb156-fhd-ipsiris-xetypecfreedos-8330
+20980, Notebook Lenovo V15 Business G4 Ryzen 3 7320U/16GB/512GB/15.6" FHD/USB-C/Black, https://www.anhoch.com/products/notebook-lenovo-v15-business-g4-ryzen-3-7320u16gb512gb156-fhdusbcblack-8074
+56980, Notebook Lenovo Yoga 7 2in1 Ryzen 7 8840HS/16GB/512GB/16" WUXGA IPS Touch/BacklitKB/Win11, https://www.anhoch.com/products/notebook-lenovo-yoga-7-2in1-ryzen-7-8840hs16gb512gb16-wuxga-ips-touchbacklitkbwin11-8075
+47980, Notebook MSI Thin 15 Gaming i5-13420H/16GB/512GB SSD/RTX 4050 6GB/15.6" FHD 144Hz/Backlit Kb/Win11, https://www.anhoch.com/products/notebook-msi-thin-15-gaming-i513420h16gb512gb-ssdrtx-4050-6gb156-fhd-144hzbacklit-kbwin11-7574
+107980, Notebook MSI Katana 15 HX i9-14900HX/32GB/1TB SSD/RTX 5070 8GB/15.6" QHD 165Hz, https://www.anhoch.com/products/notebook-msi-katana-15-hx-i914900hx32gb1tb-ssdrtx-5070-8gb156-qhd-165hz-7584
+29980, Notebook Dell 15 i7-1355U/16GB/512GB/15.6" FHD 120Hz/BacklitKB/FreeDOS, https://www.anhoch.com/products/outlet-notebook-dell-15-i71355u16gb512gb156-fhd-120hzbacklitkbfreedos-8611
+79980, Notebook Dell XPS 13 9315 i7-1250U/16GB/512GB/13.4" FHD AntiGlare 500nit/Iris Xe/3 Cell/W11, https://www.anhoch.com/products/notebook-dell-xps-13-9315-i71250u16gb512gb134-fhd-antiglare-500nitiris-xe3-cellw11-1110
+29980, Notebook Lenovo V15 Business G4 Ryzen 7 7730U/16GB/512GB/15.6" FHD IPS/RJ-45/Black, https://www.anhoch.com/products/notebook-lenovo-v15-business-g4-ryzen-7-7730u16gb512gb156-fhd-ipsrj45black-8371
+199980, Notebook MSI Vector 16 HX AI Ultra 9 275HX/64GB/1TB SSD/RTX 5080 16GB/16" QHD 240Hz/RGB Kb, https://www.anhoch.com/products/notebook-msi-vector-16-hx-ai-ultra-9-275hx64gb1tb-ssdrtx-5080-16gb16-qhd-240hzrgb-kb-7866
+70980, Notebook Lenovo ThinkPad E16 G3 Ultra 7 255H/16GB/1TB/16" WUXGA IPS/Backlit Kb, https://www.anhoch.com/products/notebook-lenovo-thinkpad-e16-g3-ultra-7-255h16gb1tb16-wuxga-ipsbacklit-kb-8382
+179980, Notebook Apple MacBook Pro M3 Max 14C CPU/36GB/1TB SSD/Apple 30C GPU/14.2" XDR 120Hz/Backlit Kb/Slv, https://www.anhoch.com/products/notebook-apple-macbook-pro-m3-max-14c-cpu36gb1tb-ssdapple-30c-gpu142-xdr-120hzbacklit-kbslv-1200
+94980, Notebook Apple MacBook Air M4 10C CPU/16GB/512GB SSD/Apple 10C GPU/15.3" LED IPS/Backlit Kb/Silver, https://www.anhoch.com/products/notebook-apple-macbook-air-m4-10c-cpu16gb512gb-ssdapple-10c-gpu153-led-ipsbacklit-kbsilver-7377
+71980, Notebook Lenovo IdeaPad 5 2in1 Ultra 7 255H/24GB/1TB/14" WUXGA OLED Touch/Pen 2/Win11, https://www.anhoch.com/products/notebook-lenovo-ideapad-5-2in1-ultra-7-255h24gb1tb14-wuxga-oled-touchpen-2win11-8413
+61980, Notebook Lenovo ThinkPad E16 G2 Ultra 5 125U/16GB/1TB/16" WUXGA IPS Touch/Backlit KB/FP/Win11Pro, https://www.anhoch.com/products/notebook-lenovo-thinkpad-e16-g2-ultra-5-125u16gb1tb16-wuxga-ips-touchbacklit-kbfpwin11pro-7657
+99980, Notebook Apple MacBook Pro M5 10C CPU/16GB/512GB SSD/Apple 10C GPU/14.2" XDR 120Hz/Backlit Kb/SLV, https://www.anhoch.com/products/notebook-apple-macbook-pro-m5-10c-cpu16gb512gb-ssdapple-10c-gpu142-xdr-120hzbacklit-kbslv-7934
+349980, Notebook MSI Titan 18 HX AI Ultra 9 285HX/96GB/4TB SSD/RTX 5090 24GB/18” UHD+ MiniLed 120Hz/Win11Pro, https://www.anhoch.com/products/notebook-msi-titan-18-hx-ai-ultra-9-285hx96gb4tb-ssdrtx-5090-24gb18-uhd-plus--miniled-120hzwin11pro-8201
+80980, Notebook Apple MacBook Air M4 10C CPU/16GB/512GB SSD/Apple 10C GPU/13.6" LED IPS/Backlit Kb/Sky Blue, https://www.anhoch.com/products/notebook-apple-macbook-air-m4-10c-cpu16gb512gb-ssdapple-10c-gpu136-led-ipsbacklit-kbsky-blue-6925
+85980, Notebook Gigabyte A18 Gaming Ryzen 7 260/16GB/1TB SSD/RTX 5070 8GB/18.0" WQXGA 165Hz IPS/DOS, https://www.anhoch.com/products/notebook-gigabyte-a18-gaming-ryzen-7-26016gb1tb-ssdrtx-5070-8gb180-wqxga-165hz-ipsdos-7978
+56980, Notebook Apple MacBook Air M4 10C CPU/16GB/256GB SSD/Apple 8C GPU/13.6" LED IPS/Backlit Kb/Sky Blue, https://www.anhoch.com/products/notebook-apple-macbook-air-m4-10c-cpu16gb256gb-ssdapple-8c-gpu136-led-ipsbacklit-kbsky-blue-6451
+56980, Notebook Apple MacBook Air M4 10C CPU/16GB/256GB SSD/Apple 8C GPU/13.6" LED IPS/Backlit Kb/Midnight, https://www.anhoch.com/products/notebook-apple-macbook-air-m4-10c-cpu16gb256gb-ssdapple-8c-gpu136-led-ipsbacklit-kbmidnight-6452
+59980, Notebook Lenovo ThinkPad E16 G3 Ultra 5 225U/16GB/512GB/16" WUXGA IPS/Backlit Kb, https://www.anhoch.com/products/notebook-lenovo-thinkpad-e16-g3-ultra-5-225u16gb512gb16-wuxga-ipsbacklit-kb-8511
+54980, Notebook Lenovo ThinkBook 14 G8 Ultra 7 255H/16GB/512GB/14" WUXGA IPS/Backlit Kb, https://www.anhoch.com/products/notebook-lenovo-thinkbook-14-g8-ultra-7-255h16gb512gb14-wuxga-ipsbacklit-kb-8512
+114980, Notebook Gigabyte A16 PRO Intel Core 7 240H/32GB/1TB SSD/RTX 5070Ti 12GB/16.0" WQXGA 165Hz IPS/DOS, https://www.anhoch.com/products/notebook-gigabyte-a16-pro-intel-core-7-240h32gb1tb-ssdrtx-5070ti-12gb160-wqxga-165hz-ipsdos-7750
+76980, Notebook Lenovo Yoga 7 2in1 Ryzen AI 7 370/32GB/1TB/14" WQXGA+ OLED 120Hz Touch/Pen/Backlit Kb/W11H, https://www.anhoch.com/products/notebook-lenovo-yoga-7-2in1-ryzen-ai-7-37032gb1tb14-wqxga-plus--oled-120hz-touchpenbacklit-kbw11h-8527
+19980, Notebook HP 250 G10 i3-1315U/8GB/512GB/15.6" FullHD IPS/USB-C/HDMI, https://www.anhoch.com/products/notebook-hp-250-g10-i31315u8gb512gb156-fullhd-ipsusbchdmi-8528
+74980, Notebook Gigabyte A18 Gaming Ryzen 7 260/16GB/1TB SSD/RTX 5060 8GB/18.0" WQXGA 165Hz IPS/DOS, https://www.anhoch.com/products/notebook-gigabyte-a18-gaming-ryzen-7-26016gb1tb-ssdrtx-5060-8gb180-wqxga-165hz-ipsdos-8284
+138980, Notebook Apple MacBook Pro M4 Pro 12C CPU/24GB/512GB SSD/Apple 16C GPU/14.2" XDR 120Hz/Backlit Kb/SL, https://www.anhoch.com/products/notebook-apple-macbook-pro-m4-pro-12c-cpu24gb512gb-ssdapple-16c-gpu142-xdr-120hzbacklit-kbsl-5725
+138980, Notebook Apple MacBook Pro M4 Pro 12C CPU/24GB/512GB SSD/Apple 16C GPU/14.2" XDR 120Hz/Backlit Kb/SB, https://www.anhoch.com/products/notebook-apple-macbook-pro-m4-pro-12c-cpu24gb512gb-ssdapple-16c-gpu142-xdr-120hzbacklit-kbsb-5726
+53980, Notebook Lenovo ThinkBook 16 G7 Core 7 240H/16GB/512GB/16" WUXGA Touch IPS/BcklitKb/Win11Pro, https://www.anhoch.com/products/notebook-lenovo-thinkbook-16-g7-core-7-240h16gb512gb16-wuxga-touch-ipsbcklitkbwin11pro-8305
+51980, Notebook HP EliteBook 1040 G11 Ultra 5 125H/16GB/512GB/14" WUXGA IPS/Win11P, https://www.anhoch.com/products/notebook-hp-elitebook-1040-g11-ultra-5-125h16gb512gb14-wuxga-ipswin11p-8066
+35980, Notebook HP Victus Gaming Ryzen5 7535HS/8GB/512GB SSD/RX 6550M 4GB/15.6" FHD IPS 144Hz/BacklitKb/W11, https://www.anhoch.com/products/notebook-hp-victus-gaming-ryzen5-7535hs8gb512gb-ssdrx-6550m-4gb156-fhd-ips-144hzbacklitkbw11-3684
+63480, Notebook Gigabyte A16 Gaming i7-13620H/16GB/1TB SSD/RTX 5060 8GB/16.0" FHD+ 165Hz IPS/Type-C/DOS, https://www.anhoch.com/products/notebook-gigabyte-a16-gaming-i713620h16gb1tb-ssdrtx-5060-8gb160-fhd-plus--165hz-ipstypecdos-7305
+63480, Notebook Gigabyte A16 Gaming Ryzen 7 260/16GB/1TB SSD/RTX 5060 8GB/16.0" FHD+ 165Hz IPS/Type-C/DOS, https://www.anhoch.com/products/notebook-gigabyte-a16-gaming-ryzen-7-26016gb1tb-ssdrtx-5060-8gb160-fhd-plus--165hz-ipstypecdos-7306
+39980, Notebook Apple MacBook Neo A18 Pro 6C CPU/8GB/256GB SSD/Apple 5C GPU/13" LED IPS/Silver, https://www.anhoch.com/products/notebook-apple-macbook-neo-a18-pro-6c-cpu8gb256gb-ssdapple-5c-gpu13-led-ipssilver-8843
+59980, Notebook Asus Zenbook Ryzen 7 8840HS/16GB/512GB/14" FHD OLED Touch/Backlit Kb/Win11/Black, https://www.anhoch.com/products/notebook-asus-zenbook-ryzen-7-8840hs16gb512gb14-fhd-oled-touchbacklit-kbwin11black-7820
+39980, Notebook Apple MacBook Neo A18 Pro 6C CPU/8GB/256GB SSD/Apple 5C GPU/13" LED IPS/Blush, https://www.anhoch.com/products/notebook-apple-macbook-neo-a18-pro-6c-cpu8gb256gb-ssdapple-5c-gpu13-led-ipsblush-8844
+39980, Notebook Apple MacBook Neo A18 Pro 6C CPU/8GB/256GB SSD/Apple 5C GPU/13" LED IPS/Citrus, https://www.anhoch.com/products/notebook-apple-macbook-neo-a18-pro-6c-cpu8gb256gb-ssdapple-5c-gpu13-led-ipscitrus-8845
+39980, Notebook Apple MacBook Neo A18 Pro 6C CPU/8GB/256GB SSD/Apple 5C GPU/13" LED IPS/Indigo, https://www.anhoch.com/products/notebook-apple-macbook-neo-a18-pro-6c-cpu8gb256gb-ssdapple-5c-gpu13-led-ipsindigo-8846
+71980, Notebook Apple MacBook Air M5 10C CPU/16GB/512GB SSD/Apple 8C GPU/13.6" LED IPS/Backlit Kb/Midnight, https://www.anhoch.com/products/notebook-apple-macbook-air-m5-10c-cpu16gb512gb-ssdapple-8c-gpu136-led-ipsbacklit-kbmidnight-8847
+56980, Notebook Apple MacBook Air M4 10C CPU/16GB/256GB SSD/Apple 8C GPU/13.6" LED IPS/Backlit Kb/Starlight, https://www.anhoch.com/products/notebook-apple-macbook-air-m4-10c-cpu16gb256gb-ssdapple-8c-gpu136-led-ipsbacklit-kbstarlight-6544
+71980, Notebook Apple MacBook Air M5 10C CPU/16GB/512GB SSD/Apple 8C GPU/13.6" LED IPS/Backlit Kb/Silver, https://www.anhoch.com/products/notebook-apple-macbook-air-m5-10c-cpu16gb512gb-ssdapple-8c-gpu136-led-ipsbacklit-kbsilver-8848
+71980, Notebook Apple MacBook Air M5 10C CPU/16GB/512GB SSD/Apple 8C GPU/13.6" LED IPS/Backlit Kb/Starlight, https://www.anhoch.com/products/notebook-apple-macbook-air-m5-10c-cpu16gb512gb-ssdapple-8c-gpu136-led-ipsbacklit-kbstarlight-8849
+71980, Notebook Apple MacBook Air M5 10C CPU/16GB/512GB SSD/Apple 8C GPU/13.6" LED IPS/Backlit Kb/Sky Blue, https://www.anhoch.com/products/notebook-apple-macbook-air-m5-10c-cpu16gb512gb-ssdapple-8c-gpu136-led-ipsbacklit-kbsky-blue-8850
+149980, Notebook Apple MacBook Pro M5 Pro 15C CPU/24GB/1TB SSD/Apple 16C GPU/14.2" XDR 120Hz/Backlit Kb/SLV, https://www.anhoch.com/products/notebook-apple-macbook-pro-m5-pro-15c-cpu24gb1tb-ssdapple-16c-gpu142-xdr-120hzbacklit-kbslv-8852
+80980, Notebook Apple MacBook Air M4 10C CPU/16GB/512GB SSD/Apple 10C GPU/13.6" LED IPS/Backlit Kb/Silver, https://www.anhoch.com/products/notebook-apple-macbook-air-m4-10c-cpu16gb512gb-ssdapple-10c-gpu136-led-ipsbacklit-kbsilver-7317
+179980, Notebook Apple MacBook Pro M5 Pro 18C CPU/24GB/1TB SSD/Apple 20C GPU/16.2" XDR 120Hz/Backlit Kb/SB, https://www.anhoch.com/products/notebook-apple-macbook-pro-m5-pro-18c-cpu24gb1tb-ssdapple-20c-gpu162-xdr-120hzbacklit-kbsb-8853
+179980, Notebook Apple MacBook Pro M5 Pro 18C CPU/24GB/1TB SSD/Apple 20C GPU/16.2" XDR 120Hz/Backlit Kb/SLV, https://www.anhoch.com/products/notebook-apple-macbook-pro-m5-pro-18c-cpu24gb1tb-ssdapple-20c-gpu162-xdr-120hzbacklit-kbslv-8854
+144980, Notebook MSI Vector 16 HX AI Ultra 9 275HX/32GB/1TB SSD/RTX 5070 Ti 12GB/16" QHD 240Hz/RGB KB, https://www.anhoch.com/products/notebook-msi-vector-16-hx-ai-ultra-9-275hx32gb1tb-ssdrtx-5070-ti-12gb16-qhd-240hzrgb-kb-7585
+56980, Notebook Dell Latitude 5550 Ultra 5 125U/16GB/512GB/15.6" FHD TOUCH/Backlit Kb, https://www.anhoch.com/products/notebook-dell-latitude-5550-ultra-5-125u16gb512gb156-fhd-touchbacklit-kb-7862
+119980, Notebook MSI Crosshair 16 HX AI Ultra 9 275HX/32GB/1TB/ RTX 5070 8GB/16" QHD+ IPS 240Hz/RGB Kb, https://www.anhoch.com/products/notebook-msi-crosshair-16-hx-ai-ultra-9-275hx32gb1tb-rtx-5070-8gb16-qhd-plus--ips-240hzrgb-kb-7865
+37980, Notebook Lenovo IdeaPad Slim 3 Intel Core 7 150U/16GB/512GB/15.6" FHD IPS 300nits/Arc.Grey, https://www.anhoch.com/products/notebook-lenovo-ideapad-slim-3-intel-core-7-150u16gb512gb156-fhd-ips-300nitsarcgrey-7370
+79980, Notebook HP OmniBook Ultra Flip 2in1 Ryzen AI 9 HX 375/32GB/2TB/14" 2K (2440x1400) IPS Touch/Win11, https://www.anhoch.com/products/notebook-hp-omnibook-ultra-flip-2in1-ryzen-ai-9-hx-37532gb2tb14-2k-2440x1400-ips-touchwin11-8142
+99980, Notebook Apple MacBook Pro M5 10C CPU/16GB/512GB SSD/Apple 10C GPU/14.2" XDR 120Hz/Backlit Kb/SB, https://www.anhoch.com/products/notebook-apple-macbook-pro-m5-10c-cpu16gb512gb-ssdapple-10c-gpu142-xdr-120hzbacklit-kbsb-7933
+56980, Notebook Apple MacBook Air M4 10C CPU/16GB/256GB SSD/Apple 8C GPU/13.6" LED IPS/Backlit Kb/Silver, https://www.anhoch.com/products/notebook-apple-macbook-air-m4-10c-cpu16gb256gb-ssdapple-8c-gpu136-led-ipsbacklit-kbsilver-6545
+149980, Notebook Apple MacBook Pro M5 Pro 15C CPU/24GB/1TB SSD/Apple 16C GPU/14.2" XDR 120Hz/Backlit Kb/SB, https://www.anhoch.com/products/notebook-apple-macbook-pro-m5-pro-15c-cpu24gb1tb-ssdapple-16c-gpu142-xdr-120hzbacklit-kbsb-8851
+No more pages to scrape.
+SCRAPE_DONE
+[2026-03-14 16:03:50] Running TheDDStoreScraper.py (attempt 1/1)
+[2026-03-14 16:03:59] ERROR: TheDDStoreScraper.py failed on attempt 1
+[2026-03-14 16:03:59] Error: Traceback (most recent call last):
+  File "C:\Users\prote\Downloads\dev\BitCeni\bitceni.scraper\Scrapers\TheDDStoreScraper.py", line 87, in <module>
+    run_scraper("ddstore.json", "https://ddstore.mk/computersandlaptops/notebooksandaccessories/notebooks.html", scrape)
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prote\Downloads\dev\BitCeni\bitceni.scraper\scraper_base.py", line 51, in run_scraper
+    driver.get(url)
+    ~~~~~~~~~~^^^^^
+  File "c:\Users\prote\Downloads\dev\BitCeni\bitceni.scraper\.venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 466, in get
+    self.execute(Command.GET, {"url": url})
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\prote\Downloads\dev\BitCeni\bitceni.scraper\.venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 446, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "c:\Users\prote\Downloads\dev\BitCeni\bitceni.scraper\.venv\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: Reached error page: about:neterror?e=redirectLoop&u=https%3A//ddstore.mk/computersandlaptops/notebooksandaccessories/notebooks.html&c=UTF-8&d=Firefox%20has%20detected%20that%20the%20server%20is%20redirecting%20the%20request%20for%20this%20address%20in%20a%20way%20that%20will%20never%20complete.&a=
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+UnknownError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:961:5
+checkReadyState@chrome://remote/content/marionette/navigate.sys.mjs:59:24
+onNavigation@chrome://remote/content/marionette/navigate.sys.mjs:351:39
+emit@resource://gre/modules/EventEmitter.sys.mjs:156:19
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteEventsParent.sys.mjs:33:25
+[2026-03-14 16:03:59] FAILED: TheDDStoreScraper.py failed after 1 attempts
+[2026-03-14 16:03:59] Running TheGjirafaBScraper.py (attempt 1/1)
+[2026-03-14 16:04:59] TIMEOUT: TheGjirafaBScraper.py exceeded 1 minutes. Killing process...
+[2026-03-14 16:05:04] FAILED: TheGjirafaBScraper.py failed after 1 attempts
+[2026-03-14 16:05:04] Running TheGjirafaGScraper.py (attempt 1/1)
+[2026-03-14 16:05:50] SUCCESS: TheGjirafaGScraper.py
+[2026-03-14 16:05:50] Output: 42390, Laptop Lenovo LOQ 15ARP9, 15.6", AMD Ryzen 5 7235HS, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050, https://gjirafa50.mk/laptop-lenovo-loq-15arp9-156-amd-ryzen-5-7235hs-16gb-ram-512gb-ssd-nvidia-geforce-rtx-3050
+51890, Монитор MSI MPG 491CQP, QD-OLED, 49", 5120x1440, DQHD, 144Hz, HDR True Black 400, https://gjirafa50.mk/monitor-msi-mpg-491cqp-qd-oled-49-5120x1440-dqhd-144hz-hdr-true-black-400
+60990, Лаптоп Lenovo LOQ 17IRX10, 17.3", Intel Core i5-13450HX, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 5050 8GB GDDR7, сив, https://gjirafa50.mk/laptop-lenovo-loq-17irx10-173-intel-core-i5-13450hx-16gb-512gb-ssd-nvidia-geforce-rtx-5050-8gb-gddr7-i-hirte
+144590, Лаптоп ASUS ROG Zephyrus G16 GU605CP, 16", Intel Core Ultra 9, 32GB RAM, 1TB SSD, NVIDIA GeForce RTX 5070, сив, https://gjirafa50.mk/laptop-asus-rog-zephyrus-g16-gu605cp-16-intel-core-ultra-9-32gb-ram-1tb-ssd-nvidia-geforce-rtx-5070-i-hirte
+61690, Лаптоп GIGABYTE Gaming A16, 16", AMD Ryzen 7 260, 16GB DDR5, 512GB SSD, NVIDIA GeForce RTX 5050 8GB GDDR7, црн, https://gjirafa50.mk/laptop-gigabyte-gaming-a16-16-amd-ryzen-7-260-16gb-ddr5-512gb-ssd-nvidia-geforce-rtx-5050-8gb-gddr7-crn
+49290, Laptop MSI Cyborg 15 A13VE-1613XPL, 15.6", Intel Core i5-13420H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 4050, i zi, https://gjirafa50.mk/laptop-msi-cyborg-15-a13ve-1613xpl-156-intel-core-i5-13420h-16gb-ram-512gb-ssd-nvidia-geforce-rtx-4050-i-zi
+50890, Лаптоп MSI Thin 15 B13VE-3091XPL, 15.6", Intel Core i5-13420H, 16GB DDR4-3200, 512GB SSD, NVIDIA GeForce RTX 4050 6GB GDDR6, темно сива, https://gjirafa50.mk/laptop-msi-thin-15-b13ve-3091xpl-156-intel-core-i5-13420h-16gb-ddr4-3200-512gb-ssd-nvidia-geforce-rtx-4050-6gb-gddr6-temno-siva
+60990, Лаптоп Lenovo LOQ 15IRX10, 15.6", Intel Core i5-13450HX, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 5050 8GB GDDR7, сив, https://gjirafa50.mk/laptop-lenovo-loq-15irx10-156-intel-core-i5-13450hx-16gb-ram-512gb-ssd-nvidia-geforce-rtx-5050-8gb-gddr7-siv
+74490, Лаптоп ASUS TUF Gaming FA808UH-S8021, 18", AMD Ryzen 7 260, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 5050 8GB GDDR7, темно сив, https://gjirafa50.mk/laptop-asus-tuf-gaming-fa808uh-s8021-18-amd-ryzen-7-260-16gb-ram-512gb-ssd-nvidia-geforce-rtx-5050-8gb-gddr7-i-hirte-erret
+339290, Лаптоп ASUS ROG Strix SCAR 18 (G835LX), 18", Intel Core Ultra 9 275HX, 64 GB RAM, 4 TB SSD, NVIDIA RTX 5090, Windows 11 Pro, црн, https://gjirafa50.mk/laptop-asus-rog-strix-scar-18-g835lx-18-intel-core-ultra-9275hx-64gb-ram-4tb-ssd-nvidia-rtx5090-windows11-pro-i-zi
+45690, Laptop Lenovo LOQ 15ARP9, 15.6", Ryzen 5 7235HS, 16GB RAM, 512GB SSD, GeForce RTX 3050, бел, https://gjirafa50.mk/laptop-lenovo-loq-15arp9-156-ryzen-5-7235hs-16gb-ram-512gb-ssd-geforce-rtx-3050-i-hirte
+139990, Laptop ASUS ROG Strix G18 (G814PM‑ES96), 18\", Intel Core 9 275HX, 32 GB DDR5, 1 TB SSD, NVIDIA RTX 5060, Windows 11 Home, сив, https://gjirafa50.mk/laptop-asus-rog-strix-g18-g814pmes96-18-intel-core-9275hx-32gb-ddr5-1tb-ssd-nvidia-rtx5060-windows11homei-hirte
+70690, Лаптоп ASUS TUF Gaming F16 FA608UH-R7165W, 16" FHD+, AMD Ryzen 7 260, 16GB DDR5, 512GB SSD, NVIDIA GeForce RTX 5050, сив, https://gjirafa50.mk/laptop-asus-tuf-gaming-f16-fa608uh-r7165w-16-amd-ryzen-7-260-16gb-ddr5-512gb-ssd-nvidia-geforce-rtx-5050-i-hirte
+74890, Лаптоп ASUS TUF Gaming A16 (FA608UM-RV015), 16", AMD Ryzen 7, 16GB RAM, 1TB SSD, NVIDIA GeForce RTX 5060, темно сив, https://gjirafa50.mk/laptop-asus-tuf-gaming-a16-fa608um-rv015-16-amd-ryzen-716gb-ram-1tb-ssd-nvidia-geforce-rtx-5060-i-hirte-erret
+48890, Лаптоп ASUS TUF Gaming A15, 15.6", AMD Ryzen 7 7445HS, 16GB RAM, 1TB SSD, NVIDIA GeForce RTX 3050 4GB, црн, https://gjirafa50.mk/laptop-asus-tuf-gaming-a15-156-amd-ryzen-7-7445hs-16gb-ram-1tb-ssd-nvidia-geforce-rtx-3050-4gb-i-zi
+60590, Лаптоп MSI Cyborg 15 B2RW, 15.6″, Intel Core 5 210H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 5050 8GB, црн, https://gjirafa50.mk/laptop-msi-cyborg-15-b2rw-156-intel-core-5-210h-16gb-ram-512gb-ssd-nvidia-geforce-rtx-5050-8gb-i-zi
+122790, Laptop Lenovo Legion 7 16IAX10, 16\", Intel Core Ultra 7 255HX, 32GB RAM, 1TB SSD, NVIDIA GeForce RTX 5060, бел, https://gjirafa50.mk/laptop-lenovo-legion-7-16iax10-16-intel-core-ultra-7-255hx-32gb-ram-1tb-ssd-nvidia-geforce-rtx-5060-i-bardhe
+55190, Лаптоп MSI Katana A15 AI B8V, 15", AMD Ryzen 9 8945HS, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 4050, црн, https://gjirafa50.mk/laptop-msi-katana-a15-ai-b8v-15-amd-ryzen-9-8945hs-16gb-ram-512gb-ssd-nvidia-geforce-rtx-4050-i-zi
+60390, Лаптоп Lenovo LOQ 15ARP9, 15.6", AMD Ryzen 5 7235HS, 16GB RAM, 1TB SSD, NVIDIA GeForce RTX 3050, Windows 11 Home, https://gjirafa50.mk/laptop-lenovo-loq-15arp9-156-amd-ryzen-5-7235hs-16gb-ram-1tb-ssd-nvidia-geforce-rtx-3050-windows-11-home
+45590, Лаптоп MSI Thin 15 B13UC-3423XPL, 15.6", Intel Core i5-13420H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050, сив, https://gjirafa50.mk/laptop-msi-thin-15-b13uc-3423xpl-156-intel-core-i5-13420h-16gb-ram-512gb-ssd-nvidia-geforce-rtx-3050-i-hirte
+83390, Лаптоп MSI Katana 17 B13VEK-1261XPL, 17", Intel Core i7-13620H, 16GB RAM, 1TB SSD, GeForce Nvidia RTX 4050,црна боја, https://gjirafa50.mk/laptop-msi-katana-17-b13vek-1261xpl-17-intel-core-i7-13620h-16gb-ram-1tb-ssd-geforce-nvidia-rtx-4050
+120490, Лаптоп Asus ROG Strix G16, 16", AMD Ryzen 9 9955HX, 32GB RAM, 1TB SSD, NVIDIA GeForce RTX 5070, сив, https://gjirafa50.mk/laptop-asus-rog-strix-g16-16-amd-ryzen-9-9955hx-32gb-ram-1tb-ssd-nvidia-geforce-rtx-5070-i-hirte
+54790, Лаптоп Lenovo LOQ 15ARP9, 15.6", Ryzen 5 7235HS, https://gjirafa50.mk/laptop-lenovo-loq-15arp9-156-amd-ryzen-5-7235hs-16gb-ram-512gb-ssd-rtx-3050-144hz-i-hirte
+40290, Laptop Lenovo V15 G4 IRU, Intel Core i5 13420H, 15.6\" FHD, RAM 8GB, SSD 512GB, сива боја, https://gjirafa50.mk/laptop-lenovo-v15-g4-iru-156-intel-core-i5-13420h-156-fhd-ram-8gb-ssd-512gb-i-hirte
+127790, Лаптоп ASUS ROG Strix G16 G615LM, 16", Intel Core Ultra 9 275HX, 32GB RAM, 1TB SSD, NVIDIA GeForce RTX 5060, сив, https://gjirafa50.mk/laptop-asus-rog-strix-g16-g615lm-16-intel-core-ultra-9-275hx-32gb-ram-1tb-ssd-nvidia-geforce-rtx-5060-i-hirte
+155990, Гејмерски лаптоп HP OMEN MAX 16-ak0002nc, 16", AMD Ryzen AI 9 HX 375, 32GB RAM, 1TB SSD, NVIDIA GeForce RTX 5070 Ti, црн, https://gjirafa50.mk/laptop-gaming-hp-omen-max-16-ak0002nc-16-amd-ryzen-ai-9-hx-375-32gb-ram-1tb-ssd-nvidia-geforce-rtx-5070-ti-i-zi
+140990, Лаптоп Acer Predator Helios Neo 16S AI (PHN16S-71), 16", Intel Core Ultra 9 275HX, 32GB RAM, 1TB SSD, NVIDIA RTX 5070, црн, https://gjirafa50.mk/laptop-acer-predator-helios-neo-16s-ai-phn16s-71-16-intel-core-ultra-9-275hx-32gb-ram-1tb-ssd-nvidia-rtx-5070-i-zi
+118790, Laptop Lenovo Legion Pro 5 16IAX10, 16\", Intel Core Ultra 9 275HX, 32GB RAM, 1TB SSD, NVIDIA GeForce RTX 5060, црна, https://gjirafa50.mk/laptop-lenovo-legion-pro-5-16iax10-16-intel-core-ultra-9-275hx-32gb-ram-1tb-ssd-nvidia-geforce-rtx-5060-i-zi
+78690, Лаптоп HP Victus 15-fa2003nc, 15.6", Intel Core 5 210H процесор, 24GB RAM, 1TB SSD, NVIDIA GeForce RTX 5060, сина, https://gjirafa50.mk/laptophp-victus-15-fa2003nc156-intel-core-5-210h-24gb-ram-1tb-ssd-nvidia-geforce-rtx-5060-i-kalter
+211290, Лаптоп Lenovo Legion Pro 7 16IAX10H, 16", Intel Core Ultra 9-275HX, 32GB RAM, 1TB SSD, NVIDIA GeForce RTX 5080, црн, https://gjirafa50.mk/laptop-lenovo-legion-pro-7-16iax10h-16-intel-core-ultra-9-275hx-32gb-ram-1tb-ssd-nvidia-geforce-rtx-5080-i-zi
+122790, Лаптоп Lenovo Legion Pro 5 16IAX10, 16\", Intel Core Ultra 7 255HX, 32GB RAM, 1TB SSD, NVIDIA GeForce RTX 5070, црн, https://gjirafa50.mk/lapotp-lenovo-legion-pro-5-16iax10-16-intel-core-ultra-7-255hx-32gb-ram-1tb-ssd-nvidia-geforce-rtx-5070-i-zi
+159990, Laptop ASUS ROG Strix G16 G615LR-NEBULA006W, 16\", Intel Core Ultra 9 275HX, 32GB RAM, 1TB SSD, црн, https://gjirafa50.mk/laptop-asus-rog-strix-g16-g615lr-nebula006w-16-intel-core-ultra-9-275hx-32gb-ram-1tb-ssd-nvidia-geforce-rtx-5070-ti-i-zi
+180890, Лаптоп Asus ROG Zephyrus G14 GA403, 14", AMD Ryzen 9 270, 32GB RAM, 1TB SSD, NVIDIA GeForce RTX 5060, сив, https://gjirafa50.mk/laptop-asus-rog-zephyrus-g14-ga403-14-amd-ryzen-9-270-32gb-ram-1tb-ssd-nvidia-geforce-rtx-5060-e-hirte
+281890, Лаптоп Acer Predator Helios 16 PH16-73-919G, 16", Intel Core U9-275HX, 64GB RAM, 1TB SSD, NVIDIA GeForce RTX 5090, црн, https://gjirafa50.mk/laptop-acer-predator-helios-16-ph16-73-919g-16-intel-core-u9-275hx-64gb-ram-1tb-ssd-nvidia-geforce-rtx-5090-i-zi
+55190, Лаптоп Lenovo LOQ 15ARP9, 15", AMD Ryzen 5 7235HS, 32GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050, https://gjirafa50.mk/laptop-lenovo-loq-15arp9-156-amd-ryzen-5-7235hs-32gb-ram-512gb-ssd-rtx-3050-i-hirte
+64190, Лаптоп ASUS TUF A16 FA607NUG-RL116W, 16", AMD Ryzen 7-7445HS, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 4050, https://gjirafa50.mk/laptop-asus-tuf-a16-fa607nug-rl116w-16-amd-ryzen-7-7445hs-16gb-ram-512gb-ssd-nvidia-geforce-rtx-4050-i-hirte
+54390, Лаптоп Acer Nitro V 16 ANV16-42-R5L5, 16", AMD Ryzen 5-240, 16GB RAM, 1TB SSD, NVIDIA GeForce RTX 4050 црна, https://gjirafa50.mk/laptop-acer-nitro-v-16-anv16-42-r5l5-16-amd-ryzen-5-24016gb-ram-1tb-ssd-nvidia-geforce-rtx-4050-i-zi
+72790, Лаптоп MSI Cyborg 15 B13W, 15.6", Intel Core i7-13620H, 16GB DDR5, 512GB SSD, NVIDIA GeForce RTX 5050 8GB GDDR7, црн, https://gjirafa50.mk/laptop-msi-cyborg-15-b13w-156-intel-core-i7-13620h-16gb-ddr5-512gb-ssd-nvidia-geforce-rtx-5050-8gb-gddr7-i-zi-2
+128690, Лаптоп Acer Predator Helios Neo 18 AI (PHN18-72), 18", Intel Core Ultra 9 275HX, 32GB RAM, 1TB SSD, NVIDIA RTX 5060, црн, https://gjirafa50.mk/laptop-acer-predator-helios-neo-18-ai-phn18-72-18-intel-core-ultra-9-275hx-32gb-ram-1tb-ssd-nvidia-rtx-5060-i-zi-2
+174790, Лаптоп HP OMEN Max 16-ah0002nc, 16", Intel Core Ultra U9-275HX, 32GB RAM, 1TB SSD, NVIDIA GeForce RTX 5070 Ti, бел, https://gjirafa50.mk/laptop-hp-omen-max-16-ah0002nc-16-intel-core-ultra-u9-275hx-32gb-ram-1tb-ssd-nvidia-geforce-rtx-5070-ti-i-bardhe
+120790, Лаптоп за гејминг MSI Vector 16 HX AI A2XWHG, Core Ultra 7 255HX, 16GB RAM, 1TB SSD, RTX 5070 Ti 12GB, 16" FHD+ 144Hz, црн, https://gjirafa50.mk/laptop-msi-vector-16-hx-ai-a2xwhg-16-intel-core-ultra-7-255hx-16gb-ram-1tb-ssd-nvidia-geforce-rtx-5070-ti-i-zi
+341290, Лаптоп MSI Titan 18 HX AI A2XWJG-224CZ, 18", Intel Core Ultra 9 285HX, 96GB RAM, 4TB SSD, Nvidia GeForce RTX 5090, црн, https://gjirafa50.mk/laptop-msi-titan-18-hx-ai-a2xwjg-224cz-18-intel-core-ultra-9-285hx-96gb-ram-4tb-ssd-nvidia-geforce-rtx-5090-i-zi
+134390, Лаптоп Asus ROG Strix G16 G614, 16", AMD Ryzen 9 8940HX, 16GB RAM, 1TB SSD, NVIDIA RTX 5070, црн, https://gjirafa50.mk/laptop-asus-rog-strix-g16-g614-16-amd-ryzen-9-8940hx-16gb-ram-1tb-ssd-nvidia-rtx-5070-i-zi
+405190, Лаптоп HP ZBook Fury 16 G1i, 16", Intel Core Ultra U9-285HX, 128GB RAM, 3TB SSD, NVIDA RTX PRO 5000, сребрен, https://gjirafa50.mk/laptop-hp-zbook-fury-16-g1i-16-intel-core-ultra-u9-285hx-128gb-ram-3tb-ssd-nvida-rtx-pro-5000-i-argjendte
+136790, Laptop MSI Vector 16 HX AI A2XWHG-446XCZ 16", Core Ultra 9 275HX, RTX 5070 Ti 12 GB, 32 GB RAM, 1 TB SSD, сив, https://gjirafa50.mk/laptop-msi-vector-16-hx-ai-a2xwhg-446xcz-16-core-ultra-9-275hx-rtx-5070-ti-12-gb-32-gb-ram-1-tb-ssd-i-hirte
+131990, Лаптоп HP OMEN Transcend 14-fb1072nc, 14", Intel Core Ultra 7 255H, 32GB RAM, 1TB SSD, NVIDIA GeForce RTX 5060, бел, https://gjirafa50.mk/laptop-hp-omen-transcend-14-fb1072nc-14-intel-core-ultra-7-255h-32gb-ram-1tb-ssd-nvidia-geforce-rtx-5060-i-bardhe
+274090, Лаптоп ASUS ROG Strix SCAR 18, 18" U9-275HX, 64GB RAM, 1TB SSD, RTX 5090, црн, https://gjirafa50.mk/laptop-asus-rog-strix-scar-18-18-u9-275hx-64gb-ram-1tb-ssd-rtx-5090-i-zi
+125790, Гејмерски лаптоп HP OMEN MAX 16, 16", AMD Ryzen AI9-HX375, 32GB RAM, 1TB RAM, NVIDIA GeForce RTX 5070, црн, https://gjirafa50.mk/laptop-hp-omen-max-16-16-amd-ryzen-ai9-hx375-32gb-ram-1tb-ram-nvidia-geforce-rtx-5070-i-zi
+63990, Лаптоп MSI Cyborg A17 AI B2HWEKG-011XPL, 17.3", AMD Ryzen 7 260, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 5050 8GB GDDR7, црн, https://gjirafa50.mk/laptop-msi-cyborg-a17-ai-b2hwekg-011xpl-173-amd-ryzen-7-260-16gb-512gb-ssd-nvidia-geforce-rtx-5050-8gb-gddr7-i-zi
+49490, Лаптоп Acer Nitro V 16 ANV16-42-R70Q, 16", AMD Ryzen 5, 16GB RAM, 1TB SSD, NVIDIA GeForce RTX 3050, црн, https://gjirafa50.mk/laptop-acer-nitro-v-16-anv16-42-r70q-16-amd-ryzen-5-16gb-ram-1tb-ssd-nvidia-geforce-rtx-3050-i-zi
+65190, Лаптоп Acer Aspire 16 (A16-71GM-76JL), 16", Intel Core Ultra 5 125H, 16GB RAM, 1TB SSD, NVIDIA RTX 3050, сив, https://gjirafa50.mk/laptop-acer-aspire-16-a16-71gm-76jl-16-intel-core-ultra-5-125h-16gb-ram-1tb-ssd-nvidia-rtx-3050-i-hirte
+201290, Laptop Lenovo Legion Pro 7 16IAX10H, 16\", Intel Core Ultra 9 275HX, 32GB RAM, 2TB SSD, NVIDIA GeForce RTX 5070 Ti 12GB, црн, https://gjirafa50.mk/laptop-lenovo-legion-pro-7-16iax10h-16-intel-core-ultra-9-275hx-32gb-ram-2tb-ssd-nvidia-geforce-rtx-5070-ti-12gb-i-zi
+93390, Лаптоп MSI Katana 17 HX B14WGK, 17.3", Intel Core i7 14650HX, 16GB RAM, 1TB SSD, NVIDIA GeForce RTX 5070 8GB, црн, https://gjirafa50.mk/laptop-msi-katana-17-hx-b14wgk-173-intel-core-i7-14650hx-16gb-ram-1tb-ssd-nvidia-geforce-rtx-50708gb-i-zi
+107990, Лаптоп HP OMEN 16-am0071nc, 16", Intel Core 7 250H, 32GB RAM, 1TB SSD, NVIDIA RTX 5060, бел, https://gjirafa50.mk/laptop-hp-omen-16-am0071nc-16-intel-core-7-250h-32gb-ram-1tb-ssd-nvidia-rtx-5060-i-bardhe
+49490, Лаптоп Acer Nitro V 15 (ANV15-42-R7K7), 15.6", AMD Ryzen 7 7445HS, 16GB RAM, 1TB SSD, NVIDIA RTX 3050, црн, https://gjirafa50.mk/laptop-acer-nitro-v-15-anv15-42-r7k7-156-amd-ryzen-7-7445hs-16gb-ram-1tb-ssd-nvidia-rtx-3050-i-zi
+79990, Лаптоп Acer Nitro V 16 ANV16-72-76MC, 16", Intel Core 7 240H, 32GB RAM, 1TB SSD, NVIDIA GeForce RTX 5060, црн, https://gjirafa50.mk/laptop-acer-nitro-v-16-anv16-72-76mc-16-intel-core-7-240h-32gb-ram-1tb-ssd-nvidia-geforce-rtx-5060-i-zi
+121890, Лаптоп Acer Nitro 16S AI (AN16S-61-R3HE), 16", AMD Ryzen AI 9 365, 32GB RAM, 1TB SSD, NVIDIA RTX 5070, црн, https://gjirafa50.mk/laptop-acer-nitro-16s-ai-an16s-61-r3he-16-amd-ryzen-ai-9-365-32gb-ram-1tb-ssd-nvidia-rtx-5070-i-zi
+115690, Лаптоп HP OMEN 16-am0001nc, 16", Intel Core Ultra U7-255H, 32GB RAM, 1TB SSD, AMD RTX 5070, бел, https://gjirafa50.mk/laptop-hp-omen-16-am0001nc-16-intel-core-ultra-u7-255h-32gb-ram-1tb-ssd-amd-rtx-5070-i-bardhe
+52590, Лаптоп MSI Thin 15 B13VE-3091XPL, 15.6", Intel Core i5-13420H, 16GB DDR4-3200, 512GB SSD, NVIDIA GeForce RTX 4050 6GB GDDR6, темно сива, https://gjirafa50.mk/laptop-msi-thin-15-b13ve-3091xpl-156-intel-core-i5-13420h-16gb-ddr4-3200-512gb-ssd-nvidia-geforce-rtx-4050-6gb-gddr6-i-hirte-i-erret
+54390, Лаптоп Acer Nitro V 15 ANV15-52-53V3, 15.6", Intel Core i5 210H, 16GB RAM, 512GB SSD, NVIDIA RTX 4050, црн, https://gjirafa50.mk/laptop-acer-nitro-v-15-anv15-52-53v3-156-intel-core-i5-210h-16gb-ram-512gb-ssd-nvidia-rtx-4050-i-zi
+100990, Лаптоп HP OMEN Slim16-an0001nc, 16", Intel Core Ultra U7-255H, 24GB RAM, 1TB SSD, NVIDIA GeForceRTX 5060, црн, https://gjirafa50.mk/laptop-hp-omen-slim16-an0001nc16-intel-core-ultra-u7-255h-24gb-ram-1tb-ssd-nvidia-geforcertx-5060-i-zi
+95990, Лаптоп HP OMEN 17-db1001nc, 17.3", AMD Ryzen AI 7 350 процесор, 24GB RAM, 1TB SSD, NVIDIA GeForce RTX 5050/8GB, црн, https://gjirafa50.mk/laptop-hp-omen-17-db1001nc-173-amd-ryzen-ai-7-350-24gb-ram-1tb-ssd-nvidia-geforce-rtx-50508gb-i-zi
+93490, Лаптоп Gigabyte Gaming A18 3VH, 18", AMD Rzyen 7 260, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 5060, црн, https://gjirafa50.mk/laptop-gigabyte-gaming-a18-3vh-18amd-rzyen-7-260-16gb-ram-512gb-ssd-nvidia-geforce-rtx-5060-i-zi
+191890, Лаптоп ASUS ROG Strix G16 G614, 16", AMD Ryzen 9 9955HX3D, 16GB RAM, 1TB SSD, NVIDIA GeForce RTX 5070 Ti, црн, https://gjirafa50.mk/laptop-asus-rog-strix-g16-g614-16-amd-ryzen-9-9955hx3d-16gb-ram-1tb-ssd-nvidia-geforce-rtx-5070-ti-i-zi
+119990, Лаптоп HP OMEN 17-db1003nc, 17.3", AMD Ryzen AI 9, 32GB RAM, 1TB SSD, NVIDIA GeForce, црн, https://gjirafa50.mk/laptop-hp-omen-17-db1003nc-173-amd-ryzen-ai-9-32gb-ram-1tb-ssd-nvidia-geforce-i-zi
+59990, Лаптоп HP Victus 15-fa2751nc, i5, 15.6", NVIDIA GeForce RTX 4050, 16GB RAM, 512GB SSD, црн, https://gjirafa50.mk/laptop-hp-victus-15-fa2751nc-i5-156-nvidia-geforce-rtx-4050-16gb-ram-512gb-ssd-i-zi
+67390, Лаптоп MSI Cyborg 15 B13W, 15.6", Intel Core i5-13420H, 16GB DDR5, 512GB SSD, NVIDIA GeForce RTX 5060 8GB GDDR7, црн, https://gjirafa50.mk/laptop-msi-cyborg-15-b13w-156-intel-core-i5-13420h-16gb-ddr5-512gb-ssd-nvidia-geforce-rtx-5060-8gb-gddr7-i-zi-2
+72490, Лаптоп HP Victus 15-fb3000nc, 15.6", AMD Ryzen 5 процесор, 16GB RAM, 1TB SSD, NVIDIA GeForce RTX 5050, сина, https://gjirafa50.mk/laptop-hp-victus-15-fb3000nc-156-amd-ryzen-5-16gb-ram-1tb-ssd-nvidia-geforce-rtx-5050-i-kalter
+144490, Лаптоп HP OMEN Transcend 14-fb1073nc, 14", Intel Core Ultra U7-255H, 32GB RAM, 2TB SSD, NVIDIA GeForce RTX 5060, црн, https://gjirafa50.mk/laptop-hp-omen-transcend-14-fb1073nc-14-intel-core-ultra-u7-255h-32gb-ram-2tb-ssd-nvidia-geforce-rtx-5060-i-zi
+53790, Лаптоп Acer Nitro V 15 ANV15-52, 15.6", Intel Core i5-13420H, 16GB RAM, 1TB SSD, NVIDIA GeForce RTX 4050, црн, https://gjirafa50.mk/laptop-acer-nitro-v-15-anv15-52-156-intel-core-i5-13420h-16gb-ram-1tb-ssd-nvidia-geforce-rtx-4050-i-zi
+156590, Лаптоп HP OMEN Transcend 14-fb1004nc, 14", Intel Core Ultra 9-285H9, 32GB RAM, 1TB SSD, NVIDIA GeForceRTX 5070, црн, https://gjirafa50.mk/laptop-hp-omen-transcend-14-fb1004nc-14-intel-core-ultra-9-285h9-32gb-ram-1tb-ssd-nvidia-geforcertx-5070-i-zi
+119990, Лаптоп HP OMEN Slim 16-an0074nc, 16", Intel Core U7-255H, 32GB RAM, 2TB SSD, NVIDIA GeForce RTX 5070W, црн, https://gjirafa50.mk/laptop-hp-omen-slim-16-an0074nc-16-intel-coreu7-255h-32gb-ram-2tb-ssd-nvidia-geforce-rtx-5070w-i-zi
+242990, Лаптоп Acer Predator Helios 18 AI (PH18-73-953K), 18", Intel Core Ultra 9 275HX, 64GB RAM, 2TB SSD, NVIDIA RTX 5080, црн, https://gjirafa50.mk/laptop-acer-predator-helios-18-ai-ph18-73-953k18-intel-core-ultra-9-275hx-64gb-ram-2tb-ssd-nvidia-rtx-5080-i-zi
+141990, Лаптоп Acer Nitro 18 AN18-61-R3GE, 18", AMD Ryzen AI 9 365, 32GB RAM, 1TB SSD, NVIDIA GeForce RTX 5070 Ti, црн, https://gjirafa50.mk/laptop-acer-nitro-18-an18-61-r3ge-18-amd-ryzen-ai-9-365-32gb-ram-1tb-ssd-nvidia-geforce-rtx-5070-ti-i-zi
+123590, Лаптоп Acer Predator Helios Neo 18 AI (PHN18-72), 18", Intel Core Ultra 9 275HX, 32GB RAM, 1TB SSD, NVIDIA RTX 5060, црн, https://gjirafa50.mk/laptop-acer-predator-helios-neo-18-ai-phn18-72-18-intel-core-ultra-9-275hx-32gb-ram-1tb-ssd-nvidia-rtx-5060-i-zi
+59990, Лаптоп Acer Nitro V 17/ANV17-41-R4CC, 17.3", AMD Ryzen R5-240, 16GB RAM, 1TB SSD, NVIDIA GeForce RTX 4050, црн, https://gjirafa50.mk/laptop-acer-nitro-v-17anv17-41-r4cc173-amd-ryzen-r5-240-16gb-ram-1tb-ssd-nvidia-geforce-rtx-4050-i-zi
+116790, Лаптоп HP OMEN Slim 16-an0073nc, 16", Intel Core Ultra 7-255H, 16", AMD RTX 5060, 32GB RAM, 1TB SSD, црн, https://gjirafa50.mk/laptop-hp-omen-slim-16-an0073nc16-intel-core-ultra-7-255h-16-amd-rtx-5060-32gb-ram-1tb-ssd-i-zi
+252590, Лаптоп HP ZBook Fury 18 G1i, 18", Intel Core U7-265HX, 64GB RAM, 5TB SSD, NVIDIA GeForce RTX 3000, сребрен, https://gjirafa50.mk/laptop-hp-zbook-fury-18-g1i-18-intel-core-u7-265hx-64gb-ram-5tb-ssd-nvidia-geforce-rtx-3000-i-argjendte
+103590, Лаптоп HP OMEN 16 ap0001nc, 16", AMD Ryzen 9-8940HX, 32GB RAM, 1TB SSD, NVIDIA GeForce RTX 5060, црн, https://gjirafa50.mk/laptop-hp-omen-16-ap0001nc-16-amd-ryzen-9-8940hx-32gb-ram-1tb-ssd-nvidia-geforce-rtx-5060-i-zi
+165990, Лаптоп MSI Vector A16 HX A8WHG-049XCZ, 16", AMD Ryzen 9 8940HX, 64GB RAM, 2TB SSD, NVIDIA GeForce RTX 5070 Ti, 12GB GDDR7, сив, https://gjirafa50.mk/laptop-msi-vector-a16-hx-a8whg-049xcz-16-amd-ryzen-9-8940hx-64gb-ram-2tb-ssd-nvidia-geforce-rtx-5070-ti-12gb-gddr7-i-hirte
+204890, Лаптоп ASUS ROG Strix G16 2025, 16", Intel Core Ultra 9 275HX, 32GB RAM, 1TB SSD, црн, https://gjirafa50.mk/laptop-asus-rog-strix-g16-2025-16-intel-core-ultra-9-275hx-32gb-ram-1tb-ssd-i-zi
+120490, Лаптоп HP Omen 16-am0072nc, 16", Intel Core Ultra 7, 32GB RAM, 2TB SSD, NVIDIA GeForce RTX 5070, црн, https://gjirafa50.mk/laptop-hp-omen-16-am0072nc-16-intel-core-ultra-7-32gb-ram-2tb-ssd-nvidia-geforce-rtx-5070-i-zi
+83090, Лаптоп MSI Katana 15 HX B14WFK-605XPL, 15.6", 16GB DDR5, 512GB SSD, NVIDIA GeForce RTX 5060, црн, https://gjirafa50.mk/laptop-msi-katana-15-hx-b14wfk-605xpl-156-16gb-ddr5-512gb-ssd-nvidia-geforce-rtx-5060-i-zi
+77990, Лаптоп Acer Nitro V 16 AI (ANV16-42), 16", AMD Ryzen 7 260, 16GB RAM, 1TB SSD, NVIDIA RTX 5060, црн, https://gjirafa50.mk/laptop-acer-nitro-v-16-ai-anv16-42-16-amd-ryzen-7-260-16gb-ram-1tb-ssd-nvidia-rtx-5060-i-zi
+135890, Лаптоп Acer Nitro 16S AI (AN16S-61-R6XA), 16", AMD Ryzen AI 9 365, 32GB RAM, 1TB SSD, NVIDIA RTX 5070 Ti, црн, https://gjirafa50.mk/laptop-acer-nitro-16s-ai-an16s-61-r6xa-16-amd-ryzen-ai-9-365-32gb-ram-1tb-ssd-nvidia-rtx-5070-ti-i-zi
+301890, Лаптоп MSI Raider 18 HX AI A2XWIG, Core Ultra 9-285HX, 18" UHD+, RTX 5080, 64GB, 4TB SSD, црн, https://gjirafa50.mk/laptop-msi-raider-18-hx-ai-a2xwig-core-ultra-9-285hx-18-uhd-rtx-5080-64gb-4tb-ssd-i-zi
+60290, Лаптоп Cyborg 15 A13VE-1067XPL, 15" 144 Hz, i7-13620H, 16GB RAM, 512GB SSD, Nvidia RTX 4050, https://gjirafa50.mk/laptop-cyborg-15-a13ve-1067xpl-15-144-hz-i7-13620h-16gb-ram-512gb-ssd-nvidia-rtx-4050
+127990, Лаптоп Asus ROG Strix G16 G615, 16", Intel Core Ultra 7 255HX, 16GB RAM, 1TB SSD, NVIDIA GeForce RTX 5070 Ti, црн, https://gjirafa50.mk/laptop-asus-rog-strix-g16-g615-16-intel-core-ultra-7-255hx-16gb-ram-1tb-ssd-nvidia-geforce-rtx-5070-ti-i-zi
+211190, Лаптоп MSI Vector A18 HX, 18", AMD Ryzen 9 9955HX, 32GB RAM, 2TB SSD, NVIDIA GeForce RTX 5080, 16GB GDDR7, темно сива боја, https://gjirafa50.mk/laptop-msi-vector-a18-hx-18-amd-ryzen-9-9955hx-32gb-ram-2tb-ssd-nvidia-geforce-rtx-5080-16gb-gddr7-i-hirte-erret
+125890, Лаптоп MSI Crosshair 18 HX AI A2XWFKG, 18", Intel Core Ultra 9 275HX, 32GB RAM, 2TB SSD, NVIDIA RTX 5060, црн, https://gjirafa50.mk/laptop-msi-crosshair-18-hx-ai-a2xwfkg-18-intel-core-ultra-9-275hx-32gb-ram-2tb-ssd-nvidia-rtx-5060-i-zi
+122990, Laptop MSI Katana 17 HX B14WGK-025CZ 17", Core i9-14900HX, RTX 5070 8 GB, 32 GB RAM, 1 TB SSD, црн, https://gjirafa50.mk/laptop-msi-katana-17-hx-b14wgk-025cz-17-core-i9-14900hx-rtx-5070-8-gb-32-gb-ram-1-tb-ssd-i-zi
+299190, Laptop MSI Raider A18 HX A9WJG-067CZ, 18", Ryzen 9 9955HX3D, 64GB RAM, 2TB SSD, црн, https://gjirafa50.mk/laptop-msi-raider-a18-hx-a9wjg-067cz-18-ryzen-9-9955hx3d-64gb-ram-2tb-ssd-i-zi
+127690, Лаптоп HP OMEN Slim 16-an0002nc, 16", Intel Core Ultra 9 процесор, 32GB RAM, 2TB SSD, NVIDIA GeForce RTX 5070, црн, https://gjirafa50.mk/laptop-hp-omen-slim-16-an0002nc-16-intel-core-ultra-9-32gb-ram-2tb-ssd-nvidia-geforce-rtx-5070-i-zi
+193390, Лаптоп Asus ROG Strix G16 G614, 16", AMD Ryzen 9 9955HX3D, 32GB RAM, 1TB SSD, NVIDIA GeForce RTX 5070 Ti, црн, https://gjirafa50.mk/laptop-asus-rog-strix-g16-g61416-amd-ryzen-9-9955hx3d-32gb-ram-1tb-ssd-nvidia-geforce-rtx-5070-ti-i-zi
+96990, Лаптоп MSI Katana 15 HX B14WGK-821XPL, 15.6", Intel Core i7-14650HX, 16GB RAM, 1TB SSD, NVIDIA GeForce RTX 5070, црн, https://gjirafa50.mk/laptop-msi-katana-15-hx-b14wgk-821xpl-156-intel-core-i7-14650hx-16gb-ram-1tb-ssd-nvidia-geforce-rtx-5070-i-zi
+85590, Лаптоп ASUS TUF Gaming F16 FX608JH-I5165W, 16", Intel Core i5-13450HX, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 5050 8GB, темно сива, https://gjirafa50.mk/laptop-asus-tuf-gaming-f16-fx608jh-i5165w-16-intel-core-i5-13450hx-16gb-ram-512gb-ssd-nvidia-geforce-rtx-5050-8gb-i-hirte-erret
+56690, Laptop ACER Nitro V 15 ANV15-41, Ryzen 5-6600H, 15.6" FHD, RTX 3050, 16GB, 1TB SSD, црн, https://gjirafa50.mk/laptop-acer-nitro-v-15-anv15-41-ryzen-5-6600h-156-fhd-rtx-3050-16gb-1tb-ssd-i-zi
+No more to show.
+SCRAPE_DONE
+[2026-03-14 16:05:50] Running TheGjirafaHScraper.py (attempt 1/1)
+[2026-03-14 16:06:10] SUCCESS: TheGjirafaHScraper.py
+[2026-03-14 16:06:10] Output: No more to show.
+SCRAPE_DONE
+[2026-03-14 16:06:10] Running TheGjirafaSScraper.py (attempt 1/1)
+[2026-03-14 16:06:29] SUCCESS: TheGjirafaSScraper.py
+[2026-03-14 16:06:29] Output: No more to show.
+SCRAPE_DONE
+[2026-03-14 16:06:29] Running TheHivetecScraper.py (attempt 1/1)
+[2026-03-14 16:06:44] SUCCESS: TheHivetecScraper.py
+[2026-03-14 16:06:44] Output: No banner!
+An error occurred: Message: Unable to locate element: /html/body/div[2]/div/div/div/div/div/section[2]/div/div[2]/div/section/div/div[2]/div/div[2]/div/div/a[4]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:555:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+SCRAPE_DONE
+[2026-03-14 16:06:44] Running TheItMkScraper.py (attempt 1/1)
+[2026-03-14 16:07:10] SUCCESS: TheItMkScraper.py
+[2026-03-14 16:07:10] Output: 30790, Notebook 15.6″ Dell Dc15250 Intel Core I5-1334u/ 16gb Ddr4 (1x16gb 2666mhz)/ 512gb Ssd M.2 Nvme/ Intel Uhd Graphics/ 120hz Anti-Glare Fullhd Led Display/ Backlit Kb, https://it.mk/product/notebook-15-6-dell-dc15250-intel-core-i5-1334u-16gb-ddr4-1x16gb-2666mhz-512gb-ssd-m-2-nvme-intel-uhd-graphics-120hz-anti-glare-fullhd-led-display-backlit-kb/
+23650, Notebook 15.6″ Dell Dc15250 Intel Core I3-100u/ 8gb Ddr4/ 512gb Ssd M.2/ Iris Xe Graphics/ 120hz Anti-Glare Led Display/ Backlit Kb/ Carbon Black/ Ubuntu, https://it.mk/product/notebook-15-6-dell-dc15250-intel-core-i3-100u-8gb-ddr4-512gb-ssd-m-2-iris-xe-graphics-120hz-anti-glare-led-display-backlit-kb-carbon-black-ubuntu/
+43990, Notebook 16″ Dell Pro 16 Intel Core 5 120u/16gb Ram Ddr5 5600mhz/ 512 Gb Ssd M.2 Nvme/Fullhd+ (16:10) Ips/Bt/Backlit Kb/Thunderbolt 4/Rj45/Pc16250, https://it.mk/product/notebook-16-dell-pro-16-intel-core-5-120u-16gb-ram-ddr5-5600mhz-512-gb-ssd-m-2-nvme-fullhd-16-10-ips-bt-backlit-kb-thunderbolt-4-rj45-pc16250/
+98980, Notebook 16″ Dell Alienware 16 Aurora Intel Core C7 240h /16gb Ram Ddr5 5600mhz/ 1tb Ssd M.2 Nvme/Rtx4050 6gb/ Wqxga(2560×1600) 120hz 300 Nits / Wi-Fi7+Bt5.4, Aw White Kb/ Win 11 Home/ Interstellar Indigo, https://it.mk/product/notebook-16-dell-alienware-16-aurora-intel-core-c7-240h-16gb-ram-ddr5-5600mhz-1tb-ssd-m-2-nvme-rtx4050-6gb-wqxga-2560x1600-120hz-300-nits-wi-fi7-bt5-4-aw-white-kb-win-11-home-interstellar-indigo/
+2730, Docking Station Type-C 9 In1, Hdmi / Vga / 3 X Usb 3.1 Gen 1 / 1xtype-C (Pd 100w)/ Gblanrj45 / Microsd/Sd Reader/ 3.5mm/ Gray/ Sotako St-C0901, https://it.mk/product/docking-station-type-c-9-in1-hdmi-vga-3-x-usb-3-1-gen-1-1xtype-c-pd-100w-gblanrj45-microsd-sd-reader-3-5mm-gray-sotako-st-c0901/
+1590, Docking Station Type-C 6 In1, Hdmi / Usb 3.0 / Vga/ Type-C Pd Max 60w/ Gigabit Lan / 3.5mm/ Sd/Microsd Card Reader/Cablexpert/ Space Gray/ A-Cm-Combo6-01, https://it.mk/product/docking-station-type-c-6-in1-hdmi-usb-3-0-vga-type-c-pd-max-60w-gigabit-lan-3-5mm-sd-microsd-card-reader-cablexpert-space-gray-a-cm-combo6-01/
+40950, Notebook 14″ Dell Pro14 Intel Core 5 120u/8gb Ram Ddr5 5600mhz/ 512 Gb Ssd M.2 Nvme/Fullhd+ (16:10) Ips/Bt/Backlit Kb/Thunderbolt 4/Rj45/Pc14250, https://it.mk/product/notebook-14-dell-pro14-intel-core-5-120u-8gb-ram-ddr5-5600mhz-512-gb-ssd-m-2-nvme-fullhd-16-10-ips-bt-backlit-kb-thunderbolt-4-rj45-pc14250/
+54490, Notebook 14″ Dell Pro Plus 14 Intel Ultra 5 235u Vpro/16gb Ram Ddr5 5600mhz/ 512 Gb Ssd M.2 Nvme 2230/Fullhd+ (16:10) Ips/Bt/Backlit Kb/Thunderbolt 4/Rj45/Pb14250, https://it.mk/product/notebook-14-dell-pro-plus-14-intel-ultra-5-235u-vpro-16gb-ram-ddr5-5600mhz-512-gb-ssd-m-2-nvme-2230-fullhd-16-10-ips-bt-backlit-kb-thunderbolt-4-rj45-pb14250/
+1420, Nb Stand Secomp Pillow Lapdesk (Tablet And Laptop) Max 14″, Silver, https://it.mk/product/nb-stand-secomp-pillow-lapdesk-tablet-and-laptop-max-14-silver/
+60790, Notebook 16″ Dell Pro 16 Intel Core 7 150u/16gb Ram Ddr5 5600mhz/ 512 Gb Ssd M.2 Nvme/Fullhd+ (16:10) Ips/Bt/Backlit Kb/Thunderbolt 4/Rj45/Pc16250, https://it.mk/product/notebook-16-dell-pro-16-intel-core-7-150u-16gb-ram-ddr5-5600mhz-512-gb-ssd-m-2-nvme-fullhd-16-10-ips-bt-backlit-kb-thunderbolt-4-rj45-pc16250/
+67090, Notebook 16″ Dell Pro 16 Plus Pb16250, Ultra 7 265u/16gb Ram (1x 16) 5600 Mhz Ddr5/ 512gb Ssd M.2 Nvme/ /Cam+Mic,Bt/Backlit Kb /Fingerprint Reader, https://it.mk/product/notebook-16-dell-pro-16-plus-pb16250-ultra-7-265u-16gb-ram-1x-16-5600-mhz-ddr5-512gb-ssd-m-2-nvme-cam-mic-bt-backlit-kb-fingerprint-reader/
+3020, Docking Station Boomerang Jud481 Hdmi / Vga / 2 X Usb3.0 / Lan, Audio/Mic 3.5mm, Jud481, https://it.mk/product/docking-station-boomerang-jud481-hdmi-vga-2-x-usb3-0-lan-audio-mic-3-5mm-jud481/
+25720, Notebook 15.6″ Dell Dc15250 Intel Core I3-100u/ 16gb Ddr4/ 512gb Ssd M.2/ Iris Xe Graphics/ 120hz Anti-Glare Led Display/ Backlit Kb/ Carbon Black/ Ubuntu, https://it.mk/product/notebook-15-6-dell-dc15250-intel-core-i3-100u-16gb-ddr4-512gb-ssd-m-2-iris-xe-graphics-120hz-anti-glare-led-display-backlit-kb-carbon-black-ubuntu/
+1500, Nb Adapter Universal Hama 45w, 5-20v, Usb-C /Thunderbolt, 200005, https://it.mk/product/nb-adapter-universal-hama-45w-5-20v-usb-c-thunderbolt-200005/
+1320, Nb Adapter Universal Hama Eco 3000 (7 Connectors), 36w, 3000mah, 137336, https://it.mk/product/nb-adapter-universal-hama-eco-3000-7-connectors-36w-3000mah-137336/
+1370, Nb Stand Hama Aluminium (Folding, Up To 40 Cm) 15.4″ Silver, 126811, https://it.mk/product/nb-stand-hama-aluminium-folding-up-to-40-cm-15-4-silver-126811/
+1260, Nb Stand Digitus Mls 10″-15″ Foldable 5 Levels, Da-90368, https://it.mk/product/nb-stand-digitus-mls-10-15-foldable-5-levels-da-90368/
+1110, Notebook Stand Cooler Kolink Kl-N200 15.6″, 2x 140mm Fans, Blue Led, Usb, Black, https://it.mk/product/notebook-stand-cooler-kolink-kl-n200-15-6-2x-140mm-fans-blue-led-usb-black/
+840, Coolers Notebook Hama Slim 13-15.6″, 53067, https://it.mk/product/coolers-notebook-hama-slim-13-15-6-53067/
+No more pages to scrape.
+SCRAPE_DONE
+[2026-03-14 16:07:10] Running TheLaptopiMkScraper.py (attempt 1/1)
+[2026-03-14 16:08:10] TIMEOUT: TheLaptopiMkScraper.py exceeded 1 minutes. Killing process...
+[2026-03-14 16:08:15] FAILED: TheLaptopiMkScraper.py failed after 1 attempts
+[2026-03-14 16:08:15] Running TheNeptunScraper.py (attempt 1/1)
+[2026-03-14 16:08:37] SUCCESS: TheNeptunScraper.py
+[2026-03-14 16:08:37] Output: An error occurred: Message: Unable to locate element: //*[@id="affix2"]/div/div[1]/div[2]/select; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:555:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+SCRAPE_DONE
+[2026-03-14 16:08:37] Running TheSetecScraper.py (attempt 1/1)
+[2026-03-14 16:08:52] SUCCESS: TheSetecScraper.py
+[2026-03-14 16:08:52] Output: An error occurred: Message: Unable to locate element: //*[@id="mfilter-content-container"]/div[2]/div[2]/div[2]/div/select; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:555:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+SCRAPE_DONE
+[2026-03-14 16:08:52] Running TheTehnomarketScraper.py (attempt 1/1)
+[2026-03-14 16:09:15] SUCCESS: TheTehnomarketScraper.py
+[2026-03-14 16:09:15] Output: 16999, LENOVO NOTEBOOK IdeaPad 1 N4500/8GB/512GB/15.6" FHD/USB-C/Cloud Grey, https://tehnomarket.com.mk/product/29402893/lenovo-notebook-ideapad-1-n45008gb512gb156-fhdusb-ccloud-grey
+20999, Notebook Acer Aspire Lite AL15-32P N4500/8GB/256GB/15.6" FHD IPS/No OS, https://tehnomarket.com.mk/product/29404051/notebook-acer-aspire-lite-al15-32p-n45008gb256gb156-fhd-ipsno-os
+23999, Notebook Lenovo IdeaPad Slim 3 Ryzen 5 7520U/16GB/512GB/15.6" FHD/USB-, https://tehnomarket.com.mk/product/29403996/notebook-lenovo-ideapad-slim-3-ryzen-5-7520u16gb512gb156-fhdusb-c
+23999, Notebook Lenovo V15 Business G4 Ryzen 3 7320U/16GB/512GB/15.6" FHD/USB, https://tehnomarket.com.mk/product/29404233/notebook-lenovo-v15-business-g4-ryzen-3-7320u16gb512gb156-fhdusb-cblack
+25999, Notebook HP 255 G10 Ryzen 5 7530U/16GB/512GB/15.6" FHD IPS/No OS, https://tehnomarket.com.mk/product/29403928/notebook-hp-255-g10-ryzen-5-7530u16gb512gb156-fhd-ipsno-os
+25999, Notebook Dell 15 i5-1334U/8GB/512GB/15.6" FHD 120Hz/BacklitKB, https://tehnomarket.com.mk/product/29404010/notebook-dell-15-i5-1334u8gb512gb156-fhd-120hzbacklitkb
+25999, Notebook Asus VivoBook 14 X1404VA i5-1334U/12GB/256GB/14" FHD IPS/BT/W, https://tehnomarket.com.mk/product/29404375/notebook-asus-vivobook-14-x1404va-i5-1334u12gb256gb14-fhd-ipsbtwin11blue
+26999, Notebook Dell Vostro 3530 i5-1334U 16GB/512GB/IntelUHD/15.6"FHD120Hz/B, https://tehnomarket.com.mk/product/29402442/notebook-dell-vostro-3530-i5-1334u-16gb512gbinteluhd156fhd120hzblkb3cell
+26999, Notebook Acer Aspire Lite AL16-52P i5-1334U/16GB/512GB/16" FHD IPS/No, https://tehnomarket.com.mk/product/29403505/notebook-acer-aspire-lite-al16-52p-i5-1334u16gb512gb16-fhd-ipsno-os
+26999, Notebook Dell 15 i5-1334U/16GB/512GB/15.6" FHD 120Hz/BacklitKB, https://tehnomarket.com.mk/product/29403780/notebook-dell-15-i5-1334u16gb512gb156-fhd-120hzbacklitkb
+26999, Notebook HP 250 G10 Intel Core 5 120U/8GB/512GB/15.6" FullHD/USB-C/DOS, https://tehnomarket.com.mk/product/29404011/notebook-hp-250-g10-intel-core-5-120u8gb512gb156-fullhdusb-cdos
+27999, Notebook Lenovo IdeaPad Slim 3 i5-12450H 16GB/512GB SSD/15.6" FHD/DOS/, https://tehnomarket.com.mk/product/29401556/notebook-lenovo-ideapad-slim-3-i5-12450h-16gb512gb-ssd156-fhddosultraslimgray
+28499, Notebook Acer Aspire 3 Ryzen 7 7730U/16GB/512GB SSD/15.6" FHD IPS/Back, https://tehnomarket.com.mk/product/29404036/notebook-acer-aspire-3-ryzen-7-7730u16gb512gb-ssd156-fhd-ipsbacklit-kbdos
+28999, Notebook Lenovo IdeaPad Slim 3 i5-13420H 16GB/512GB SSD/15.3" WUXGA IP, https://tehnomarket.com.mk/product/29402444/notebook-lenovo-ideapad-slim-3-i5-13420h-16gb512gb-ssd153-wuxga-ipsno-os
+28999, Notebook HP 15 i5-1334U/16GB/512GB/15.6" FHD IPS/Iris XE/Type-C/FreeDO, https://tehnomarket.com.mk/product/29403785/notebook-hp-15-i5-1334u16gb512gb156-fhd-ipsiris-xetype-cfreedos
+28999, Notebook HP 250 G10 Intel Core 5 120U/16GB/512GB/15.6" FullHD/USB-C/DO, https://tehnomarket.com.mk/product/29403929/notebook-hp-250-g10-intel-core-5-120u16gb512gb156-fullhdusb-cdos
+29999, Notebook Lenovo V15 Business G4 i5-13420H/16GB/512GB/15.6" FHD IPS/USB, https://tehnomarket.com.mk/product/29402725/notebook-lenovo-v15-business-g4-i5-13420h16gb512gb156-fhd-ipsusb-cgigalan
+29999, Notebook Lenovo V15 Business G4 Ryzen 7 7730U/16GB/512GB/15.6" FHD IPS, https://tehnomarket.com.mk/product/29403786/notebook-lenovo-v15-business-g4-ryzen-7-7730u16gb512gb156-fhd-ipsrj-45black
+29999, Notebook HP 255R G10 Ryzen 7 7735U/16GB/512GB/15.6" FHD IPS/USB-C/Dark, https://tehnomarket.com.mk/product/29404300/notebook-hp-255r-g10-ryzen-7-7735u16gb512gb156-fhd-ipsusb-cdark-silver
+29999, Notebook HP 255 G10 Ryzen 7 7730U/16GB/512GB/15.6" FHD IPS/BacklitKb/D, https://tehnomarket.com.mk/product/29404035/notebook-hp-255-g10-ryzen-7-7730u16gb512gb156-fhd-ipsbacklitkbdark-ash-silver
+31999, Notebook Lenovo IdeaPad Slim 3 Ryzen7 7730U 16GB/512GB/16" WUXGA IPS/N, https://tehnomarket.com.mk/product/29402445/notebook-lenovo-ideapad-slim-3-ryzen7-7730u-16gb512gb16-wuxga-ipsno-os
+34999, Notebook Lenovo IdeaPad Slim 3 i7-13620H/16GB/512GB/15.3" FHD IPS/USB-, https://tehnomarket.com.mk/product/29404323/notebook-lenovo-ideapad-slim-3-i7-13620h16gb512gb153-fhd-ipsusb-cluna-grey
+35999, Notebook Dell 15 i7-1355U/16GB/512GB/15.6" FHD 120Hz/BacklitKB/FreeDOS, https://tehnomarket.com.mk/product/29403784/notebook-dell-15-i7-1355u16gb512gb156-fhd-120hzbacklitkbfreedos
+40999, Notebook MSI Thin 15 Gaming i5-13420H/16GB/512GB/RTX3050 4GB/15.6" FHD, https://tehnomarket.com.mk/product/29404301/notebook-msi-thin-15-gaming-i5-13420h16gb512gbrtx3050-4gb156-fhd-144hzbacklit-kbwin11
+40999, Notebook Dell Inspiron 5441 Snapdragon X Plus X1P-42-100/16GB/1TB/14", https://tehnomarket.com.mk/product/29404430/notebook-dell-inspiron-5441-snapdragon-x-plus-x1p-42-10016gb1tb14-wuxga-ipswin11
+41999, Apple MB NEO 13: SILVER/A18 PRO 6C CPU/5C GPU/8GB/256GB-ZEE, https://tehnomarket.com.mk/product/29404736/apple-mb-neo-13-silvera18-pro-6c-cpu5c-gpu8gb256gb-zee
+41999, Apple MB NEO 13: BLUSH/A18 PRO 6C CPU/5C GPU/8GB/256GB-ZEE, https://tehnomarket.com.mk/product/29404737/apple-mb-neo-13-blusha18-pro-6c-cpu5c-gpu8gb256gb-zee
+41999, Apple MB NEO 13: INDIGO/A18 PRO 6C CPU/5C GPU/8GB/256GB-ZEE, https://tehnomarket.com.mk/product/29404738/apple-mb-neo-13-indigoa18-pro-6c-cpu5c-gpu8gb256gb-zee
+41999, Apple MB NEO 13: CITRUS/A18 PRO 6C CPU/5C GPU/8GB/256GB-ZEE, https://tehnomarket.com.mk/product/29404739/apple-mb-neo-13-citrusa18-pro-6c-cpu5c-gpu8gb256gb-zee
+44999, Notebook Dell Vostro 3520 i7-1255U 16GB/512GB/Intel Iris XE/15.6" FHD, https://tehnomarket.com.mk/product/29399440/notebook-dell-vostro-3520-i7-1255u-16gb512gbintel-iris-xe156-fhd-120hzbacklitkb4cellubuntu
+46999, Notebook MSI Thin 15 Gaming i5-13420H/16GB/512GB SSD/RTX 4050 6GB/15.6, https://tehnomarket.com.mk/product/29404322/notebook-msi-thin-15-gaming-i5-13420h16gb512gb-ssdrtx-4050-6gb156-fhd-144hzbacklit-kbwin11
+48999, Notebook Gigabyte A16 Gaming i5-13420H/16GB/512GB SSD/RTX 4050 6GB/16., https://tehnomarket.com.mk/product/29404474/notebook-gigabyte-a16-gaming-i5-13420h16gb512gb-ssdrtx-4050-6gb160-fhd-165hz-ipstype-cdos
+62999, Notebook Lenovo LOQ Gaming Ryzen 5 220 AI/16GB/512GB/RTX 5050 8GB/15.6, https://tehnomarket.com.mk/product/29404053/notebook-lenovo-loq-gaming-ryzen-5-220-ai16gb512gbrtx-5050-8gb156-fhd-ips-g-sync
+65999, Notebook Gigabyte A16 Gaming i7-13620H/16GB/1TB SSD/RTX 5060 8GB/16.0", https://tehnomarket.com.mk/product/29404054/notebook-gigabyte-a16-gaming-i7-13620h16gb1tb-ssdrtx-5060-8gb160-fhd-165hz-ipstype-cdos
+73799, Apple MBA 13.6: STARLIGHT/M2/8C GPU/16GB/256GB-ZEE, https://tehnomarket.com.mk/product/29403166/apple-mba-136-starlightm28c-gpu16gb256gb-zee
+73999, Apple MBA 13.6: MIDNIGHT/M5 10C CPU/8C GPU/16GB/512GB-ZEE, https://tehnomarket.com.mk/product/29404726/apple-mba-136-midnightm5-10c-cpu8c-gpu16gb512gb-zee
+73999, Apple MBA 13.6: SKY BLUE/M5 10C CPU/8C GPU/16GB/512GB-ZEE, https://tehnomarket.com.mk/product/29404727/apple-mba-136-sky-bluem5-10c-cpu8c-gpu16gb512gb-zee
+73999, Apple MBA 13.6: STARLIGHT/M5 10C CPU/8C GPU/16GB/512GB-ZEE, https://tehnomarket.com.mk/product/29404725/apple-mba-136-starlightm5-10c-cpu8c-gpu16gb512gb-zee
+73999, Apple MBA 13.6: SILVER/M5 10C CPU/8C GPU/16GB/512GB-ZEE, https://tehnomarket.com.mk/product/29404724/apple-mba-136-silverm5-10c-cpu8c-gpu16gb512gb-zee
+75999, Apple MBA 13.6: MIDNIGHT/M4 10C CPU/8C GPU/16GB/256GB-ZEE, https://tehnomarket.com.mk/product/29402176/apple-mba-136-midnightm4-10c-cpu8c-gpu16gb256gb-zee
+75999, Apple MBA 13.6: STARLIGHT/M4 10C CPU/8C GPU/16GB/256GB-ZEE, https://tehnomarket.com.mk/product/29402253/apple-mba-136-starlightm4-10c-cpu8c-gpu16gb256gb-zee
+75999, Apple MBA 13.6: SILVER/M4 10C CPU/8C GPU/16GB/256GB-ZEE, https://tehnomarket.com.mk/product/29402254/apple-mba-136-silverm4-10c-cpu8c-gpu16gb256gb-zee
+78999, Notebook Gigabyte A18 Gaming Ryzen 7 260/16GB/1TB SSD/RTX 5060 8GB/18., https://tehnomarket.com.mk/product/29404382/notebook-gigabyte-a18-gaming-ryzen-7-26016gb1tb-ssdrtx-5060-8gb180-wqxga-165hz-ipsdos
+91999, Apple MBA 15.3: SKY BLUE/M5 10C CPU/10C GPU/16GB/512GB-ZEE, https://tehnomarket.com.mk/product/29404731/apple-mba-153-sky-bluem5-10c-cpu10c-gpu16gb512gb-zee
+91999, Apple MBA 15.3: STARLIGHT/M5 10C CPU/10C GPU/16GB/512GB-ZEE, https://tehnomarket.com.mk/product/29404729/apple-mba-153-starlightm5-10c-cpu10c-gpu16gb512gb-zee
+91999, Apple MBA 15.3: MIDNIGHT/M5 10C CPU/10C GPU/16GB/512GB-ZEE, https://tehnomarket.com.mk/product/29404730/apple-mba-153-midnightm5-10c-cpu10c-gpu16gb512gb-zee
+91999, Apple MBA 15.3: SILVER/M5 10C CPU/10C GPU/16GB/512GB-ZEE, https://tehnomarket.com.mk/product/29404728/apple-mba-153-silverm5-10c-cpu10c-gpu16gb512gb-zee
+92999, Notebook Dell Alienware Core 7 240H/32GB/1TB SSD/RTX 5060 8GB/16.0" WQ, https://tehnomarket.com.mk/product/29404587/notebook-dell-alienware-core-7-240h32gb1tb-ssdrtx-5060-8gb160-wqxga-120hz-ipswin11
+93999, Apple MBA 15.3: MIDNIGHT/M4 10C CPU/10C GPU/16GB/256GB-ZEE, https://tehnomarket.com.mk/product/29403134/apple-mba-153-midnightm4-10c-cpu10c-gpu16gb256gb-zee
+93999, Apple MBA 15.3: SILVER/M4 10C CPU/10C GPU/16GB/256GB-ZEE, https://tehnomarket.com.mk/product/29403135/apple-mba-153-silverm4-10c-cpu10c-gpu16gb256gb-zee
+105999, Apple MBP 14: Silver /M5 10C/10C GPU/16GB/512GB-ZEE, https://tehnomarket.com.mk/product/29403659/apple-mbp-14-silver-m5-10c10c-gpu16gb512gb-zee
+105999, Apple MBP 14: Space Black /M5 10C/10C GPU/16GB/512GB-ZEE, https://tehnomarket.com.mk/product/29403658/apple-mbp-14-space-black-m5-10c10c-gpu16gb512gb-zee
+109499, Apple MBA 15.3: MIDNIGHT/M4 10C CPU/10C GPU/16GB/512GB-ZEE, https://tehnomarket.com.mk/product/29403132/apple-mba-153-midnightm4-10c-cpu10c-gpu16gb512gb-zee
+118999, Apple Macbook Air 13.6" Space Grey/M2/10C GPU/8GB/512GB-ZEE, https://tehnomarket.com.mk/product/29395678/apple-macbook-air-136-space-greym210c-gpu8gb512gb-zee
+121090, Apple Macbook Pro 14" SILVER/M3 8C/10C GPU/8GB/512GB-ZEE, https://tehnomarket.com.mk/product/29399276/apple-macbook-pro-14-silverm3-8c10c-gpu8gb512gb-zee
+138999, Apple MBP 14: SILVER/M5 10C/10C GPU/24GB/1TB-ZEE, https://tehnomarket.com.mk/product/29404367/apple-mbp-14-silverm5-10c10c-gpu24gb1tb-zee
+147699, Apple MBP 14: SPACE BLACK/M4 Pro 12C/16C GPU/24GB/512G-ZEE, https://tehnomarket.com.mk/product/29401694/apple-mbp-14-space-blackm4-pro-12c16c-gpu24gb512g-zee
+151999, Apple MBP 14: SILVER/M5 PRO 15C CPU/15C/16C GPU/24GB/1T-ZEE, https://tehnomarket.com.mk/product/29404732/apple-mbp-14-silverm5-pro-15c-cpu15c16c-gpu24gb1t-zee
+151999, Apple MBP 14: SPACE BLACK/M5 PRO 15C CPU/15C/16C GPU/24GB/1T-ZEE, https://tehnomarket.com.mk/product/29404733/apple-mbp-14-space-blackm5-pro-15c-cpu15c16c-gpu24gb1t-zee
+176999, Apple MBP 16: SPACE BLACK/M4 Pro 14C/20C GPU/24GB/512G-ZEE, https://tehnomarket.com.mk/product/29401567/apple-mbp-16-space-blackm4-pro-14c20c-gpu24gb512g-zee
+176999, Apple MBP 16: SILVER/M4 Pro 14C/20C GPU/24GB/512G-ZEE, https://tehnomarket.com.mk/product/29401695/apple-mbp-16-silverm4-pro-14c20c-gpu24gb512g-zee
+181999, Apple MBP 16: SILVER/M5 PRO 18C CPU/18C/20C GPU/24GB/1T-ZEE, https://tehnomarket.com.mk/product/29404734/apple-mbp-16-silverm5-pro-18c-cpu18c20c-gpu24gb1t-zee
+181999, Apple MBP 16: SPACE BLACK/M5 PRO 18C CPU/18C/20C GPU/24GB/1T-ZEE, https://tehnomarket.com.mk/product/29404735/apple-mbp-16-space-blackm5-pro-18c-cpu18c20c-gpu24gb1t-zee
+199999, Notebook MSI Vector 16 HX AI Ultra 9 275HX/64GB/1TB SSD/RTX 5080 16GB/, https://tehnomarket.com.mk/product/29404236/notebook-msi-vector-16-hx-ai-ultra-9-275hx64gb1tb-ssdrtx-5080-16gbrgb-kb
+No more pages to scrape.
+SCRAPE_DONE
+[2026-03-14 16:09:15] Running TheTelekomScraper.py (attempt 1/1)
+[2026-03-14 16:09:34] SUCCESS: TheTelekomScraper.py
+[2026-03-14 16:09:34] Output: An error occurred: Message: Unable to locate element: //*[@id="phone-list"]/div[1]/div/div/div/div[5]/span/a; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:555:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+SCRAPE_DONE
+[2026-03-14 16:09:34] ===== RUN SUMMARY =====
+[2026-03-14 16:09:34] Total scrapers run: 15
+[2026-03-14 16:09:34] Succeeded: 12
+[2026-03-14 16:09:34] Failed: 3
+[2026-03-14 16:09:34] Successful scrapers:
+[2026-03-14 16:09:34]   - TheA1Scraper.py
+[2026-03-14 16:09:34]   - TheAnanasScraper.py
+[2026-03-14 16:09:34]   - TheAnhochScraper.py
+[2026-03-14 16:09:34]   - TheGjirafaGScraper.py
+[2026-03-14 16:09:34]   - TheGjirafaHScraper.py
+[2026-03-14 16:09:34]   - TheGjirafaSScraper.py
+[2026-03-14 16:09:34]   - TheHivetecScraper.py
+[2026-03-14 16:09:34]   - TheItMkScraper.py
+[2026-03-14 16:09:34]   - TheNeptunScraper.py
+[2026-03-14 16:09:34]   - TheSetecScraper.py
+[2026-03-14 16:09:34]   - TheTehnomarketScraper.py
+[2026-03-14 16:09:34]   - TheTelekomScraper.py
+[2026-03-14 16:09:34] Failed scrapers:
+[2026-03-14 16:09:34]   - TheDDStoreScraper.py
+[2026-03-14 16:09:34]   - TheGjirafaBScraper.py
+[2026-03-14 16:09:34]   - TheLaptopiMkScraper.py
+[2026-03-14 16:09:34] Scanning JSON output files
+[2026-03-14 16:09:34] JSON files found: 13 / 15
+[2026-03-14 16:09:34] JSON files with empty arrays:
+[2026-03-14 16:09:34]   - a1.json
+[2026-03-14 16:09:34]   - ananas.json
+[2026-03-14 16:09:34]   - gjirafaB.json
+[2026-03-14 16:09:34]   - gjirafaH.json
+[2026-03-14 16:09:34]   - gjirafaS.json
+[2026-03-14 16:09:34]   - hivetec.json
+[2026-03-14 16:09:34]   - neptun.json
+[2026-03-14 16:09:34]   - setec.json
+[2026-03-14 16:09:34]   - telekom.json
+[2026-03-14 16:09:34] Reclassified scrapers as FAILED due to empty output:
+[2026-03-14 16:09:34]   - TheA1Scraper.py
+[2026-03-14 16:09:34]   - TheAnanasScraper.py
+[2026-03-14 16:09:34]   - TheGjirafaBScraper.py
+[2026-03-14 16:09:34]   - TheGjirafaHScraper.py
+[2026-03-14 16:09:34]   - TheGjirafaSScraper.py
+[2026-03-14 16:09:34]   - TheHivetecScraper.py
+[2026-03-14 16:09:34]   - TheNeptunScraper.py
+[2026-03-14 16:09:34]   - TheSetecScraper.py
+[2026-03-14 16:09:34]   - TheTelekomScraper.py
+[2026-03-14 16:09:34] Metadata written to snapshot-2026-03-14_16-09-34.json
+[2026-03-14 16:09:34] ===== SCRAPER RUN FINISHED =====
