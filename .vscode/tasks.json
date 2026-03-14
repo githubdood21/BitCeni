@@ -1,0 +1,63 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Angular: Serve",
+      "type": "shell",
+      "command": "npm",
+      "args": ["run", "start"],
+      "options": {
+        "cwd": "${workspaceFolder}\\bitceni.Client"
+      },
+      "isBackground": true,
+      "problemMatcher": {
+        "owner": "angular",
+        "pattern": [
+          {
+            "regexp": "^(.*):(\\d+):(.*)$",
+            "file": 1,
+            "line": 2,
+            "message": 3
+          }
+        ],
+        "background": {
+          "activeOnStart": true,
+          "beginsPattern": ".*",
+          "endsPattern": "Application bundle generation complete|Watch mode enabled|Local:\\s+http://localhost:4200/|Compiled successfully|Compiled with warnings|Failed to compile"
+        }
+      },
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared"
+      }
+    },
+    {
+      "label": "Django: Wait for Port",
+      "type": "shell",
+      "command": "powershell",
+      "args": [
+        "-Command",
+        "Start-Process powershell -ArgumentList '-NoProfile','-WindowStyle','Hidden','-Command','while (-not (Test-NetConnection 127.0.0.1 -Port 8000).TcpTestSucceeded) { Start-Sleep -Milliseconds 300 }'"
+      ],
+      "presentation": {
+        "reveal": "never"
+      }
+    },
+    {
+      "label": "Angular: Serve + Wait for Django",
+      "dependsOn": ["Angular: Serve", "Django: Wait for Port"]
+    },
+    {
+      "label": "Angular: Stop",
+      "type": "shell",
+      "command": "powershell",
+      "args": [
+        "-Command",
+        "$p = Get-NetTCPConnection -LocalPort 4200 -State Listen -ErrorAction SilentlyContinue | Select-Object -First 1 -ExpandProperty OwningProcess; if ($p) { Stop-Process -Id $p -Force }"
+      ],
+      "presentation": {
+        "reveal": "never"
+      }
+    }
+  ]
+}
